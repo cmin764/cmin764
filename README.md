@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Cosmin Poieana
 
-## 🚀 *Engineer at Core | Entrepreneur at Heart*
+## 🚀 *Engineer at core | Entrepreneur at heart*
 
 Passionate about building scalable **SaaS backends**, designing efficient APIs, and architecting **automation solutions** for startups.  
 I thrive at the intersection of technology, leadership and creativity. A digital nomad with a knack for Python, building **MVPs** for agile companies and their enterprise customers, blending technical expertise with business acumen.
