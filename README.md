@@ -33,7 +33,7 @@ I thrive at the intersection of technology, leadership and creativity. A digital
 
 ### Editors
 
-- PyCharm, VSCode, Atom, Vim
+- PyCharm, VSCode, Vim
 
 ---
 
