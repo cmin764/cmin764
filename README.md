@@ -2,8 +2,10 @@
 
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
-Passionate about building scalable **SaaS backends**, designing efficient APIs, and architecting **automation solutions** for startups.  
-I thrive at the intersection of technology, leadership and creativity. A digital nomad with a knack for Python, building **MVPs** for agile companies and their enterprise customers, blending technical expertise with business acumen.
+Passionate about building AI-driven **automation solutions**, scalable **SaaS backends**, and designing efficient APIs that empower businesses to focus more on creativity and less on bureaucracy.  
+I thrive at the intersection of technology, leadership, and ethical AI innovation. A digital nomad with 17+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
+
+🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
 🤝 *[Work with me](https://tally.so/r/w4vQ6X)*
 
@@ -11,10 +13,16 @@ I thrive at the intersection of technology, leadership and creativity. A digital
 
 ## 🔧 Preferred stack
 
+### AI & Automation
+
+- LLM/GPT integration, Robot Framework, RPA libraries
+- Async programming, OCR, intelligent document processing
+
 ### Backend
 
 - **Core**: Python (FastAPI/Flask, SQLModel)
 - **Secondary**: Go, TypeScript (Node.js, Express.js/NestJS, Prisma), C/C++
+- **Communication**: REST, gRPC, WebSocket, GraphQL
 
 ### Frontend
 
@@ -23,16 +31,18 @@ I thrive at the intersection of technology, leadership and creativity. A digital
 
 ### Databases
 
-- PostgreSQL, Redis, MongoDB
+- PostgreSQL
+- Redis, MongoDB, ElasticSearch
 
-### DevOps
+### DevOps & Cloud
 
-- Docker[ Compose], Swarm/Kubernetes (Helm), Terraform
-- Google Cloud, Heroku
-- GitHub Actions (CI/CD)
+- Docker, Compose, Swarm/Kubernetes (Helm), GitHub Actions (CI/CD), ArgoCD
+- AWS, Google Cloud (App Engine, Firestore, Functions), Heroku, Vercel
+- OpenTelemetry, Prometheus, Grafana (Loki, Tempo)
 
 ### Editors
 
+- Cursor
 - PyCharm, VSCode, Vim
 
 ---
