@@ -48,6 +48,7 @@ I thrive at the intersection of technology, leadership and creativity. A digital
 
 ## 📌 Hobby projects
 
+- **[Portfolio](https://github.com/stars/cmin764/lists/portfolio)** - collection of various hobby projects showcasing technical abilities
 - **[DeepIce](https://github.com/cmin764/deep-ice)** - idiomatic Python web development template with async FastAPI
 - **[TrueStory](https://github.com/savvybit)** - incentivize critical thinking in the polarized space of news ([deck](https://slides.com/cmin/truestory-venturecup) | [blog](https://cosminslife.wordpress.com/2020/08/16/truestory-app-or-how-i-learned-to-stop-worrying-and-love-the-process/))
 
