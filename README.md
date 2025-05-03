@@ -16,13 +16,13 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 ### AI & Automation
 
 - LLM/GPT integration, Robot Framework, RPA libraries
-- Async programming, OCR, intelligent document processing
+- Web/desktop automation, OCR, intelligent document processing
 
 ### Backend
 
 - **Core**: Python (FastAPI/Flask, SQLModel)
 - **Secondary**: Go, TypeScript (Node.js, Express.js/NestJS, Prisma), C/C++
-- **Communication**: REST, gRPC, WebSocket, GraphQL
+- **Communication**: REST, WebSocket, GraphQL, gRPC, Rabbit|ZeroMQ, Kafka
 
 ### Frontend
 
@@ -31,19 +31,19 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ### Databases
 
-- PostgreSQL
+- PostgreSQL, MySQL
 - Redis, MongoDB, ElasticSearch
 
 ### DevOps & Cloud
 
-- Docker, Compose, Swarm/Kubernetes (Helm), GitHub Actions (CI/CD), ArgoCD
-- AWS, Google Cloud (App Engine, Firestore, Functions), Heroku, Vercel
+- Docker, Compose/Swarm, Kubernetes (Helm), Terraform, ArgoCD
+- AWS, GCP (App Engine, Functions, Firestore), Heroku, Vercel
 - OpenTelemetry, Prometheus, Grafana (Loki, Tempo)
 
 ### Editors
 
-- Cursor
-- PyCharm, VSCode, Vim
+- Cursor, PyCharm
+- VSCode, Vim
 
 ---
 
