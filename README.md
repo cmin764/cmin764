@@ -3,7 +3,7 @@
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
 Passionate about building AI-driven **automation solutions**, scalable **SaaS backends**, and designing efficient APIs that empower businesses to focus more on creativity and less on bureaucracy.  
-I thrive at the intersection of technology, leadership, and ethical AI innovation. A digital nomad with 17+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
+I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) with 17+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
@@ -72,5 +72,5 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://bit.ly/cmin764)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://bit.ly/cmin764)** | **[Nomads](https://nomads.com/@cmin764)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
