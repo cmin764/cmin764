@@ -107,6 +107,42 @@
 - **14 Jan - 12 Feb**: 🇹🇭 Thailand
 - **28 Dec - 14 Jan**: 🇮🇳 India
 
+## 2022
+
+### December
+- **19 Dec - 28 Dec**: 🇦🇪 UAE
+- **8 Nov - 19 Dec**: 🇷🇴 Romania
+
+### November
+- **31 Oct - 8 Nov**: 🇲🇻 Maldives
+
+### October
+- **21 Oct - 31 Oct**: 🇷🇴 Romania
+- **26 Sep - 21 Oct**: 🇬🇷 Greece
+
+### September
+- **21 Aug - 26 Sep**: 🇷🇴 Romania
+
+### August
+- **20 Jul - 21 Aug**: 🇮🇹 Italy
+
+### July
+- **7 Jun - 20 Jul**: 🇷🇴 Romania
+
+### May
+- **15 May - 7 Jun**: 🇫🇮 Finland
+- **16 Apr - 15 May**: 🇷🇴 Romania
+
+### April
+- **16 Mar - 16 Apr**: 🇵🇹 Portugal
+
+### February
+- **27 Jan - 16 Mar**: 🇪🇸 Spain
+
+### January
+- **4 Jan - 27 Jan**: 🇷🇴 Romania
+- **28 Dec - 4 Jan**: 🇹🇿 Zanzibar
+
 ----
 
 <br/>
