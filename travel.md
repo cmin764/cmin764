@@ -32,7 +32,7 @@
 - **15 Aug - 16 Aug**: 🇦🇪 UAE
 - **6 Aug - 15 Aug**: 🇲🇻 Maldives
 
-### July
+### June-July
 - **12 Jul - 6 Aug**: 🇱🇰 Sri Lanka
 - **9 Jul - 12 Jul**: 🇦🇪 UAE
 - **26 May - 9 Jul**: 🇷🇴 Romania
@@ -62,19 +62,19 @@
 ### December
 - **6 Dec - 18 Dec**: 🇷🇴 Romania
 - **5 Dec - 6 Dec**: 🇦🇪 UAE
-- **12 Nov - 5 Dec**: 🇲🇻 Maldives
 
 ### November
+- **12 Nov - 5 Dec**: 🇲🇻 Maldives
 - **11 Nov - 12 Nov**: 🇦🇪 UAE
-- **10 Oct - 11 Nov**: 🇷🇴 Romania
 
 ### October
+- **10 Oct - 11 Nov**: 🇷🇴 Romania
 - **7 Oct - 10 Oct**: 🇮🇹 Italy
 - **4 Oct - 7 Oct**: 🇫🇮 Finland
 - **3 Oct - 4 Oct**: 🇮🇹 Italy
-- **28 Sep - 3 Oct**: 🇷🇴 Romania
 
 ### September
+- **28 Sep - 3 Oct**: 🇷🇴 Romania
 - **21 Sep - 28 Sep**: 🇬🇷 Greece
 - **13 Aug - 21 Sep**: 🇷🇴 Romania
 
@@ -109,7 +109,7 @@
 
 ## 2022
 
-### December
+### November-December
 - **19 Dec - 28 Dec**: 🇦🇪 UAE
 - **8 Nov - 19 Dec**: 🇷🇴 Romania
 
@@ -136,12 +136,37 @@
 ### April
 - **16 Mar - 16 Apr**: 🇵🇹 Portugal
 
-### February
+### February-March
 - **27 Jan - 16 Mar**: 🇪🇸 Spain
 
 ### January
 - **4 Jan - 27 Jan**: 🇷🇴 Romania
 - **28 Dec - 4 Jan**: 🇹🇿 Zanzibar
+
+## 2021
+
+### December
+- **11 Dec - 28 Dec**: 🇷🇴 Romania
+- **30 Oct - 11 Dec**: 🇮🇹 Italy
+
+### October
+- **15 Oct - 30 Oct**: 🇷🇴 Romania
+- **8 Oct - 15 Oct**: 🇫🇮 Finland
+
+### September
+- **11 Sep - 8 Oct**: 🇷🇴 Romania
+- **18 Aug - 11 Sep**: 🇫🇷 France
+
+### August
+- **3 Aug - 18 Aug**: 🇪🇸 Spain
+
+### April-July
+- **30 Apr - 3 Aug**: 🇷🇴 Romania
+- **23 Apr - 30 Apr**: 🇹🇷 Turkey
+
+### January-April
+- **3 Jan - 23 Apr**: 🇷🇴 Romania
+- **27 Dec - 3 Jan**: 🇪🇬 Egypt
 
 ----
 
