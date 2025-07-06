@@ -40,10 +40,19 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 - AWS, GCP (App Engine, Functions, Firestore), Heroku, Vercel
 - OpenTelemetry, Prometheus, Grafana (Loki, Tempo)
 
-### Editors
+### Tools
 
-- Cursor, PyCharm
-- VSCode, Vim
+| Category | Ideal | Acceptable | Avoiding |
+|----------|-------|------------|----------|
+| **Code Editors** | Cursor/Windsurf & Claude Code | PyCharm, VSCode, Vim | Notepad[++] |
+| **Documentation** | Markdown | Text | reStructuredText |
+| **Version Control** | GitHub | GitLab | Bitbucket |
+| **Knowledge Base** | Notion | Coda | Confluence |
+| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | Draw.io |
+| **Project Management** | Linear | ClickUp, Asana | Trello, Jira |
+| **Team Communication** | Twist | Discord | Slack |
+| **Video Communication** | Loom | Google Meet, Zoom | Microsoft Teams |
+| **HR & Culture** | Deel, Culture Amp | Remote, Personio, Brex | Freshteam, 15Five |
 
 ---
 
@@ -72,5 +81,5 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://bit.ly/cmin764)** | **[Nomads](https://nomads.com/@cmin764)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Nomads](https://nomads.com/@cmin764)** | **[CV](https://bit.ly/cmin764)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
