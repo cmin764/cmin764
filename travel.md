@@ -2,6 +2,15 @@
 
 ## 2025
 
+### September-October
+- **9 Sep - 25 Oct**: 🇷🇴 Romania
+
+### August
+- **26 Jul - 9 Sep**: 🇮🇹 Italy
+
+### June-July
+- **4 Jun - 26 Jul**: 🇷🇴 Romania
+
 ### February-May
 - **2 Feb - 4 Jun**: 🇨🇾 Cyprus
 
