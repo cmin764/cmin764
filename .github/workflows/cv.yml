@@ -17,6 +17,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Update timestamp
+        run: |
+          DATE=$(date +'%d %b %Y')
+          sed -i "s/Updated on [0-9]\{1,2\} [A-Za-z]\{3\} [0-9]\{4\}/Updated on $DATE/" cv.md
+
       - name: Build PDF
         uses: docker://pandoc/extra:latest
         with:

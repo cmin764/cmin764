@@ -264,6 +264,12 @@ I was born in Romania (Focsani, Vrancea) on 26th of April 1993 and since childho
 
 My passion for this language began in 2007 and still continues today, where the first 6 non-professional years of activity had the same impact on me in terms of learning, discovering and accomplishments as the rest of the professional ones had. Despite all of these, my fulfilment is that I was not giving up on my social life, sports and healthy lifestyle, with a focus on overcoming my area of comfort every time I could.
 
+### Volunteer
+
+- IT&Science Caravan: Teaching C programming to students (2011)
+- RoPython: BDFL, organizing conferences and workshops (2014 - 2016)
+- Rogentos: Python development for Anaconda installer (2012 - 2016)
+
 ### Distinctions
 
 - Level I, II, III **Robocorp** Certifications (2021-2022)
@@ -297,10 +303,4 @@ My passion for this language began in 2007 and still continues today, where the 
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-### Volunteer
-
-- IT&Science Caravan: Teaching C programming to students (2011)
-- RoPython: BDFL, organizing conferences and workshops (2014 - 2016)
-- Rogentos: Python development for Anaconda installer (2012 - 2016)
-
-> *Updated on 26 Nov 2024* ([latest version](https://drive.google.com/file/d/0B2s9IgyoN1LRQ05TZTF5TXQ3bWM/view?usp=sharing&resourcekey=0-FgD7MVTSQOPplxpyNSJqrA))
+> *Updated on 16 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
