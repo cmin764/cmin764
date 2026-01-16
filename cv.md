@@ -10,7 +10,23 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 ## I. Experience
 
-1. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Remote: Nov 2024 - Present
+1. *Owner* @ **[Wandercode](https://wandercode.com/)**, Hong Kong (Remote): Feb 2025 - Present
+
+    Fractional AI Product Engineer helping B2B startups build intelligent products — from strategy to production. Results as a Service: no hours billed, only outcomes delivered.
+
+    - Embedding into client teams as a technical co-pilot, increasing engineering velocity through AI-assisted development.
+    - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
+    - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
+    - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
+
+    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance requirements demand systematic approaches. Strong open-source background. Developed Blugen, a proprietary blueprint-first code generation methodology enabling confidence-driven development.
+
+    Clients:
+
+    - **[A5 Labs](https://a5labs.co/)** (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
+    - **[VONQ](https://www.vonq.com/)** (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation — full-stack with Python/Django and React.
+
+2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Remote: Nov 2024 - Present
 
     A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
 
@@ -20,7 +36,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Handling the legal side including contracts, referral agreements, and member vetting system. Establishing internal culture, documenting workflows, defining interview standards, and onboarding new referral job providers. Also contributing with tax guidance and optimization strategies for digital nomads.
 
-2. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
+3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
     As a cohesive team of 5 Python engineers, we established the foundation of running AI Actions through OpenGPT-powered Agents. At the core of the framework, there's a server built over FastAPI capable of discovering packages exposing actions to be run locally in isolation. The "meat" of these actions is pure Python logic which operates over both internal and external resources.
 
@@ -32,7 +48,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Managed to interview and hire some of the best fits at that time, while assembling a subteam focusing around Python development and CI/CD best practices for package releasing. Experienced growth on the management side by diminishing friction, nurture autonomy and keeping the roadmap in sync with the volatile nature of the product. This was a full rebrand of myself aligning with the acquisition of Robocorp by Sema4AI.
 
-3. *Senior Software Engineer* @ **Robocorp**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
+4. *Senior Software Engineer* @ **Robocorp**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
     Giving everyone the opportunity to harness the power of open-source automation through a set of developer tools and Python libraries making it easy to grasp.
 
@@ -43,7 +59,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Suffered a powerful seniority upgrade & consolidation by improving my RPA skills, alongside communication, prioritization, impact and empathy. Focusing on the essential with an attention to detail is key. Blended into the company culture and transformed its core values into virtues.
 
-4. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
+5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
     At Gorgias everything is going fast and based on data. You need to stay agile while getting quickly to "no" when facing decisions that will impact the project long-term. Finding your focus and holding the line on multiple fronts is an art, one that wins you a partner or a client over the competition. And the main vision here is to become no. 1 on Shopify while helping as many people as possible through our e-commerce helpdesk.
 
@@ -53,7 +69,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Thought I met the culture, processes and transparency I was looking for, but everyone's no. 1 focus was just the customer impact & support.
 
-5. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
+6. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
 
     As a leader in smart buildings, this new IoTs unicorn is giving me the opportunity to lead by example in a startup vibe environment, by taking technical and team crucial decisions. My mission here is to help Comfy innovate the way we move and feel at work. Some of our partners automated through us square kilometers of campuses.
 
@@ -65,7 +81,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Seen from start to finish how it feels to be acquired by a big corporation and merged with multi-timezone/culture teams.
 
-6. *Back End Developer* @ **ArcanaBio**, Iceland: April 2018 - April 2019 (1 year 1 month)
+7. *Back End Developer* @ **ArcanaBio**, Iceland: April 2018 - April 2019 (1 year 1 month)
 
     Under this new startup emerged from TeqHire, I'm walking along the adventurous road of risks and uncertainty of accurately detecting organisms in samples. Together with its CEO, we've glued and kept aligned a family of team players, from whom I learned to take responsibilities, communicate better and face the client with success.
 
@@ -74,7 +90,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Pivoted from full-time dev to part-time lead, managing brainstorms, tasks, planning and documentation.
 
-7. *Software Engineer* @ **Fashwell**, Switzerland: August 2018 - November 2018 (4 months)
+8. *Software Engineer* @ **Fashwell**, Switzerland: August 2018 - November 2018 (4 months)
 
     Helping the ML team on leveraging our main vision: image detection of fashion apparel and furniture in milliseconds. On a daily basis I'm planning, developing and deploying new features and components for the API services and current infrastructure. Mainly improving Python web apps with Kubernetes running in Google Cloud.
 
@@ -84,7 +100,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Increased service reliability by properly controlling clients' API requests, while fixing bugs & coupling on the authentication side. Improved my knowledge and skills together with a wonderful team.
 
-8. *Python DevOps* @ **TeqHire**, Iceland: October 2016 - April 2018 (1 year 7 months)
+9. *Python DevOps* @ **TeqHire**, Iceland: October 2016 - April 2018 (1 year 7 months)
 
     Here I am the one-man army. While had the chance to also work in small teams, I developed a strong professional relationship with the Co-Founders, thing which led me to a whole new set of responsibilities and trust, under which I propose, set and manage tasks on my own, then research, develop, test, deploy, maintain and document features that accomplish business' needs.
 
@@ -95,7 +111,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Built connections with some of the brightest minds around the globe and got in touch with role model entrepreneurs and CEOs.
 
-9. *Full Stack Developer* @ **47FARMS**, USA: March 2016 - October 2016 (8 months)
+10. *Full Stack Developer* @ **47FARMS**, USA: March 2016 - October 2016 (8 months)
 
     Alongside the most altruistic entrepreneur in Princeton, I'm on a mission to enable access to local and healthier food for all communities by harnessing technology innovation to build local and regional food systems. We revolutionize the food and groceries buying system by successfully implementing restaurant, school and hospital programs through which people can buy and eat healthy food from their local producers.
 
@@ -106,7 +122,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Qualified for a pitch regarding the mission above at the Wolves Summit conference and obtained consistent grants from the state, while learning some key aspects about business in general and why diplomacy and discipline always win.
 
-10. *Operational Researcher* @ **Reckon Digital**, UK: January 2016 - February 2016 (2 months)
+11. *Operational Researcher* @ **Reckon Digital**, UK: January 2016 - February 2016 (2 months)
 
     I'm taking General Electric to the next level by working on a back-end service used to automatically schedule wind power plants tests. Moving and testing massive engines from one workbench to another is an expensive job, therefore we cut the costs by digitally scheduling the entire process.
 
@@ -114,7 +130,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Made my first steps into Django web framework and strengthened my DevOps skills with the Fabric deployment tool.
 
-11. *Cloud Engineer* @ **Cloudbase Solutions**, Romania: October 2014 - December 2015 (1 year 3 months)
+12. *Cloud Engineer* @ **Cloudbase Solutions**, Romania: October 2014 - December 2015 (1 year 3 months)
 
     We're joining forces with big clients like Microsoft and extending the OpenStack community by developing an open-source initialization service specially designed for Windows instances, called *cloudbase-init*. The pushed patches into open-source projects and focus on IaaS field are the side-tasks that spice-up the usual daily challenges.
 
@@ -124,7 +140,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Done my first international speech about the Argus framework at EuroPython and helped the company to establish a new team and office in Iasi city.
 
-12. *Malware Researcher* @ **Bitdefender**, Romania: February 2013 - September 2014 (1 year 8 months)
+13. *Malware Researcher* @ **Bitdefender**, Romania: February 2013 - September 2014 (1 year 8 months)
 
     I'm taking with honor the great responsibility of offering SaaS solutions for the no.1 antivirus company world-wide. Proudly being part of a large team, my main focus here is to meet our clients' needs by developing demanding and challenging projects regarding parallel data processing and NoSQL databases.
 
