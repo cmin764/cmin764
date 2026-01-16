@@ -1,0 +1,36 @@
+name: Build CV PDF
+
+on:
+  push:
+    branches: [main]
+    paths: [cv.md]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build PDF
+        uses: docker://pandoc/extra:latest
+        with:
+          args: cv.md -o cv.pdf --pdf-engine=xelatex
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cv
+          path: cv.pdf
+
+      - name: Prepare deploy folder
+        run: |
+          mkdir -p deploy
+          cp cv.pdf deploy/
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          publish_branch: gh-pages
