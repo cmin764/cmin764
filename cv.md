@@ -10,7 +10,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 ## I. Experience
 
-1. *Owner* @ **[Wandercode](https://wandercode.com/)**, Hong Kong (Remote): Feb 2025 - Present
+1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
 
     Fractional AI Product Engineer helping B2B startups build intelligent products — from strategy to production. Results as a Service: no hours billed, only outcomes delivered.
 
@@ -23,10 +23,10 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Clients:
 
-    - **[A5 Labs](https://a5labs.co/)** (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
     - **[VONQ](https://www.vonq.com/)** (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation — full-stack with Python/Django and React.
+    - **[A5 Labs](https://a5labs.co/)** (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
-2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Remote: Nov 2024 - Present
+2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Cyprus: Nov 2024 - Present
 
     A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
 
