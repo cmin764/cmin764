@@ -29,9 +29,34 @@ Four virtues guiding life and work:
 
 ---
 
-## Philosophy & Mantras
+## Philosophy & Inner Navigation
 
-### On Work
+### The Three-Layer Journey
+
+A personal framework inspired by Mesoamerican wisdom, representing the arc from foundation through transformation to infinite innovation:
+
+| Layer | Civilization | Principle | Application |
+|-------|--------------|-----------|-------------|
+| **Foundation** | Maya | First principles, mathematical thinking, breaking things apart to understand | Start with the essential need, expand only as necessary. Build from a point outward. |
+| **Transformation** | Inca | Synthesis, adaptation, free movement, reading the living landscape | The wisdom between structure and output. Adapt, integrate, connect disparate elements. |
+| **Innovation** | Aztec | Eternal return with variation, infinite scalability, transforming inherited knowledge | Each iteration is progression. Moving forward while appearing to cycle back. |
+
+### The Six Powers (Inca Constellation)
+
+A navigation system for different moments in life and work:
+
+| Symbol | Energy | When It Activates |
+|--------|--------|-------------------|
+| **Inti** (Sun) | Core creative fire, renewable energy, radiating from within | Early morning deep work. Creating value that regenerates daily (solar) vs. depleting resources (coal). Shining because it's your nature, not in response to anything. |
+| **Chakana** (Cosmic Cross) | Decision-making framework across three levels | Evaluating opportunities: Does it honor where I came from? Serve present needs? Build toward the vision? The void in its center is space for innovation between structure and chaos. |
+| **Condor** (Spiral Heart) | Elevated perspective, iterative wisdom, patience | Rising above challenges to see bigger patterns. Returning to problems at higher levels. Compound growth through patience, not frantic activity. |
+| **Mama Killa** (Moon) | Reflection, processing, transforming experience into wisdom | After intense sprints, pause and digest. The difference between earning money and building wealth. Evening connections that become lifelong relationships. |
+| **Mama Qucha** (Water) | Flow, adaptation, connecting distant shores | Finding ways around obstacles rather than forcing through. Smooth transitions between contexts. Adaptation is more powerful than resistance. |
+| **Pachamama** (Earth) | Grounding, abundance thinking, sustainable cultivation | Wealth is cultivated like a garden, not extracted. Staying rooted while moving. True wealth includes health, connections, experiences — not just bank balances. |
+
+### Operational Principles
+
+**On Work:**
 
 - "Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."
 - "There has to be a simple solution for this." (personal mantra)
@@ -42,18 +67,21 @@ Four virtues guiding life and work:
 - Effectiveness towards end consumer > efficiency metrics
 - Impact & results > hours worked
 - Quality > vanity metrics
+- Renewable value creation > extractive transactions
 
-### On Startups (from accelerator programs)
+**On Startups (from accelerator programs):**
 
 - Being a **firefighter** is impactful
 - Can't scale without remaining an **innovator**
 - Being a strong **communicator** is essential
 
-### On Self
+**On Self:**
 
 - "Smart geek with strong technical principles coming from a security-driven background"
 - Prefers risky but promising projects over steady-growth corporate life
 - "I can name a lot of geniuses way better than me at building apps and deploying APIs... but not sure how many can resist the pressure of a startup, adapt fast to change and carefully asking the 'why' more often than the 'how' and 'what'."
+- Radiating from core vs. reflecting others' energy
+- Carrying light, not seeking it — making the invisible visible, the complex simple, the tedious creative
 
 **Favorite quote:** "Do. Or do not. There is no try." — Yoda
 
@@ -268,6 +296,8 @@ Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (ent
 - Travel blogging
 - Smart banking and tax optimization
 - Nomadic lifestyle from budgeting perspective
+- Ancient civilizations and philosophy (Maya, Inca, Aztec)
+- Consciousness and AI ethics exploration (SOMA game as philosophical reference)
 
 ---
 
@@ -293,7 +323,7 @@ Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (ent
 | YouTube | https://youtube.com/cmin764 |
 | Wandercode | https://wandercode.ltd |
 | NoMoreApply | https://nomoreapply.org |
-| Calendly | https://calendly.com/cmin764/hire-me |
+| Calendly | https://calendly.com/cmin764/wandercode-discovery-call |
 | Alignment Form | https://tally.so/r/w4vQ6X |
 
 ---
@@ -302,13 +332,14 @@ Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (ent
 
 | Type | Pitch |
 |------|-------|
-| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment |
+| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment. 40+ countries while working full-time. |
 | **Linux/open-source** | Grew up with Ubuntu, Linux enthusiast since youth, Rogentos community |
-| **Consciousness/AI ethics** | Deep philosophical interest in consciousness transfer (SOMA game reference) |
-| **Automation/AI** | 3+ years at Robocorp/Sema4.ai, Siemens connection via Comfy |
-| **Fintech** | Interest in smart banking, tax optimization, nomadic budgeting |
+| **Consciousness/AI ethics** | Deep philosophical interest in consciousness transfer. "While everybody struggles to make intelligence more artificial, I'm wondering if we can make it more human." |
+| **Automation/AI** | 3+ years at Robocorp/Sema4.ai, Siemens connection via Comfy. Mission: freeing human creativity from tedious repetition. |
+| **Fintech** | Interest in smart banking, tax optimization, nomadic budgeting. Abundance thinking over scarcity. |
 | **Travel tech** | Travel addict, "next AirBnB for vans" as personal goal; exit track record |
 | **RPA** | Mission alignment on democratization — sweet-spot between control and complexity |
+| **Purpose-driven companies** | Work as vehicle for impact. Building bridges between ancient wisdom and future technology. |
 
 ---
 
