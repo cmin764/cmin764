@@ -7,7 +7,7 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
-🤝 *[Work with me](https://tally.so/r/w4vQ6X)*
+🤝 *[Work with me](https://wandercode.ltd/)*
 
 ---
 
@@ -81,5 +81,5 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Nomads](https://nomads.com/@cmin764)** | **[CV](https://bit.ly/cmin764)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Nomads](https://nomads.com/@cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
