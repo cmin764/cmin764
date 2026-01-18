@@ -3,7 +3,7 @@
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
 Passionate about building AI-driven **automation solutions**, scalable **SaaS backends**, and designing efficient APIs that empower businesses to focus more on creativity and less on bureaucracy.  
-I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) with 17+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
+I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) with 18+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
@@ -44,7 +44,7 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 | Category | Ideal | Acceptable | Avoiding |
 |----------|-------|------------|----------|
-| **Code Editors** | Cursor/Windsurf & Claude Code | PyCharm, VSCode, Vim | Notepad[++] |
+| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | Notepad[++] |
 | **Documentation** | Markdown | Text | reStructuredText |
 | **Version Control** | GitHub | GitLab | Bitbucket |
 | **Knowledge Base** | Notion | Coda | Confluence |
@@ -58,6 +58,8 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## ✨ Highlights
 
+- 🏢 **Owner** at **[Wandercode](https://wandercode.ltd)**: Fractional AI Product Engineer helping B2B startups build intelligent products.
+- 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.org)**: Private community for trusted engineers who skip the recruiter.
 - 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
 - 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.
 - 📱 Laid the foundations of a developer-focused App Store with OAuth2 support at **Gorgias**.
@@ -81,5 +83,6 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Nomads](https://nomads.com/@cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Medium](https://cmin764.medium.com)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
+- **[Wandercode](https://wandercode.ltd)** | **[NoMoreApply](https://nomoreapply.org)** | **[Calendly](https://calendly.com/cmin764/wandercode-discovery-call)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
