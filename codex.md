@@ -97,14 +97,46 @@ A navigation system for different moments in life and work:
 
 ---
 
+## Strategic Positioning
+
+> A fractional AI product strategist who happens to be a world-class Python engineer, running a distributed company structure that generates consulting revenue while building a community-driven talent business, with a long-term trajectory toward investment and IP licensing — all from wherever I happen to wake up.
+
+### Multi-Entity Architecture
+
+| Entity | Purpose |
+|--------|---------|
+| **Wandercode** | Premium consulting (1-2 clients, $100-300+/hr). Embedded in client teams but sovereign. |
+| **Driftware Dynamics** | Holds NoMoreApply, provides management services to Wandercode. Cyprus non-dom structure. |
+| **NoMoreApply** | Long game. Trust-based talent network. Revenue while sleeping. |
+
+**Core Insight:** Not building a career. Building an **asset portfolio** where each piece feeds the others.
+
+### The Operator → Allocator Transition
+
+Angel Squad (Hustle Fund) application signals repositioning from selling time to deploying judgment. From coding room to problem-definition room.
+
+### Geographic Arbitrage as Strategy
+
+The nomad pattern isn't lifestyle — it's proving: "I am the product, not my location." Cyprus 60-day rule, HK quarterly dividends, Airwallex/Wise/Revolut banking stack — optionality at every layer.
+
+### Blugen as Scalable IP
+
+Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable (workshops $15-250K), licensable, moat in client engagements. Selling outcomes, not hours.
+
+### The Positioning Gap
+
+> The companies interviewed me for engineering roles. What they should've hired me for is figuring out which engineering problems are worth solving in the first place.
+
+---
+
 ## Professional Timeline
 
 | Period | Role | Company | Location | Industry |
 |--------|------|---------|----------|----------|
-| Feb 2025 - Present | Owner | Wandercode Limited | Hong Kong | AI/Consulting |
+| Feb 2025 - Present | Owner | Wandercode | Hong Kong | AI/Consulting |
 | Nov 2024 - Present | Co-Founder | NoMoreApply | Cyprus | HR/Community |
 | Nov 2023 - Jul 2024 | Software Engineering Lead | Sema4.ai | USA (remote) | AI/Automation |
-| Sep 2021 - Jan 2024 | Senior Software Engineer → Lead | Robocorp | Finland (remote) | RPA/Automation |
+| Sep 2021 - Nov 2023 | Senior Software Engineer → Lead | Robocorp | Finland (remote) | RPA/Automation |
 | Jan 2021 - May 2021 | Senior Software Engineer | Gorgias | USA (remote) | E-commerce |
 | Jul 2019 - Dec 2020 | Tech Lead | Comfy | USA | IoT/Smart Buildings |
 | Apr 2018 - Apr 2019 | Back End Developer | ArcanaBio | Iceland | Biotech |
@@ -117,13 +149,13 @@ A navigation system for different moments in life and work:
 
 **Also mentioned:** iMedicare (health insurance recommendation)
 
-**Experience:** 18+ years with Python (since 2007), 12+ years professional (since 2013)
+**Experience:** 18+ years with Python (since 2007), 13+ years professional (since 2013)
 
 ---
 
 ## Current Engagements
 
-### Wandercode Limited (Owner)
+### Wandercode (Owner)
 
 - **Model:** Fractional AI Product Engineer — "Results as a Service" (outcomes, not hours)
 - **Focus:** B2B startups, intelligent products, strategy to production
@@ -133,13 +165,67 @@ A navigation system for different moments in life and work:
 
 **Active Clients:**
 
-- **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
 - **VONQ** (Jun 2025 - Present): Recruitment marketing platform with 5,000+ channels. Building agentic candidate assessments with Python/Django and React.
+- **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
 
 ### NoMoreApply (Co-Founder)
 
 - **Type:** Private engineer community for peer-based job referrals
 - **Role:** Legal side (contracts, referral agreements, vetting), internal culture, tax guidance for digital nomads
+- **Weekly cadence:** "NMA - Moving the needle" (Tuesdays with Angel Aytov, Cata Waack)
+- **Philosophy:** "Let's remember ourselves 'why' we are still doing this"
+
+---
+
+## Angel Investing
+
+- **Angel Squad** (Hustle Fund) — Interview + Tour with Wael Jabir (Dec 2025)
+- **Referral:** Brian Nichols
+- **Positioning:** "I've worked with startups over a decade, close to co-founders more like a founding engineer, set some money aside, and I may be able to get interested into fractional investing into promising teams after getting to know them and the problem they're solving."
+- **Trajectory:** Operator → Allocator transition
+
+---
+
+## Partnerships & Revenue Streams
+
+### Teeming.ai Partnership (Dec 2025)
+
+- **Structure:** Ambassador Partnership Agreement with NoMoreApply
+- **Key people:** Victor Sundén (Teeming.ai), Moh Mehrabani, Angel Aytov, Cata Waack
+- **Terms:** 50-50 split of placement fees (20% retained in business, 80% to referrer), non-exclusive
+
+---
+
+## Interview History 2024-2025
+
+Selective shopping, not desperate job seeking. Walking away from anything below leadership-level comp (€120k+) or value-based positioning.
+
+### 2024 Pipeline
+
+| Company | Role | Domain |
+|---------|------|--------|
+| Zencoder/For Good AI | Tech | AI |
+| Praktika | Senior Software Architect | AI language learning |
+| Unitary | Engineering Manager | Content moderation AI |
+| Clipboard Health | Engineering | Healthcare staffing |
+| Better Stack | Technical | Observability |
+| DeepOpinion/Otera.ai | BE Lead | Document processing AI |
+| Stripe | Backend Software Engineer | Financial infrastructure |
+| Tide | Backend Engineer | Digital banking |
+| Conscium | Technical | Consciousness transfer |
+| Taktile | Backend Software Engineer | Decision automation |
+| Andela | Python Engineer | Talent marketplace |
+
+### 2025 Pipeline
+
+| Company | Role | Domain |
+|---------|------|--------|
+| Cyberhaven/Linea AI | Backend Engineer | Data security |
+| Wincent | Technical | Algorithmic |
+| Cresta | Software Engineer | Contact center AI |
+| Siena.cx | Engineering | AI customer service |
+| VONQ | Technical | Recruitment marketing |
+| ZenML | Senior Software Engineer | MLOps platform |
 
 ---
 
@@ -148,7 +234,7 @@ A navigation system for different moments in life and work:
 | Company | Acquired By | Year |
 |---------|-------------|------|
 | Comfy | Siemens | ~2020 |
-| Fashwell | Major Valley company | ~2018 |
+| Fashwell | Apple | ~2018 |
 
 ---
 
@@ -156,13 +242,13 @@ A navigation system for different moments in life and work:
 
 ### Primary Stack
 
-- **Python** (18+ years): Flask, FastAPI, Django, asyncio
+- **Python** (18+ years): FastAPI, Flask, Django, asyncio, aiohttp, Pydantic, SQLAlchemy
 - **AI/LLM:** OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering, GPT integration
 - **Automation:** Robot Framework, RPA, Selenium, OCR, intelligent document processing
 
 ### Secondary Languages
 
-Go, TypeScript, C/C++, JavaScript
+Go, JavaScript/TypeScript, C/C++
 
 ### Frontend
 
@@ -170,7 +256,7 @@ React, Next.js, Tailwind CSS, Bootstrap, jQuery
 
 ### Backend
 
-Node.js, Express, gRPC, Protocol Buffers
+Node.js, Express, Nest, gRPC, Protocol Buffers
 
 ### Data
 
@@ -185,7 +271,7 @@ Node.js, Express, gRPC, Protocol Buffers
 
 ### AI Tooling
 
-Claude Code, MCP (Model Context Protocol), Cursor, GitHub Copilot
+Claude Code, MCP (Model Context Protocol), Cursor
 
 ### Domains
 
@@ -279,7 +365,7 @@ AI, RPA, LLM, Automation Engineering, Enterprise Software, SaaS, B2B, Dev Tools,
 ## Travel & Lifestyle
 
 - Digital nomad since 2018
-- 40+ countries visited with partner across Africa, Asia, Pacific, Europe (Americas next)
+- 40+ countries visited with partner across Africa, Asia, Pacific, Europe, Americas
 - Met business partners in person during travels
 - Worked remotely full-time while traveling aggressively since 2021
 
@@ -287,11 +373,15 @@ AI, RPA, LLM, Automation Engineering, Enterprise Software, SaaS, B2B, Dev Tools,
 
 Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (entrepreneurs), UK (remote), Finland (remote), Hong Kong (business), Cyprus (business)
 
+### South America Route (Nov 2025 - Jan 2026)
+
+Machu Picchu → Cusco → Santiago → Punta Arenas → Puerto Natales → El Calafate → Buenos Aires → Colonia del Sacramento (Uruguay)
+
 ---
 
 ## Hobbies & Interests
 
-- DSLR photography
+- Photography, Videography
 - Self-development books
 - Travel blogging
 - Smart banking and tax optimization
@@ -305,6 +395,7 @@ Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (ent
 
 | Source | Range |
 |--------|-------|
+| Consultancy | 100 EUR/USD per hour (whichever is higher) |
 | Andela | $8,000 - $12,000/month |
 | Web3 Jobs | $126,000/year, $70/hour |
 
