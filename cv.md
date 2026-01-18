@@ -41,12 +41,12 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     As a cohesive team of 5 Python engineers, we established the foundation of running AI Actions through OpenGPT-powered Agents. At the core of the framework, there's a server built over FastAPI capable of discovering packages exposing actions to be run locally in isolation. The "meat" of these actions is pure Python logic which operates over both internal and external resources.
 
     - Bridged the product with the engineering side by managing a Linear project dealing with the creation of pre-made actions, wrapping services like Google, Slack, HubSpot and operating on local documents.
-    - Written technical documents helping with issue scoping and designed the OAuth2 flow affecting our products.
+    - Wrote technical documents helping with issue scoping and designed the OAuth2 flow affecting our products.
     - Improved the DX of library work and its migration from RPA to native Python automation.
     - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
     - Held talks about our development tools and Python automation to wider external audiences.
 
-    Managed to interview and hire some of the best fits at that time, while assembling a subteam focusing around Python development and CI/CD best practices for package releasing. Experienced growth on the management side by diminishing friction, nurture autonomy and keeping the roadmap in sync with the volatile nature of the product. This was a full rebrand of myself aligning with the acquisition of Robocorp by Sema4AI.
+    Interviewed and hired some of the best fits at that time, while assembling a subteam focusing on Python development and CI/CD best practices for package releasing. Experienced growth on the management side by diminishing friction, nurture autonomy and keeping the roadmap in sync with the volatile nature of the product. This was a full rebrand of myself aligning with the acquisition of Robocorp by Sema4AI.
 
 4. *Senior Software Engineer* @ **Robocorp**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
@@ -57,7 +57,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - Contributed to a public gallery of use-case driven examples employing our tools.
     - Fully committed in customer support threads and calls in order to understand and fix what burns the most, thus ensuring our company's growth and success.
 
-    Suffered a powerful seniority upgrade & consolidation by improving my RPA skills, alongside communication, prioritization, impact and empathy. Focusing on the essential with an attention to detail is key. Blended into the company culture and transformed its core values into virtues.
+    Experienced a significant seniority upgrade & consolidation by improving my RPA skills, alongside communication, prioritization, impact and empathy. Focusing on the essential with an attention to detail is key. Blended into the company culture and transformed its core values into virtues.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
@@ -167,9 +167,10 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 ## III. Knowledge
 
-1. **Python** 2/3, 17+ years, on Mac/Linux/Windows involving:
+1. **Python** 2/3, 18+ years (13+ professional), on Mac/Linux/Windows involving:
 
     - AI-driven automation for the enterprise
+    - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
     - RPA with Robot Framework for the end user
     - web services and APIs with frameworks & concepts like:
         - FastAPI (Pydantic, OpenAPI, OIDC)
@@ -221,6 +222,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku
     - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
     - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
+    - AI Tooling: Claude Code, MCP (Model Context Protocol), Cursor
 
 ## IV. Bragging Rights
 
@@ -303,4 +305,4 @@ My passion for this language began in 2007 and still continues today, where the 
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 16 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 18 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
