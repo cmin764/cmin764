@@ -83,7 +83,7 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[GitHub](https://github.com/cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
-- **[Wandercode](https://wandercode.ltd)** | **[NoMoreApply](https://nomoreapply.org)** | **[Align](https://tally.so/r/w4vQ6X)** | **[Calendly](https://calendly.com/cmin764/wandercode-discovery-call)**
-- **[Medium](https://cmin764.medium.com)** | **[YouTube](https://youtube.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)** | **[Nomads](https://nomads.com/@cmin764)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
+- **[Alignment](https://tally.so/r/w4vQ6X)** | **[Calendly](https://calendly.com/cmin764/wandercode-discovery-call)**
+- **[Nomads](https://nomads.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)** | **[Medium](https://cmin764.medium.com)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
