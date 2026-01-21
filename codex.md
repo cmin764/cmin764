@@ -75,6 +75,13 @@ A navigation system for different moments in life and work:
 - Can't scale without remaining an **innovator**
 - Being a strong **communicator** is essential
 
+**On Leadership:**
+
+- **Mandate vs. lead by example** — The sweet spot lies between "my way or the highway" and endless voting that never reaches agreement. Brainstorm, offer options, but be the leader who draws the line and sets the path forward.
+- **No responsibility without authority** — I don't take responsibility for outcomes I can't influence. Otherwise I'm just your scapegoat on a sinking ship.
+- **Hire me to tell you what to do, not the other way around** — If you need someone to execute orders, that's not me. Hire experts for their judgment.
+- **If you hire me to just code, I'm sorry, that's for Claude Code** — Pure execution is commoditized. I bring strategic value, not keystrokes.
+
 **On Self:**
 
 - "Smart geek with strong technical principles coming from a security-driven background"
@@ -364,30 +371,58 @@ AI, RPA, LLM, Automation Engineering, Enterprise Software, SaaS, B2B, Dev Tools,
 
 ## Travel & Lifestyle
 
-- Digital nomad since 2018
-- 40+ countries visited with partner across Africa, Asia, Pacific, Europe, Americas
-- Met business partners in person during travels
-- Worked remotely full-time while traveling aggressively since 2021
+Digital nomad since 2018. **45+ countries** across Africa, Asia-Pacific, Europe, Middle East, and the Americas — all while working remotely full-time since 2021.
 
-### Countries Lived/Worked
+### Regional Highlights
 
-Romania (base), USA (few months), Switzerland (Zurich, few months), Iceland (entrepreneurs), UK (remote), Finland (remote), Hong Kong (business), Cyprus (business)
+- **Africa Safari Circuit (2024):** Kenya → Tanzania/Zanzibar → Zambia → Namibia → South Africa → Mauritius → Seychelles
+- **Asia-Pacific Loop (2023):** India → Thailand → Malaysia → Singapore → Philippines → Japan → Indonesia → Fiji → New Zealand
+- **South America (2025-2026):** Peru (Machu Picchu/Cusco) → Chile (Santiago, Patagonia) → Argentina (El Calafate, Buenos Aires) → Uruguay
 
-### South America Route (Nov 2025 - Jan 2026)
+### Base Pattern
 
-Machu Picchu → Cusco → Santiago → Punta Arenas → Puerto Natales → El Calafate → Buenos Aires → Colonia del Sacramento (Uruguay)
+Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zurich), Iceland, UK, Finland, Hong Kong.
+
+### Island Specialist
+
+Maldives (3x), Fiji, Seychelles, Mauritius, Sri Lanka, Zanzibar — drawn to tropical destinations for deep work and recharge.
+
+Travel log: [Nomads](https://nomads.com/@cmin764) — *"Avid couple traveler looking for adventure at every step. Embracing cultural differences while seeking human connection."*
 
 ---
 
-## Hobbies & Interests
+## Creative & Personal Pursuits
 
-- Photography, Videography
-- Self-development books
-- Travel blogging
-- Smart banking and tax optimization
-- Nomadic lifestyle from budgeting perspective
+### Photography & Videography
+
+- **Photography:** Documentary-style travel and lifestyle — capturing moments "as they are"
+  - Instagram: [@asitisphotos](https://instagram.com/asitisphotos)
+- **Videography:** Travel films and destination stories
+  - Instagram: [@cmin764](https://instagram.com/cmin764)
+  - YouTube: [@cmin764](https://youtube.com/@cmin764) — Exotic tropical islands and adventure destinations
+
+### Reading
+
+40+ books read with focus on self-development, business strategy, and philosophy.
+
+**Favorites:** The 7 Habits of Highly Effective People, The Alchemist, Power of Now, The 80/20 Principle, The Old Man and the Sea
+
+**Genres:** Self-help, Business, Art, Fiction, Adventure, Travel
+
+Reading profile: [Goodreads](https://goodreads.com/user/show/84378981-cosmin-poiean)
+
+### Writing
+
+Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
+
+- Blog: [Medium](https://cmin764.medium.com)
+- Personal: [Cosmin's Life](https://cosminslife.wordpress.com)
+
+### Other Interests
+
+- Smart banking and tax optimization for nomads
 - Ancient civilizations and philosophy (Maya, Inca, Aztec)
-- Consciousness and AI ethics exploration (SOMA game as philosophical reference)
+- Consciousness and AI ethics (SOMA game as philosophical reference)
 
 ---
 
@@ -411,7 +446,10 @@ Machu Picchu → Cusco → Santiago → Punta Arenas → Puerto Natales → El C
 | Blog | https://cosminslife.wordpress.com |
 | Twitter | https://twitter.com/cmin764 |
 | Instagram | https://instagram.com/cmin764 |
-| YouTube | https://youtube.com/cmin764 |
+| Photography | https://instagram.com/asitisphotos |
+| YouTube | https://youtube.com/@cmin764 |
+| Nomads | https://nomads.com/@cmin764 |
+| Goodreads | https://goodreads.com/user/show/84378981-cosmin-poiean |
 | Wandercode | https://wandercode.ltd |
 | NoMoreApply | https://nomoreapply.org |
 | Calendly | https://calendly.com/cmin764/wandercode-discovery-call |
@@ -423,7 +461,7 @@ Machu Picchu → Cusco → Santiago → Punta Arenas → Puerto Natales → El C
 
 | Type | Pitch |
 |------|-------|
-| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment. 40+ countries while working full-time. |
+| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment. 45+ countries while working full-time. |
 | **Linux/open-source** | Grew up with Ubuntu, Linux enthusiast since youth, Rogentos community |
 | **Consciousness/AI ethics** | Deep philosophical interest in consciousness transfer. "While everybody struggles to make intelligence more artificial, I'm wondering if we can make it more human." |
 | **Automation/AI** | 3+ years at Robocorp/Sema4.ai, Siemens connection via Comfy. Mission: freeing human creativity from tedious repetition. |
