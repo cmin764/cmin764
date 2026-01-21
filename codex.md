@@ -384,6 +384,14 @@ Digital nomad since 2018. **50+ countries** across Africa, Asia-Pacific, Europe,
 
 Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zurich), Iceland, UK, Finland, Hong Kong.
 
+### Nomad's Nest (Cyprus Airbnb)
+
+Co-launched with partner — a fully equipped apartment in Ayia Napa, Cyprus for fellow digital nomads and remote workers. 10 minutes to city center, 20 minutes to beaches.
+
+- **Website:** [nomadsnest.live](https://www.nomadsnest.live/)
+- **Contact:** book@nomadsnest.live
+- **Social:** [@nomadsnest.live](https://instagram.com/nomadsnest.live)
+
 ### Island Specialist
 
 Maldives (3x), Fiji, Seychelles, Mauritius, Sri Lanka, Zanzibar — drawn to tropical destinations for deep work and recharge.
@@ -411,6 +419,26 @@ Travel log: [Nomads](https://nomads.com/@cmin764) — *"Avid couple traveler loo
 **Genres:** Self-help, Business, Art, Fiction, Adventure, Travel
 
 Reading profile: [Goodreads](https://goodreads.com/user/show/84378981-cosmin-poiean)
+
+### Film
+
+Drawn to psychologically dense, philosophically rich storytelling — films that wrestle with moral ambiguity, existential questions, and the tension between individual freedom and institutional conformity.
+
+**10/10 Films:** The Shawshank Redemption, Interstellar, Chernobyl, Oppenheimer, The Green Mile, Se7en, Schindler's List, One Flew Over the Cuckoo's Nest, The Martian, It's a Wonderful Life, The Social Network, Gran Torino, Soul, Stalker, True Detective, Zootopia, Changeling, Easy Rider, Loving Vincent, Sleuth, Capra cu trei iezi
+
+**Genres:** Psychological thriller, Sci-fi with philosophical depth, Historical drama, Existential/arthouse
+
+**Recurring Themes:**
+
+- **Truth over comfort** — Chernobyl, Changeling, True Detective. Stories where hiding the truth creates catastrophe, and speaking it costs everything.
+- **Perseverance against overwhelming odds** — Shawshank, The Martian, Changeling. Patience and resourcefulness outweigh raw power.
+- **First principles problem-solving** — Interstellar, The Martian, Oppenheimer. Breaking down impossible problems to fundamentals.
+- **Individual vs. institution** — One Flew Over the Cuckoo's Nest, Easy Rider, Changeling. Systems crush; individuals resist.
+- **Moral complexity over binary good/evil** — True Detective, Se7en, Oppenheimer. Characters operating in shades of gray.
+- **One person rippling outward** — Schindler's List, It's a Wonderful Life, Gran Torino. Impact isn't about scale; it's about depth.
+- **Purpose beyond achievement** — Soul, Stalker. The difference between chasing goals and actually living.
+
+Film profile: [IMDb](https://imdb.com/user/ur12555989)
 
 ### Writing
 

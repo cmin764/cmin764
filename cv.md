@@ -19,7 +19,7 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
     - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance requirements demand systematic approaches. Strong open-source background. Developed Blugen, a proprietary blueprint-first code generation methodology enabling confidence-driven development.
+    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance requirements demand systematic approaches. Solid open-source background. Developed Blugen, a proprietary blueprint-first code generation methodology enabling confidence-driven development.
 
     Clients:
 
@@ -34,14 +34,14 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - Connecting talent with referral partners, creating value for engineers, companies, and referrers alike.
     - Fostering knowledge sharing around tech, career growth, company cultures, and digital nomad life.
 
-    Handling the legal side including contracts, referral agreements, and member vetting system. Establishing internal culture, documenting workflows, defining interview standards, and onboarding new referral job providers. Also contributing with tax guidance and optimization strategies for digital nomads.
+    Handling the legal side including contracts, referral agreements, and member vetting. Establishing internal culture, documenting workflows, defining interview standards, and onboarding new referral job providers. Contributing tax guidance and optimization strategies for digital nomads.
 
 3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
-    As a cohesive team of 5 Python engineers, we established the foundation of running [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core of the framework, there's a server ([Action Server](https://github.com/Sema4AI/actions)) built over FastAPI capable of discovering packages exposing actions to be run locally in isolation. The "meat" of these actions is pure Python logic which operates over both internal and external resources. We are building the "hands & legs" of the AI, so it can execute tasks post-reasoning.
+    As a cohesive team of 5 Python engineers, we established the foundation of running [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core of the framework, a server ([Action Server](https://github.com/Sema4AI/actions)) built on FastAPI discovers packages exposing actions to run locally in isolation. The "meat" of these actions is pure Python logic operating over internal and external resources. We built the "hands & legs" of the AI — execution after reasoning.
 
-    - Bridged the product with the engineering side by managing a Linear project dealing with the creation of pre-made actions, wrapping services like Google, Slack, HubSpot and operating on local documents.
-    - Wrote technical documents helping with issue scoping and designed the OAuth2 flow affecting our products.
+    - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
+    - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
     - Improved the DX of library work and its migration from RPA to native Python automation.
     - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
     - Held talks about our development tools and Python automation to wider external audiences.
@@ -50,34 +50,34 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
-    Giving everyone the opportunity to harness the power of open-source automation through a set of developer tools and Python libraries making it easy to grasp. We built an open community of 10k users — enabling citizen developers without prior CS background to automate their work through code.
+    Open-source automation through developer tools and Python libraries. Built an open community of 10k users — enabling citizen developers without CS backgrounds to automate their work through code.
 
     - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
     - PyPI package development and dependency management with cloud-based integration testing coverage.
     - Contributed to a public gallery of use-case driven examples employing our tools.
-    - Fully committed in customer support threads and calls in order to understand and fix what burns the most, thus ensuring our company's growth and success.
+    - Fully committed to customer support threads and calls — understanding what burned most and fixing it to drive company growth.
 
     Leveled up significantly here — sharpened RPA skills, learned to prioritize ruthlessly, and figured out how to communicate with empathy without losing directness. The company culture stuck with me.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
-    Authorization server provider written in Flask with authlib implementing the Authorization Code Grant flow via OAuth2 — enabling external developers to build 3rd-party apps integrating with Gorgias. At Gorgias everything is going fast and based on data. You need to stay agile while getting quickly to "no" when facing decisions that will impact the project long-term. Finding your focus and holding the line on multiple fronts is an art, one that wins you a partner or a client over the competition.
+    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant — enabling external developers to build 3rd-party apps integrating with Gorgias. Everything moved fast and was data-driven. Staying agile while getting quickly to "no" on long-term decisions was key. Holding the line on multiple fronts won partners over the competition.
 
-    - Growing and leading the Developer Experience team while helping our partners and external developers integrate better with Gorgias.
-    - Laying the tech foundation of an App Store with OAuth2 support where developers can publish and monetize their own apps inside of Gorgias.
-    - Improving our REST API and docs with a startup mindset and leadership good practices.
+    - Grew and led the Developer Experience team while helping partners and external developers integrate with Gorgias.
+    - Laid the tech foundation of an App Store with OAuth2 support where developers could publish and monetize their own apps.
+    - Improved the REST API and docs with a startup mindset.
 
-    Thought I met the culture, processes and transparency I was looking for, but everyone's no. 1 focus was just the customer impact & support.
+    Thought I found the culture, processes, and transparency I wanted — but the sole focus was customer impact & support.
 
 6. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
 
     Smart buildings IoT startup. Led by example — making technical and team decisions in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
 
-    - Establishing the architecture and code layout for a new set of micro-services dealing with numerous sensor-based events using Go and Python with Django.
-    - Getting familiar with Google's gRPC protocol buffers, under a grpc-gateway reverse proxy transcoder and service implementors in Python 3.
-    - Working on a Mapbox compliant API with its business logic implemented at database level using PostGIS.
-    - Ensuring everyone in the team knows how and what to do through proactive communication and effective mutual help.
-    - Dynamically juggling with priorities in order to meet client's SLA and deliverables deadlines.
+    - Established the architecture and code layout for micro-services handling sensor-based events using Go and Python with Django.
+    - Used Google's gRPC protocol buffers under a grpc-gateway reverse proxy transcoder with Python 3 service implementors.
+    - Built a Mapbox-compliant API with business logic at database level using PostGIS.
+    - Kept the team aligned through proactive communication and effective mutual help.
+    - Juggled priorities to meet client SLAs and delivery deadlines.
 
     Saw the full arc of a Siemens acquisition — from startup energy to corporate integration across timezones and cultures.
 
@@ -94,9 +94,9 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     ML-powered fashion and furniture detection in milliseconds. Planned, built, and deployed features for API services. Python web apps on Kubernetes in Google Cloud.
 
-    - Adding customizable rate limit support for all exposed endpoints, based on Redis and good intentions.
-    - Creating a bot for analyzing user statistics in order to generate and display engaging reports.
-    - Global code refactoring, Python 2 to 3, various fixes and overall quality assurance.
+    - Added customizable rate limiting for all exposed endpoints, built on Redis.
+    - Created a bot for analyzing user statistics and generating engaging reports.
+    - Handled global code refactoring (Python 2 to 3), fixes, and quality assurance.
 
     Improved service reliability through proper rate limiting and fixed auth-side bugs. Great team — later acquired by Apple.
 
@@ -104,10 +104,10 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     One-man army. Built trust with the co-founders, which meant full autonomy — proposing, scoping, building, deploying, and maintaining features end-to-end.
 
-    - Developing a fully fledged web application written in Flask with App Engine, capable of categorizing people's public professional related information with the goal of matching them to accurate and suitable job positions.
-    - Creating an Elastic Search ML component for the service above with data post-processing and analytics intentions.
-    - Aggregating and centralizing end-user financial data from different enrolled banks into one desired central service.
-    - Augmenting video streaming with live data extracted automatically from the most popular poker platform in the world, using smart OCR and text prediction algorithms.
+    - Developed a Flask web app on App Engine that categorized public professional data to match people with suitable job positions.
+    - Created an Elastic Search ML component for data post-processing and analytics.
+    - Aggregated and centralized end-user financial data from multiple banks into one service.
+    - Augmented video streaming with live data extracted from the world's most popular poker platform using OCR and text prediction.
 
     Built connections with sharp people globally — entrepreneurs and CEOs who shaped how I think about building things.
 
@@ -115,10 +115,10 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     Local food systems startup in Princeton. Built tech connecting communities with local producers — restaurant, school, and hospital programs for healthier food access.
 
-    - Developing and maintaining the 47farms.com website using the webapp2 framework under Google Cloud PaaS.
-    - Allowing parents to order and schedule school lunches for their children across the whole week.
-    - Supporting individual small clients to unite and become wholesale buyers through our platform.
-    - Implementing recurring orders, custom pricing techniques and various payment options.
+    - Developed and maintained 47farms.com using webapp2 on Google Cloud PaaS.
+    - Enabled parents to order and schedule school lunches for their children across the week.
+    - Helped small clients unite and become wholesale buyers through the platform.
+    - Implemented recurring orders, custom pricing, and various payment options.
 
     Pitched at Wolves Summit, secured state grants. Learned that diplomacy and discipline win over cleverness.
 
@@ -126,7 +126,7 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     Built a scheduling service for GE wind turbine testing. Moving massive engines between workbenches is expensive — the digital scheduler cut costs significantly.
 
-    - Developing, testing and deploying the test planner service on Linux machines while creating a strong bond with the team.
+    - Developed, tested, and deployed the test planner service on Linux machines.
 
     First Django project. Sharpened DevOps skills with Fabric.
 
@@ -134,9 +134,9 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     Open-source cloud infrastructure with Microsoft as a key client. Built *cloudbase-init* — a Windows instance initialization service for OpenStack. Contributed patches upstream and helped users globally with IaaS deployments.
 
-    - Creating new features for cloudbase-init by extending compatibility with different cloud services.
-    - Developing Argus, a complex testing framework which runs integration tests against cloudbase-init.
-    - Having a focus on OpenStack development and helping users around the world with deployment Q&As.
+    - Created new features for cloudbase-init by extending compatibility with different cloud services.
+    - Developed Argus, a testing framework running integration tests against cloudbase-init.
+    - Focused on OpenStack development and helped users globally with deployment Q&As.
 
     First international talk at EuroPython (Argus framework). Helped establish the company's Iași office.
 
@@ -144,9 +144,9 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     First job out of college at the world's top antivirus company. Built distributed systems for parallel data processing and threat analysis — high-stakes security infrastructure from day one.
 
-    - DrLink: a service designed to crawl efficiently web apps, with a distributed scanning of threats and suspicious files.
+    - DrLink: a service designed to efficiently crawl web apps with distributed threat and suspicious file scanning.
     - Scrappy: an advanced application scraper that can recover from its last state in case of a stop/crash, which runs on custom plugins.
-    - Rediscoll: a high level collection of basic Python data structures & OS locks, implemented as Redis abstractions.
+    - Rediscoll: a high-level collection of Python data structures & OS locks, implemented as Redis abstractions.
     - Curloxy: a proxy provider web service with the ability to search, parse and test proxies from multiple external sources.
 
     Built these projects from scratch solo while contributing to larger team efforts. Learned Python's dark corners from sharp coworkers. Gave a security conference talk on `exec`/`eval` vulnerabilities.
@@ -163,7 +163,7 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
 3. *Pupil* @ **Scoala Generala Nr. 3**: 2000 - 2008 (Unique theses and Physics)
 
-    National olympics in physics, math, biology, chemistry.
+    National Olympiads in physics, math, biology, chemistry.
 
 ## III. Knowledge
 
@@ -183,8 +183,8 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
         - NoSQL: Datastore (Bigtable), Redis, ElasticSearch, MongoDB
         - SQL: PostgreSQL, MySQL, SQLite
-    - intensive use of the standard library and great understanding of the language reference
-    - strong background in software architecture, OOP and design patterns
+    - deep use of the standard library and language reference
+    - software architecture, OOP, and design patterns
     - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery)
     - data scraping, analysis, computation and modeling on multiple nodes
     - regular expressions and optimal data sharding & storing procedures
@@ -193,7 +193,7 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD
     - black magic under metaclasses, decorators, generators, coroutines, closures, context managers, MRO etc.
     - focus on data science with: numpy, pandas, scipy, scikit-learn, matplotlib, jupyter
-    - making my way through: poetry, pyenv, virtualenv, conda
+    - environment management: poetry, pyenv, virtualenv, conda
     - solving challenges on checkio.org, wechall.net
 
 2. **C/C++**, 4 years mostly under Linux, but some Windows flavor too:
@@ -209,8 +209,8 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
     - web vulnerabilities: LFI, RFI, SQLi, XSS, CSRF
     - steganography and applied methods of stable information concealing/revealing via image and PDF files
-    - cryptanalysis and basic understanding of (a)symmetric encryption, encoding/decoding and hashing algorithms
-    - basic experience with desktop application vulnerabilities and exploits
+    - cryptanalysis, (a)symmetric encryption, encoding/decoding, and hashing algorithms
+    - desktop application vulnerabilities and exploits
     - reverse engineering and static analysis of executables (IDA)
     - malware researching
 
@@ -229,23 +229,23 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
 
 1. Co-Founded [TrueStory](https://github.com/savvybit/), a news aggregator offering you similar, but contradictory stories for the same subject that you're reading.
 
-2. During college, I've successfully designed and implemented a mobile [application](https://github.com/cmin764/morseus) able to intercept and live decode intermittent light emitting sources as Morse code into text with adaptive automatic calibration.
+2. During college, designed and implemented a mobile [application](https://github.com/cmin764/morseus) that intercepts and live-decodes intermittent light sources as Morse code with adaptive automatic calibration.
 
-3. I've succeeded in implementing in a few weeks a fully working and robust application offering CLI and GUI support, able to analyze, parse, decompose and model PDF objects for hiding data into them. Encrypted or not, the information was concealed using a unique steganography method based on content representation states, resulting in a perfect valid and normal PDF file as output, displaying the very same interpreted content. (studied in depth the PDF file format)
+3. Built in a few weeks a robust CLI/GUI application that analyzes, parses, and models PDF objects to hide data inside them. Used a unique steganography method based on content representation states — the output is a valid PDF displaying identical content. (studied the PDF format in depth)
 
 4. Had my first international presentation at EuroPython 2015 in Bilbao, Spain about an open-source CI generic-purpose system on top of OpenStack and tempest.
 
-5. First time as a speaker, at a local conference, I've talked about the security risks of evaluating data from untrusted sources inside software, with real-life examples of attacker vs. victim cases. This was followed by a second speech in the next year, about steganographic methods of hiding data in usual files.
+5. First conference talk covered security risks of evaluating untrusted data, with real attacker vs. victim examples. Followed up the next year with a talk on steganographic methods for hiding data in files.
 
-6. Together with two friends and co-workers, I've managed to create a brand called [RoPython](https://ropython.ro/), officially approved and sponsored by PSF, through which we've organized regional conferences, workshops and talk sessions targeting students and not only.
+6. Co-created [RoPython](https://ropython.ro/) with two friends — a PSF-approved brand through which we organized regional conferences, workshops, and talks for students and beyond.
 
-7. Been part of the jury team at a national projects contest called InfoEducatie in 2014 (sponsored by Google), where I've designed an open challenge for transmitting data between two devices without using conventional technology.
+7. Served on the jury at InfoEducatie 2014 (Google-sponsored national contest) and designed an open challenge for transmitting data between devices without conventional technology.
 
 8. Passed the entire hiring process and elaborate psychological interview at DarkMatter, UAE.
 
-9. Had my first job right after entering college at a top antivirus company worldwide, Bitdefender.
+9. Landed my first job right after entering college at Bitdefender, a top global antivirus company.
 
-10. At the age of 16, I had my first commission by implementing a fast CLI script able to simulate dictionary attacks and pen-tests over open VNC servers. The intention is to find working credentials which would expose the vulnerability in order to fix it. Afterwards, I've created a solution of doing the same over RDP servers without studying the protocol, but instead using telnet reverse connections for checking if the current pair was a match. (studied the RFB protocol and various RDP clients)
+10. At 16, got my first paid commission: a CLI script simulating dictionary attacks on open VNC servers to expose vulnerabilities for fixing. Later built an RDP version using telnet reverse connections to check credential matches without studying the protocol. (studied the RFB protocol and various RDP clients)
 
 11. Created a CLI secure chat with basic AES encryption over RSA handshake.
 
@@ -257,9 +257,9 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - passing and reversing data through a couple of hashing, encoding and encryption algorithms
     - hiding and revealing information in pictures using the LSB method and standard encryption
     - blocking certain web pages on local host by managing the *hosts* file
-    - key-generators for car equipments by reverse-engineering math functions (service debugging)
+    - key-generators for car equipment by reverse-engineering math functions (service debugging)
 
-13. Learning all by myself and been motivated since 2007 by security forums like darkc0de, rstcenter/rstforums, mortal-team and many great people around the globe.
+13. Self-taught since 2007 through security forums like darkc0de, rstcenter/rstforums, mortal-team — and sharp people around the globe.
 
 ## V. About Me
 
