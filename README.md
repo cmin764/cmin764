@@ -3,7 +3,7 @@
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
 Passionate about building AI-driven **automation solutions**, scalable **SaaS backends**, and designing efficient APIs that empower businesses to focus more on creativity and less on bureaucracy.  
-I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) with 18+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
+I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
@@ -83,6 +83,7 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 
 ## 📬 Let's connect
 
-- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[Medium](https://cmin764.medium.com)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
-- **[Wandercode](https://wandercode.ltd)** | **[NoMoreApply](https://nomoreapply.org)** | **[Calendly](https://calendly.com/cmin764/wandercode-discovery-call)**
+- **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[GitHub](https://github.com/cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
+- **[Wandercode](https://wandercode.ltd)** | **[NoMoreApply](https://nomoreapply.org)** | **[Align](https://tally.so/r/w4vQ6X)** | **[Calendly](https://calendly.com/cmin764/wandercode-discovery-call)**
+- **[Medium](https://cmin764.medium.com)** | **[YouTube](https://youtube.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)** | **[Nomads](https://nomads.com/@cmin764)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
