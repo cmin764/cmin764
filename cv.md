@@ -38,7 +38,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
-    As a cohesive team of 5 Python engineers, we established the foundation of running AI Actions through OpenGPT-powered Agents. At the core of the framework, there's a server built over FastAPI capable of discovering packages exposing actions to be run locally in isolation. The "meat" of these actions is pure Python logic which operates over both internal and external resources.
+    As a cohesive team of 5 Python engineers, we established the foundation of running [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core of the framework, there's a server ([Action Server](https://github.com/Sema4AI/actions)) built over FastAPI capable of discovering packages exposing actions to be run locally in isolation. The "meat" of these actions is pure Python logic which operates over both internal and external resources. We are building the "hands & legs" of the AI, so it can execute tasks post-reasoning.
 
     - Bridged the product with the engineering side by managing a Linear project dealing with the creation of pre-made actions, wrapping services like Google, Slack, HubSpot and operating on local documents.
     - Wrote technical documents helping with issue scoping and designed the OAuth2 flow affecting our products.
@@ -48,9 +48,9 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
     Interviewed and hired some of the best fits at that time, while assembling a subteam focusing on Python development and CI/CD best practices for package releasing. Experienced growth on the management side by diminishing friction, nurture autonomy and keeping the roadmap in sync with the volatile nature of the product. This was a full rebrand of myself aligning with the acquisition of Robocorp by Sema4AI.
 
-4. *Senior Software Engineer* @ **Robocorp**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
+4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
-    Giving everyone the opportunity to harness the power of open-source automation through a set of developer tools and Python libraries making it easy to grasp.
+    Giving everyone the opportunity to harness the power of open-source automation through a set of developer tools and Python libraries making it easy to grasp. We built an open community of 10k users — enabling citizen developers without prior CS background to automate their work through code.
 
     - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
     - PyPI package development and dependency management with cloud-based integration testing coverage.
@@ -61,7 +61,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
-    At Gorgias everything is going fast and based on data. You need to stay agile while getting quickly to "no" when facing decisions that will impact the project long-term. Finding your focus and holding the line on multiple fronts is an art, one that wins you a partner or a client over the competition. And the main vision here is to become no. 1 on Shopify while helping as many people as possible through our e-commerce helpdesk.
+    Authorization server provider written in Flask with authlib implementing the Authorization Code Grant flow via OAuth2 — enabling external developers to build 3rd-party apps integrating with Gorgias. At Gorgias everything is going fast and based on data. You need to stay agile while getting quickly to "no" when facing decisions that will impact the project long-term. Finding your focus and holding the line on multiple fronts is an art, one that wins you a partner or a client over the competition.
 
     - Growing and leading the Developer Experience team while helping our partners and external developers integrate better with Gorgias.
     - Laying the tech foundation of an App Store with OAuth2 support where developers can publish and monetize their own apps inside of Gorgias.
@@ -86,7 +86,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     Under this new startup emerged from TeqHire, I'm walking along the adventurous road of risks and uncertainty of accurately detecting organisms in samples. Together with its CEO, we've glued and kept aligned a family of team players, from whom I learned to take responsibilities, communicate better and face the client with success.
 
     - DNA sequencing and PCR automation involving Blast and Primer around NCBI ecosystem.
-    - Async programming in Python 3 with aio* libraries under exotic ASGI frameworks.
+    - Async programming in Python 3 with aiohttp and asyncio under exotic ASGI frameworks.
 
     Pivoted from full-time dev to part-time lead, managing brainstorms, tasks, planning and documentation.
 
@@ -172,7 +172,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - AI-driven automation for the enterprise
         - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
     - RPA with Robot Framework for the end user
-        - rpaframework/robocorp, Selenium/Playwright
+        - rpaframework/robocorp, Action Server, Selenium/Playwright, OCR, IDP
     - web services and APIs with frameworks & concepts like:
         - FastAPI (Pydantic, OpenAPI, OIDC)
         - Flask (MVT, REST, WebSocket)
