@@ -2,11 +2,11 @@
 
 *Engineer at core | Entrepreneur at heart*
 
-I truly believe that human beings are not meant to sink in tedious repetitive tasks. We're more creative than that.
+Human beings aren't meant for tedious repetitive tasks. We're more creative than that.
 
-This way we can leverage the power of AI when it comes to automation, by filling only the system logical gaps with human technical expertise, leaving the LLM do the rest. I'm sure that we're ready to shape the future by riding this wave, while employing an ethical upright culture.
+AI handles the repetition. Humans fill the gaps that need judgment. That's the split — and it's how we should build.
 
-So here I am, a Sr. Software Engineer seasoned with business and leadership skills. Passionate about startups, photography, videography, art, reading and traveling the world, as an effective digital nomad (50+ countries) focusing on impact and results.
+Sr. Software Engineer with business and leadership chops. Passionate about startups, photography, videography, art, reading, and traveling (50+ countries as a digital nomad). Impact and results over hours logged.
 
 ## I. Experience
 
@@ -46,7 +46,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
     - Held talks about our development tools and Python automation to wider external audiences.
 
-    Interviewed and hired some of the best fits at that time, while assembling a subteam focusing on Python development and CI/CD best practices for package releasing. Experienced growth on the management side by diminishing friction, nurture autonomy and keeping the roadmap in sync with the volatile nature of the product. This was a full rebrand of myself aligning with the acquisition of Robocorp by Sema4AI.
+    Hired strong engineers and built a subteam around Python development and CI/CD best practices. Grew as a manager by learning to reduce friction, nurture autonomy, and keep the roadmap flexible when the product kept shifting. This role came from Robocorp's acquisition by Sema4AI — a full rebrand that pushed me into leadership.
 
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
@@ -57,7 +57,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - Contributed to a public gallery of use-case driven examples employing our tools.
     - Fully committed in customer support threads and calls in order to understand and fix what burns the most, thus ensuring our company's growth and success.
 
-    Experienced a significant seniority upgrade & consolidation by improving my RPA skills, alongside communication, prioritization, impact and empathy. Focusing on the essential with an attention to detail is key. Blended into the company culture and transformed its core values into virtues.
+    Leveled up significantly here — sharpened RPA skills, learned to prioritize ruthlessly, and figured out how to communicate with empathy without losing directness. The company culture stuck with me.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
@@ -71,7 +71,7 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 6. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
 
-    As a leader in smart buildings, this new IoTs unicorn is giving me the opportunity to lead by example in a startup vibe environment, by taking technical and team crucial decisions. My mission here is to help Comfy innovate the way we move and feel at work. Some of our partners automated through us square kilometers of campuses.
+    Smart buildings IoT startup. Led by example — making technical and team decisions in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
 
     - Establishing the architecture and code layout for a new set of micro-services dealing with numerous sensor-based events using Go and Python with Django.
     - Getting familiar with Google's gRPC protocol buffers, under a grpc-gateway reverse proxy transcoder and service implementors in Python 3.
@@ -79,91 +79,91 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
     - Ensuring everyone in the team knows how and what to do through proactive communication and effective mutual help.
     - Dynamically juggling with priorities in order to meet client's SLA and deliverables deadlines.
 
-    Seen from start to finish how it feels to be acquired by a big corporation and merged with multi-timezone/culture teams.
+    Saw the full arc of a Siemens acquisition — from startup energy to corporate integration across timezones and cultures.
 
 7. *Back End Developer* @ **ArcanaBio**, Iceland: April 2018 - April 2019 (1 year 1 month)
 
-    Under this new startup emerged from TeqHire, I'm walking along the adventurous road of risks and uncertainty of accurately detecting organisms in samples. Together with its CEO, we've glued and kept aligned a family of team players, from whom I learned to take responsibilities, communicate better and face the client with success.
+    Biotech startup spun out of TeqHire. Built tools for detecting organisms in DNA samples — high-stakes work where accuracy matters. Learned to own problems end-to-end and communicate directly with clients.
 
     - DNA sequencing and PCR automation involving Blast and Primer around NCBI ecosystem.
     - Async programming in Python 3 with aiohttp and asyncio under exotic ASGI frameworks.
 
-    Pivoted from full-time dev to part-time lead, managing brainstorms, tasks, planning and documentation.
+    Pivoted from full-time dev to part-time lead — managing brainstorms, tasks, and documentation.
 
 8. *Software Engineer* @ **Fashwell**, Switzerland: August 2018 - November 2018 (4 months)
 
-    Helping the ML team on leveraging our main vision: image detection of fashion apparel and furniture in milliseconds. On a daily basis I'm planning, developing and deploying new features and components for the API services and current infrastructure. Mainly improving Python web apps with Kubernetes running in Google Cloud.
+    ML-powered fashion and furniture detection in milliseconds. Planned, built, and deployed features for API services. Python web apps on Kubernetes in Google Cloud.
 
     - Adding customizable rate limit support for all exposed endpoints, based on Redis and good intentions.
     - Creating a bot for analyzing user statistics in order to generate and display engaging reports.
     - Global code refactoring, Python 2 to 3, various fixes and overall quality assurance.
 
-    Increased service reliability by properly controlling clients' API requests, while fixing bugs & coupling on the authentication side. Improved my knowledge and skills together with a wonderful team.
+    Improved service reliability through proper rate limiting and fixed auth-side bugs. Great team — later acquired by Apple.
 
 9. *Python DevOps* @ **TeqHire**, Iceland: October 2016 - April 2018 (1 year 7 months)
 
-    Here I am the one-man army. While had the chance to also work in small teams, I developed a strong professional relationship with the Co-Founders, thing which led me to a whole new set of responsibilities and trust, under which I propose, set and manage tasks on my own, then research, develop, test, deploy, maintain and document features that accomplish business' needs.
+    One-man army. Built trust with the co-founders, which meant full autonomy — proposing, scoping, building, deploying, and maintaining features end-to-end.
 
     - Developing a fully fledged web application written in Flask with App Engine, capable of categorizing people's public professional related information with the goal of matching them to accurate and suitable job positions.
     - Creating an Elastic Search ML component for the service above with data post-processing and analytics intentions.
     - Aggregating and centralizing end-user financial data from different enrolled banks into one desired central service.
     - Augmenting video streaming with live data extracted automatically from the most popular poker platform in the world, using smart OCR and text prediction algorithms.
 
-    Built connections with some of the brightest minds around the globe and got in touch with role model entrepreneurs and CEOs.
+    Built connections with sharp people globally — entrepreneurs and CEOs who shaped how I think about building things.
 
 10. *Full Stack Developer* @ **47FARMS**, USA: March 2016 - October 2016 (8 months)
 
-    Alongside the most altruistic entrepreneur in Princeton, I'm on a mission to enable access to local and healthier food for all communities by harnessing technology innovation to build local and regional food systems. We revolutionize the food and groceries buying system by successfully implementing restaurant, school and hospital programs through which people can buy and eat healthy food from their local producers.
+    Local food systems startup in Princeton. Built tech connecting communities with local producers — restaurant, school, and hospital programs for healthier food access.
 
     - Developing and maintaining the 47farms.com website using the webapp2 framework under Google Cloud PaaS.
     - Allowing parents to order and schedule school lunches for their children across the whole week.
     - Supporting individual small clients to unite and become wholesale buyers through our platform.
     - Implementing recurring orders, custom pricing techniques and various payment options.
 
-    Qualified for a pitch regarding the mission above at the Wolves Summit conference and obtained consistent grants from the state, while learning some key aspects about business in general and why diplomacy and discipline always win.
+    Pitched at Wolves Summit, secured state grants. Learned that diplomacy and discipline win over cleverness.
 
 11. *Operational Researcher* @ **Reckon Digital**, UK: January 2016 - February 2016 (2 months)
 
-    I'm taking General Electric to the next level by working on a back-end service used to automatically schedule wind power plants tests. Moving and testing massive engines from one workbench to another is an expensive job, therefore we cut the costs by digitally scheduling the entire process.
+    Built a scheduling service for GE wind turbine testing. Moving massive engines between workbenches is expensive — the digital scheduler cut costs significantly.
 
     - Developing, testing and deploying the test planner service on Linux machines while creating a strong bond with the team.
 
-    Made my first steps into Django web framework and strengthened my DevOps skills with the Fabric deployment tool.
+    First Django project. Sharpened DevOps skills with Fabric.
 
 12. *Cloud Engineer* @ **Cloudbase Solutions**, Romania: October 2014 - December 2015 (1 year 3 months)
 
-    We're joining forces with big clients like Microsoft and extending the OpenStack community by developing an open-source initialization service specially designed for Windows instances, called *cloudbase-init*. The pushed patches into open-source projects and focus on IaaS field are the side-tasks that spice-up the usual daily challenges.
+    Open-source cloud infrastructure with Microsoft as a key client. Built *cloudbase-init* — a Windows instance initialization service for OpenStack. Contributed patches upstream and helped users globally with IaaS deployments.
 
     - Creating new features for cloudbase-init by extending compatibility with different cloud services.
     - Developing Argus, a complex testing framework which runs integration tests against cloudbase-init.
     - Having a focus on OpenStack development and helping users around the world with deployment Q&As.
 
-    Done my first international speech about the Argus framework at EuroPython and helped the company to establish a new team and office in Iasi city.
+    First international talk at EuroPython (Argus framework). Helped establish the company's Iași office.
 
 13. *Malware Researcher* @ **Bitdefender**, Romania: February 2013 - September 2014 (1 year 8 months)
 
-    I'm taking with honor the great responsibility of offering SaaS solutions for the no.1 antivirus company world-wide. Proudly being part of a large team, my main focus here is to meet our clients' needs by developing demanding and challenging projects regarding parallel data processing and NoSQL databases.
+    First job out of college at the world's top antivirus company. Built distributed systems for parallel data processing and threat analysis — high-stakes security infrastructure from day one.
 
     - DrLink: a service designed to crawl efficiently web apps, with a distributed scanning of threats and suspicious files.
     - Scrappy: an advanced application scraper that can recover from its last state in case of a stop/crash, which runs on custom plugins.
     - Rediscoll: a high level collection of basic Python data structures & OS locks, implemented as Redis abstractions.
     - Curloxy: a proxy provider web service with the ability to search, parse and test proxies from multiple external sources.
 
-    Done "from zero to hero" rounds by writing from scratch the projects above all by myself, while being involved into other bigger ones and being taught at the same time the beauty of Python's dark corners by my coworkers. I held a presentation about Python `exec` / `eval` vulnerabilities at a local security conference.
+    Built these projects from scratch solo while contributing to larger team efforts. Learned Python's dark corners from sharp coworkers. Gave a security conference talk on `exec`/`eval` vulnerabilities.
 
 ## II. Education
 
 1. *Student* @ **Universitatea "Alexandru Ioan Cuza"**: 2012 - 2018 (Bachelor of Computer Science)
 
-    I had a focus on data structures, algorithms and programming languages in general. Also, I was interested in software architecture/development and even graphic design. Software engineering and cryptographic areas always got into my attention.
+    Focus on data structures, algorithms, software architecture, and cryptography.
 
 2. *Student* @ **Colegiul National "UNIREA"**: 2008 - 2012 (Baccalaureate in Math-Informatics)
 
-    I was involved in different tutoring activities and participated in online and official algorithmic contests and olympics. I was training on platforms like Topcoder, Codeforces, SPOJ, Infoarena and Campion, while having an interest in efficient problem-solving techniques.
+    Competitive programming on Topcoder, Codeforces, SPOJ. Tutored other students. Built problem-solving intuition early.
 
 3. *Pupil* @ **Scoala Generala Nr. 3**: 2000 - 2008 (Unique theses and Physics)
 
-    I was participating to local and national olympics regarding physics, math, biology and chemistry.
+    National olympics in physics, math, biology, chemistry.
 
 ## III. Knowledge
 
@@ -263,9 +263,9 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 
 ## V. About Me
 
-I was born in Romania (Focsani, Vrancea) on 26th of April 1993 and since childhood I had a passion for electronics. Learning how things are working by breaking them into smaller components, while trying to figure out how they function separately and altogether. Then, I proceeded further to something more practical by earning a strong background in physics (newtonian mechanics, optics, calorimetry, electrostatic and quantum mechanics), with which I was obtaining honors in national contests and olympics. After that, I was very eager to implement cool ideas and express my thoughts by inventing and creating practical things, so I was getting slowly into the programming world, where my baby steps were to write "help" into the CMD line prompt and gluing out commands together. I really wish to say "thank you" to the person that once said to me: *"Without a real programming language, you're like a lion in a cage."* when saw my first scripts in Batch. That led me to **Python**, and this was the beginning of my whole experience described above, including what will follow.
+Born in Romania (Focșani, 1993). Started by breaking electronics apart to understand how they worked. Physics came next — national olympiad honors in mechanics, optics, and quantum. Then someone saw my Batch scripts and said: *"Without a real programming language, you're like a lion in a cage."*
 
-My passion for this language began in 2007 and still continues today, where the first 6 non-professional years of activity had the same impact on me in terms of learning, discovering and accomplishments as the rest of the professional ones had. Despite all of these, my fulfilment is that I was not giving up on my social life, sports and healthy lifestyle, with a focus on overcoming my area of comfort every time I could.
+That led me to **Python** in 2007. The first 6 non-professional years taught me as much as the 13 professional ones. I never gave up social life, sports, or pushing past comfort zones.
 
 ### Volunteer
 
@@ -309,4 +309,4 @@ My passion for this language began in 2007 and still continues today, where the 
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 21 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 21 Jan 2026 — voice aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
