@@ -1,8 +1,20 @@
 # Travel Log 🌍
 
+## 2026
+
+### January-March
+- **27 Jan - 14 Mar**: 🇧🇷 Brazil
+- **23 Jan - 27 Jan**: 🇦🇷 Argentina
+- **6 Jan - 23 Jan**: 🇺🇾 Uruguay
+- **27 Dec - 6 Jan**: 🇦🇷 Argentina
+
 ## 2025
 
-### September-October
+### October-December
+- **20 Dec - 27 Dec**: 🇦🇷 Argentina
+- **2 Dec - 20 Dec**: 🇨🇱 Chile
+- **8 Nov - 2 Dec**: 🇵🇪 Peru
+- **25 Oct - 8 Nov**: 🇺🇸 USA
 - **9 Sep - 25 Oct**: 🇷🇴 Romania
 
 ### August
@@ -181,7 +193,7 @@
 
 <br/>
 
-**45** visited countries ✈️  
+**50** visited countries ✈️
 _(not all tracked)_
 
-<small style="color: #666;">Albania, Belgium, Cyprus, Czechia, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Moldova, Namibia, Netherlands, New Zealand, Norway, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Vatican City (Holy See), Zambia</small>
+<small style="color: #666;">Albania, Argentina, Belgium, Brazil, Chile, Cyprus, Czechia, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Moldova, Namibia, Netherlands, New Zealand, Norway, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>

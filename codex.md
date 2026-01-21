@@ -87,6 +87,7 @@ A navigation system for different moments in life and work:
 - "Smart geek with strong technical principles coming from a security-driven background"
 - Prefers risky but promising projects over steady-growth corporate life
 - "I can name a lot of geniuses way better than me at building apps and deploying APIs... but not sure how many can resist the pressure of a startup, adapt fast to change and carefully asking the 'why' more often than the 'how' and 'what'."
+- **Diamonds are built under pressure** — Thriving in high-stakes environments where others crack. Pressure reveals character and forges clarity.
 - Radiating from core vs. reflecting others' energy
 - Carrying light, not seeking it — making the invisible visible, the complex simple, the tedious creative
 
@@ -371,13 +372,13 @@ AI, RPA, LLM, Automation Engineering, Enterprise Software, SaaS, B2B, Dev Tools,
 
 ## Travel & Lifestyle
 
-Digital nomad since 2018. **45+ countries** across Africa, Asia-Pacific, Europe, Middle East, and the Americas — all while working remotely full-time since 2021.
+Digital nomad since 2018. **50+ countries** across Africa, Asia-Pacific, Europe, Middle East, and the Americas — all while working remotely full-time since 2021.
 
 ### Regional Highlights
 
 - **Africa Safari Circuit (2024):** Kenya → Tanzania/Zanzibar → Zambia → Namibia → South Africa → Mauritius → Seychelles
 - **Asia-Pacific Loop (2023):** India → Thailand → Malaysia → Singapore → Philippines → Japan → Indonesia → Fiji → New Zealand
-- **South America (2025-2026):** Peru (Machu Picchu/Cusco) → Chile (Santiago, Patagonia) → Argentina (El Calafate, Buenos Aires) → Uruguay
+- **Americas (2025-2026):** USA (NYC, Miami) → Peru (Lima, Machu Picchu) → Chile (Santiago, Patagonia) → Argentina (El Calafate, Buenos Aires, Iguazú) → Uruguay → Brazil (Iguaçu, São Paulo, Florianópolis, Rio)
 
 ### Base Pattern
 
@@ -461,7 +462,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 
 | Type | Pitch |
 |------|-------|
-| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment. 45+ countries while working full-time. |
+| **Digital nomad platforms** | Would use, pay for, and love to develop — lifestyle alignment. 50+ countries while working full-time. |
 | **Linux/open-source** | Grew up with Ubuntu, Linux enthusiast since youth, Rogentos community |
 | **Consciousness/AI ethics** | Deep philosophical interest in consciousness transfer. "While everybody struggles to make intelligence more artificial, I'm wondering if we can make it more human." |
 | **Automation/AI** | 3+ years at Robocorp/Sema4.ai, Siemens connection via Comfy. Mission: freeing human creativity from tedious repetition. |
