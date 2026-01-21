@@ -448,6 +448,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 | Twitter | https://twitter.com/cmin764 |
 | Instagram | https://instagram.com/cmin764 |
 | Photography | https://instagram.com/asitisphotos |
+| Facebook | https://facebook.com/cmin764 |
 | YouTube | https://youtube.com/@cmin764 |
 | Nomads | https://nomads.com/@cmin764 |
 | Goodreads | https://goodreads.com/user/show/84378981-cosmin-poiean |

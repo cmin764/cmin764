@@ -6,7 +6,7 @@ I truly believe that human beings are not meant to sink in tedious repetitive ta
 
 This way we can leverage the power of AI when it comes to automation, by filling only the system logical gaps with human technical expertise, leaving the LLM do the rest. I'm sure that we're ready to shape the future by riding this wave, while employing an ethical upright culture.
 
-So here I am, a Sr. Software Engineer seasoned with business and leadership skills. Passionate about startups, photography, videography, art, reading and traveling the world, as an effective digital nomad focusing on impact and results.
+So here I am, a Sr. Software Engineer seasoned with business and leadership skills. Passionate about startups, photography, videography, art, reading and traveling the world, as an effective digital nomad (50+ countries) focusing on impact and results.
 
 ## I. Experience
 
@@ -170,8 +170,9 @@ So here I am, a Sr. Software Engineer seasoned with business and leadership skil
 1. **Python** 2/3, 18+ years (13+ professional), on Mac/Linux/Windows involving:
 
     - AI-driven automation for the enterprise
-    - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
+        - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
     - RPA with Robot Framework for the end user
+        - rpaframework/robocorp, Selenium/Playwright
     - web services and APIs with frameworks & concepts like:
         - FastAPI (Pydantic, OpenAPI, OIDC)
         - Flask (MVT, REST, WebSocket)
@@ -295,8 +296,11 @@ My passion for this language began in 2007 and still continues today, where the 
 - Blog: https://cosminslife.wordpress.com
 - Twitter: https://twitter.com/cmin764
 - Instagram: https://www.instagram.com/cmin764
+- Photography: https://www.instagram.com/asitisphotos
 - Facebook: https://www.facebook.com/cmin764
-- YouTube: https://www.youtube.com/cmin764
+- YouTube: https://www.youtube.com/@cmin764
+- Nomads: https://nomads.com/@cmin764
+- Goodreads: https://goodreads.com/user/show/84378981-cosmin-poiean
 
 ### Contact
 
@@ -305,4 +309,4 @@ My passion for this language began in 2007 and still continues today, where the 
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 18 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 21 Jan 2026* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
