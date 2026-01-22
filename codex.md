@@ -438,7 +438,7 @@ Drawn to psychologically dense, philosophically rich storytelling — films that
 - **One person rippling outward** — Schindler's List, It's a Wonderful Life, Gran Torino. Impact isn't about scale; it's about depth.
 - **Purpose beyond achievement** — Soul, Stalker. The difference between chasing goals and actually living.
 
-Film profile: [IMDb](https://imdb.com/user/ur12555989)
+Film profile: [IMDb](https://imdb.com/user/ur26245000)
 
 ### Writing
 
