@@ -384,6 +384,28 @@ Digital nomad since 2018. **50+ countries** across Africa, Asia-Pacific, Europe,
 
 Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zurich), Iceland, UK, Finland, Hong Kong.
 
+### Silicon Valley Chapter (2018-2019)
+
+**2018 — Switzerland:**
+
+- Moved to Zurich to work with Fashwell for 3-4 months
+- Visited Google's Zurich office; absorbed their open culture and observed the traits that define Google engineers
+- Fashwell got acquired by Apple mid-stay — flew to Cupertino for a week, had a contract ready to sign but walked away due to restrictive terms
+
+**2019 — LA:**
+
+- Returned to the US, spent 3 months near Venice Beach
+- Several visits to Google's LA office
+- Attended local meetups and entrepreneurial conferences — met Gary Vaynerchuk at one
+- Built key connections that shaped the next career chapter
+
+**Valley Exploration (both years):**
+
+- Tech hubs: Cupertino, San Jose, San Francisco, Oakland
+- Santa Cruz — met the Comfy team for the first time at their retreat; arrived in LA the night before and drove straight into a jacuzzi with future colleagues
+- Seattle — connected with TeqHire/ArcanaBio folks
+- Road trip: Route 66 through Mojave Desert, Las Vegas, Grand Canyon
+
 ### Nomad's Nest (Cyprus Airbnb)
 
 Co-launched with partner — a fully equipped apartment in Ayia Napa, Cyprus for fellow digital nomads and remote workers. 10 minutes to city center, 20 minutes to beaches.
