@@ -338,6 +338,18 @@ Node.js, Express, Nest, gRPC, Protocol Buffers
 
 Claude Code, MCP (Model Context Protocol), Cursor
 
+**AI Workflow Intensity (Nov 2025 - Jan 2026):**
+
+| Metric | Monthly Average |
+|--------|-----------------|
+| Active coding days | ~12 |
+| Sessions | ~62 |
+| Messages | ~12,750 |
+| Tool calls | ~3,280 |
+| Token volume | ~2 billion |
+
+Not using AI as a crutch — using it as a force multiplier. This intensity level translates to 3-5x what typical "AI-assisted" developers consume. The difference: systematic prompting, agentic workflows, and treating AI as a pair programming partner rather than a search engine.
+
 **Domains:**
 
 - API design and back-end logic
