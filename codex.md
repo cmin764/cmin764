@@ -100,7 +100,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 ### Strategic Positioning
 
-> A fractional AI product strategist who happens to be a world-class Python engineer, running a distributed company structure that generates consulting revenue while building a community-driven talent business, with a long-term trajectory toward investment and IP licensing — all from wherever I happen to wake up.
+> Strategy meets execution. Consulting funds the present, community builds the future, IP creates the moat — all from wherever I wake up.
 
 **Multi-Entity Architecture:**
 
@@ -114,7 +114,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 **The Operator → Allocator Transition:**
 
-Angel Squad (Hustle Fund) application signals repositioning from selling time to deploying judgment. From coding room to problem-definition room.
+Angel Squad (Hustle Fund) application marks the shift from selling time to deploying judgment. From coding room to problem-definition room.
 
 **Geographic Arbitrage as Strategy:**
 
@@ -208,8 +208,8 @@ Four virtues guiding life and work:
 - Prefers risky but promising projects over steady-growth corporate life
 - "I can name a lot of geniuses way better than me at building apps and deploying APIs... but not sure how many can resist the pressure of a startup, adapt fast to change and carefully asking the 'why' more often than the 'how' and 'what'."
 - **Diamonds are built under pressure** — Thriving in high-stakes environments where others crack. Pressure reveals character and forges clarity.
-- Radiating from core vs. reflecting others' energy
-- Carrying light, not seeking it — making the invisible visible, the complex simple, the tedious creative
+- Radiating from core, not reflecting others' energy
+- Carrying the light, not seeking it — making the invisible visible, the complex simple
 
 **Favorite quote:** "Do. Or do not. There is no try." — Yoda
 
@@ -356,17 +356,20 @@ Not using AI as a crutch — using it as a force multiplier. This intensity leve
 
 ### Workflow & Tool Preferences
 
-| Category | Ideal | Acceptable | Avoiding |
-|----------|-------|------------|----------|
-| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | Notepad[++] |
-| **Documentation** | Markdown | Text | reStructuredText |
-| **Version Control** | GitHub | GitLab | Bitbucket |
-| **Knowledge Base** | Notion | Coda | Confluence |
-| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | Draw.io |
-| **Project Management** | Linear | ClickUp, Asana | Trello, Jira |
-| **Team Communication** | Twist | Discord | Slack |
-| **Video Communication** | Loom | Google Meet, Zoom | Microsoft Teams |
-| **HR & Culture** | Deel, Culture Amp | Remote, Personio, Brex | Freshteam, 15Five |
+Personal preferences when I have a choice. Client tools are what they are.
+
+| Category | Ideal | Acceptable | Tolerated | Avoiding |
+|----------|-------|------------|-----------|----------|
+| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | | Notepad[++] |
+| **Documentation** | Markdown | Text | | reStructuredText |
+| **Version Control** | GitHub | GitLab | | Bitbucket |
+| **Knowledge Base** | Notion | Coda | Confluence | |
+| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | | Draw.io |
+| **Project Management** | Linear | ClickUp, Asana | Jira | Trello |
+| **Team Communication** | Twist | Discord | Slack | |
+| **Video Communication** | Loom | Google Meet, Zoom | | Microsoft Teams |
+| **HR & Culture** | Deel, Culture Amp | Remote, Personio | | Freshteam, 15Five |
+| **Finance** | Airwallex, Wise | Revolut, Brex | | Traditional banks |
 
 **Domains:**
 
@@ -427,7 +430,7 @@ Three principles guiding daily work:
 | **Chinese Bamboo** | Stephen Covey | Five years of invisible root-building before explosive growth. The "nothing is happening" phase is where foundations form. |
 | **Chop Wood, Carry Water** | Zen proverb | Enlightenment transforms inner state, not circumstances. Presence in daily practice. The mundane is the practice. |
 
-**Connecting thread:** Fall in love with the process. The breakthrough comes from what you do when nothing seems to be happening.
+**The thread:** Fall in love with the process. The breakthrough comes from what you do when nothing seems to be happening.
 
 ---
 

@@ -6,7 +6,7 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 
 AI handles the repetition. Humans fill the gaps that need judgment. That's the split, and it's how we should build.
 
-Sr. Software Engineer with business and leadership chops. Passionate about startups, photography, videography, art, reading, and traveling (50+ countries as a digital nomad). Impact and results over hours logged.
+Sr. Software Engineer with business and leadership chops. Drawn to startups, photography, art, reading, and traveling (50+ countries as a digital nomad). Impact and results over hours logged.
 
 ## I. Experience
 

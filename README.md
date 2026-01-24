@@ -2,8 +2,8 @@
 
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
-Passionate about building AI-driven **automation solutions**, scalable **SaaS backends**, and designing efficient APIs that empower businesses to focus more on creativity and less on bureaucracy.  
-I thrive at the intersection of technology, leadership, and ethical AI innovation. A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertise, I specialize in developing enterprise-grade solutions that bridge technical excellence with tangible business outcomes.
+Building AI-driven **automation solutions**, scalable **SaaS backends**, and APIs that let businesses focus on creativity instead of bureaucracy.
+A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertise. I build enterprise-grade systems where technical depth meets real business needs.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
@@ -70,9 +70,9 @@ Tool preferences: [codex](./codex.md#workflow--tool-preferences)
 
 ## 💡 What I'm exploring
 
-- 🌱 **Systems Design**: Growing my expertise in microservices orchestration within the context of distributed systems.
-- 🤖 **Machine Learning & Generative AI**: Diving deeper into LLM/GPT, and their enterprise applications.
-- 💼 **Leadership & Business**: Strengthening customer-centric skills and fostering team autonomy to deliver impactful results.
+- 🌱 **Systems Design**: Microservices orchestration in distributed systems.
+- 🤖 **Generative AI**: LLM/GPT and their enterprise applications.
+- 💼 **Leadership**: Building autonomous teams that ship without friction.
 
 ---
 
