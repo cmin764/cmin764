@@ -90,6 +90,10 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 - **RoPython** — Co-founded Romanian Python community (PSF-sponsored), BDFL, organized conferences and workshops (2014-2016)
 - **InfoEducatie 2014** — Jury member at national projects contest (Google-sponsored)
 
+**Mentorship:**
+
+- **[Young Founders School (YFS)](https://www.youngfoundersschool.com/)** — Mentored Iciar Mendieta (Spain) through a 4-week virtual internship (Oct-Nov 2025) exploring "Reimagining Online Interviews: Designing the Future of Trust and Human Connection in Remote Hiring." Shared lessons from consulting and entrepreneurship on career, hiring, and life — encouraging AI as a fair collaborator rather than a surveillance tool, even during interviews. Iciar delivered a final pitch to the Wandercode team and earned a recommendation for IE University's Junior Advisory Board.
+
 ---
 
 ## What I'm Building Now

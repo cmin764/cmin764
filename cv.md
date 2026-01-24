@@ -26,6 +26,10 @@ Sr. Software Engineer with business and leadership chops. Passionate about start
     - **[VONQ](https://www.vonq.com/)** (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation — full-stack with Python/Django and React.
     - **[A5 Labs](https://a5labs.co/)** (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
+    Volunteer:
+
+    - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator—even during interviews.
+
 2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.org/)**, Cyprus: Nov 2024 - Present
 
     A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
