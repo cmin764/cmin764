@@ -40,19 +40,14 @@ I thrive at the intersection of technology, leadership, and ethical AI innovatio
 - AWS, GCP (App Engine, Functions, Firestore), Heroku, Vercel
 - OpenTelemetry, Prometheus, Grafana (Loki, Tempo)
 
-### Tools
+### How I Work
 
-| Category | Ideal | Acceptable | Avoiding |
-|----------|-------|------------|----------|
-| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | Notepad[++] |
-| **Documentation** | Markdown | Text | reStructuredText |
-| **Version Control** | GitHub | GitLab | Bitbucket |
-| **Knowledge Base** | Notion | Coda | Confluence |
-| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | Draw.io |
-| **Project Management** | Linear | ClickUp, Asana | Trello, Jira |
-| **Team Communication** | Twist | Discord | Slack |
-| **Video Communication** | Loom | Google Meet, Zoom | Microsoft Teams |
-| **HR & Culture** | Deel, Culture Amp | Remote, Personio, Brex | Freshteam, 15Five |
+- **Embedded operator:** I integrate into your Slack, GitHub, standups. Not a vendor on the outside; part of the team without the payroll.
+- **Blueprint-first:** Research, plan, execute. Front-load the design with AI tooling so code ships with confidence.
+- **Value over hours:** Outcomes-based pricing tied to business impact. Expertise creates compression, not expansion.
+- **Fast iterations:** Ship early, gather feedback, refine. Small batches over big bangs.
+
+Tool preferences: [codex](./codex.md#workflow--tool-preferences)
 
 ---
 

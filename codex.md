@@ -354,6 +354,20 @@ Claude Code, MCP (Model Context Protocol), Cursor
 
 Not using AI as a crutch — using it as a force multiplier. This intensity level translates to 3-5x what typical "AI-assisted" developers consume. The difference: systematic prompting, agentic workflows, and treating AI as a pair programming partner rather than a search engine.
 
+### Workflow & Tool Preferences
+
+| Category | Ideal | Acceptable | Avoiding |
+|----------|-------|------------|----------|
+| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | Notepad[++] |
+| **Documentation** | Markdown | Text | reStructuredText |
+| **Version Control** | GitHub | GitLab | Bitbucket |
+| **Knowledge Base** | Notion | Coda | Confluence |
+| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | Draw.io |
+| **Project Management** | Linear | ClickUp, Asana | Trello, Jira |
+| **Team Communication** | Twist | Discord | Slack |
+| **Video Communication** | Loom | Google Meet, Zoom | Microsoft Teams |
+| **HR & Culture** | Deel, Culture Amp | Remote, Personio, Brex | Freshteam, 15Five |
+
 **Domains:**
 
 - API design and back-end logic
