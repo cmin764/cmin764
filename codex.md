@@ -403,6 +403,18 @@ A navigation system for different moments in life and work:
 | **Mama Qucha** (Water) | Flow, adaptation, connecting distant shores | Finding ways around obstacles rather than forcing through. Smooth transitions between contexts. Adaptation is more powerful than resistance. |
 | **Pachamama** (Earth) | Grounding, abundance thinking, sustainable cultivation | Wealth is cultivated like a garden, not extracted. Staying rooted while moving. True wealth includes health, connections, experiences — not just bank balances. |
 
+### The Practice
+
+Three principles guiding daily work:
+
+| Principle | Source | Core Idea |
+|-----------|--------|-----------|
+| **Surrender the Outcome** | Brook Cupps | Focus on process over results. Identity lives in who you are, not what you achieve. Trust preparation, release attachment. |
+| **Chinese Bamboo** | Stephen Covey | Five years of invisible root-building before explosive growth. The "nothing is happening" phase is where foundations form. |
+| **Chop Wood, Carry Water** | Zen proverb | Enlightenment transforms inner state, not circumstances. Presence in daily practice. The mundane is the practice. |
+
+**Connecting thread:** Fall in love with the process. The breakthrough comes from what you do when nothing seems to be happening.
+
 ---
 
 ## Creative Side
