@@ -420,6 +420,40 @@ Maldives (3x), Fiji, Seychelles, Mauritius, Sri Lanka, Zanzibar — drawn to tro
 
 Travel log: [Nomads](https://nomads.com/@cmin764) — *"Avid couple traveler looking for adventure at every step. Embracing cultural differences while seeking human connection."*
 
+### Adventure Moments
+
+**Safari & Wildlife:**
+
+- **Kenya** — Maasai Mara safari
+- **Namibia** — Self-safari with a 4x4 through Etosha; got locked in after chasing a beautiful sunset — eventually someone opened the gates; slept in a tent in Deadvlei; on the way back, an old man pointed a rifle at our car — turned out he was after cattle thieves, not us
+- **Zambia** — Helicopter ride above Victoria Falls; walked with rhinos face-to-face in a protected area, guards nearby watching for poachers
+
+**Two-Wheel Freedom:**
+
+- **Bali** — First scooter ride with my girlfriend on Nusa Penida: no driver license (left as guarantee), left-side driving, no plates — pure freedom; floated in a pool at night watching the stars
+- **Fiji** — Visited a local tribe on a scooter near Lautoka — road conditions so rough on the way back that locals picked us up in their car and we had a blast
+- **South Africa** — Scooter ride to Cape of Good Hope, penguin spotting along the way
+- **Italy** — Amalfi coast scooter from Positano back to Salerno at night, stopping for local sweets and limoncello lemons
+
+**Road Trips:**
+
+- **Sri Lanka** — Drove a Suzuki Every for a month; the road surfaced every funny moment a country can offer
+
+**Island Moments:**
+
+- **Fiji** — Island-hopped across Yasawa (Mana, Nacula)
+- **Philippines** — Witnessed every sunset for a month on Boracay's White Beach
+- **Maldives** — Three visits, deep peace on white coral beaches; first encounter on Dhigurah island — arrived at night, walked straight to the beach, full moon shining through palm fronds while the wind made them rustle in soft susurrus
+
+**Rails:**
+
+- **Japan** — First railroad experience; jumped from train to train exploring half the country
+
+**Celebrations:**
+
+- **Jordan** — Christmas at Petra, then NYE under the quiet sandy skies of Wadi Rum
+- **Zanzibar** — Most exotic NYE (2021-2022)
+
 ---
 
 ## Creative & Personal Pursuits
