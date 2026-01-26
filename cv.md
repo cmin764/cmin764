@@ -23,8 +23,8 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
     Clients:
 
-    - **[VONQ](https://www.vonq.com/)** (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation. Full-stack with Python/Django and React.
-    - **[A5 Labs](https://a5labs.co/)** (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation. Full-stack with Python/Django and React.
+    - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
 
