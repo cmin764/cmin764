@@ -358,18 +358,18 @@ Not using AI as a crutch — using it as a force multiplier. This intensity leve
 
 Personal preferences when I have a choice. Client tools are what they are.
 
-| Category | Ideal | Acceptable | Tolerated | Avoiding |
-|----------|-------|------------|-----------|----------|
-| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | | Notepad[++] |
-| **Documentation** | Markdown | Text | | reStructuredText |
-| **Version Control** | GitHub | GitLab | | Bitbucket |
-| **Knowledge Base** | Notion | Coda | Confluence | |
-| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | | Draw.io |
-| **Project Management** | Linear | ClickUp, Asana | Jira | Trello |
-| **Team Communication** | Twist | Discord | Slack | |
-| **Video Communication** | Loom | Google Meet, Zoom | | Microsoft Teams |
-| **HR & Culture** | Deel, Culture Amp | Remote, Personio | | Freshteam, 15Five |
-| **Finance** | Airwallex, Wise | Revolut, Brex | | Traditional banks |
+| Category | Ideal | Acceptable | Tolerated |
+|----------|-------|------------|-----------|
+| **Code Editors** | Cursor & Claude Code (MCP) | PyCharm, VSCode, Vim | Notepad[++] |
+| **Documentation** | Markdown | Text | reStructuredText |
+| **Version Control** | GitHub | GitLab | Bitbucket |
+| **Knowledge Base** | Notion | Coda | Confluence |
+| **Design & Diagrams** | Excalidraw & Mermaid | Miro, Whimsical | Draw.io |
+| **Project Management** | Linear | ClickUp, Asana | Jira, Trello |
+| **Team Communication** | Twist | Discord | Slack |
+| **Video Communication** | Loom | Google Meet, Zoom | Microsoft Teams |
+| **HR & Culture** | Deel, Culture Amp | Remote, Personio | Freshteam, 15Five |
+| **Finance** | Airwallex, Wise | Revolut, Brex | Traditional banks |
 
 **Domains:**
 
