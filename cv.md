@@ -30,7 +30,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
     - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator, even during interviews.
 
-2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.org/)**, Cyprus: Nov 2024 - Present
+2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Cyprus: Nov 2024 - Present
 
     A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
 

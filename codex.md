@@ -529,7 +529,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 | Nomads | https://nomads.com/@cmin764 |
 | Goodreads | https://goodreads.com/user/show/84378981-cosmin-poiean |
 | Wandercode | https://wandercode.ltd |
-| NoMoreApply | https://nomoreapply.org |
+| NoMoreApply | https://nomoreapply.com |
 | **Calendly** | https://calendly.com/cmin764/wandercode-discovery-call |
 | **Alignment Form** | https://tally.so/r/w4vQ6X |
 
