@@ -138,7 +138,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 
 **Active Clients:**
 
-- **VONQ** (Jun 2025 - Present): Recruitment marketing platform with 5,000+ channels. Building agentic candidate assessments with Python/Django and React.
+- **VONQ** (Jun 2025 - Present): Recruitment marketing platform with 5,000+ channels. Built a Meeting Assistant agent (Google Meet integration with live interviewer insights), Interview Retry capability (cross-functional FE/BE with Retell), and agentic candidate assessment automation. Drove AI adoption across the engineering team — contributed CLAUDE.md standards that turned weeks of manual work into minutes. Python/Django and React.
 - **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
 
 **NoMoreApply (Co-Founder):**
@@ -190,6 +190,8 @@ Four virtues guiding life and work:
 - Impact & results > hours worked
 - Quality > vanity metrics
 - Renewable value creation > extractive transactions
+- Shrink the build-measure-learn loop — if feedback stalls, stop building. Shipping without a listener is waste.
+- Work backward from the customer, even when the org chart separates you from delivery
 
 **On Startups (from accelerator programs):**
 
@@ -201,9 +203,10 @@ Four virtues guiding life and work:
 
 - **Mandate vs. lead by example** — The sweet spot lies between "my way or the highway" and endless voting that never reaches agreement. Brainstorm, offer options, but be the leader who draws the line and sets the path forward.
 - **No responsibility without authority** — I don't take responsibility for outcomes I can't influence. Otherwise I'm just your scapegoat on a sinking ship.
-- **Hire me to tell you what to do, not the other way around** — If you need someone to execute orders, that's not me. Hire experts for their judgment.
+- **Hire me to tell you what to do, not the other way around** — Give me the "why" and the goals. Figuring out the "how" is what you're paying for. If you need someone to execute orders, that's not me.
 - **If you hire me to just code, I'm sorry, that's for Claude Code** — Pure execution is commoditized. I bring strategic value, not keystrokes.
 - **I don't work for companies — I work with people** — The engagement is peer-to-peer. If you see me as a vendor, we're already misaligned. I partner with professionals who understand my value and want me invested in their outcome.
+- **Show, don't mandate AI adoption** — Proving the value through continuous results, not policy. When the team sees weeks compressed into minutes, adoption follows naturally. Culture shifts through evidence, not evangelism.
 
 **On Self:**
 

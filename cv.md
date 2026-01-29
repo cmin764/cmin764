@@ -14,7 +14,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
     Fractional AI Product Engineer helping B2B startups build intelligent products, from strategy to production. Results as a Service: no hours billed, only outcomes delivered.
 
-    - Embedding into client teams as a technical co-pilot, increasing engineering velocity through AI-assisted development.
+    - Embedding into client teams as a technical co-pilot, increasing engineering velocity through blueprint-first, confidence-driven agentic development. Influencing culture through hands-on adoption: battle-testing solutions with generated code and tests, establishing shared coding conventions, wiring MCP integrations into the team's existing toolchain, and shifting code review practices toward augmented workflows.
     - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
     - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
     - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
@@ -23,7 +23,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Building agentic candidate assessments, scoring, and funnel automation. Full-stack with Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent integrating with Google Meet for real-time interviewer insights, an Interview Retry capability with Retell, and agentic candidate assessment automation. Championed AI-assisted development across the engineering team, contributing reusable CLAUDE.md conventions and compressing multi-week manual efforts into minutes. Full-stack with Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
