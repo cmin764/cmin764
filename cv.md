@@ -12,18 +12,18 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
 
-    Fractional AI Product Engineer helping B2B startups build intelligent products, from strategy to production. Results as a Service: no hours billed, only outcomes delivered.
+    Fractional AI Product Engineer helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
-    - Embedding into client teams as a technical co-pilot, increasing engineering velocity through blueprint-first, confidence-driven agentic development. Influencing culture through hands-on adoption: battle-testing solutions with generated code and tests, establishing shared coding conventions, wiring MCP integrations into the team's existing toolchain, and shifting code review practices toward augmented workflows.
+    - Embedding into client teams as a technical co-pilot. Blueprint-first, confidence-driven agentic development. Influencing culture hands-on: generated code and tests battle-tested against manual craft, shared coding conventions, MCP integrations wired into the existing toolchain, code reviews shifted toward augmented workflows.
     - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
     - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
     - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance requirements demand systematic approaches. Solid open-source background. Developed Blugen, a proprietary blueprint-first code generation methodology enabling confidence-driven development.
+    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: proprietary blueprint-first code generation methodology for confidence-driven development.
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent integrating with Google Meet for real-time interviewer insights, an Interview Retry capability with Retell, and agentic candidate assessment automation. Championed AI-assisted development across the engineering team, contributing reusable CLAUDE.md conventions and compressing multi-week manual efforts into minutes. Full-stack with Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent (Google Meet, real-time interviewer insights), Interview Retry with Retell, and agentic candidate assessment automation. Drove AI-assisted development across the team, compressing multi-week manual efforts into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
@@ -42,7 +42,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
-    As a cohesive team of 5 Python engineers, we established the foundation of running [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core of the framework, a server ([Action Server](https://github.com/Sema4AI/actions)) built on FastAPI discovers packages exposing actions to run locally in isolation. The "meat" of these actions is pure Python logic operating over internal and external resources. We built the "hands & legs" of the AI: execution after reasoning.
+    Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation — pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
 
     - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
     - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
@@ -50,32 +50,32 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
     - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
     - Held talks about our development tools and Python automation to wider external audiences.
 
-    Hired strong engineers and built a subteam around Python development and CI/CD best practices. Grew as a manager by learning to reduce friction, nurture autonomy, and keep the roadmap flexible when the product kept shifting. This role came from Robocorp's acquisition by Sema4AI, a full rebrand that pushed me into leadership.
+    Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
 
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
-    Open-source automation through developer tools and Python libraries. Built an open community of 10k users, enabling citizen developers without CS backgrounds to automate their work through code.
+    Open-source automation through developer tools and Python libraries. 10k-user community enabling citizen developers to automate their work through code.
 
     - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
     - PyPI package development and dependency management with cloud-based integration testing coverage.
     - Contributed to a public gallery of use-case driven examples employing our tools.
     - Fully committed to customer support threads and calls. Understanding what burned most and fixing it to drive company growth.
 
-    Leveled up significantly here. Sharpened RPA skills, learned to prioritize ruthlessly, and figured out how to communicate with empathy without losing directness. The company culture stuck with me.
+    Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
-    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps integrating with Gorgias. Everything moved fast and was data-driven. Staying agile while getting quickly to "no" on long-term decisions was key. Holding the line on multiple fronts won partners over the competition.
+    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Fast, data-driven environment. Getting quickly to "no" on long-term decisions was key. Holding the line on multiple fronts won partners over the competition.
 
     - Grew and led the Developer Experience team while helping partners and external developers integrate with Gorgias.
     - Laid the tech foundation of an App Store with OAuth2 support where developers could publish and monetize their own apps.
     - Improved the REST API and docs with a startup mindset.
 
-    Thought I found the culture, processes, and transparency I wanted, but the sole focus was customer impact & support.
+    Great culture and transparency, but the sole focus was customer impact & support.
 
 6. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
 
-    Smart buildings IoT startup. Led by example, making technical and team decisions in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
+    Smart buildings IoT startup. Led by example in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
 
     - Established the architecture and code layout for micro-services handling sensor-based events using Go and Python with Django.
     - Used Google's gRPC protocol buffers under a grpc-gateway reverse proxy transcoder with Python 3 service implementors.
@@ -92,7 +92,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
     - DNA sequencing and PCR automation involving Blast and Primer around NCBI ecosystem.
     - Async programming in Python 3 with aiohttp and asyncio under exotic ASGI frameworks.
 
-    Pivoted from full-time dev to part-time lead, managing brainstorms, tasks, and documentation.
+    Pivoted from full-time dev to part-time lead managing brainstorms, tasks, and docs.
 
 8. *Software Engineer* @ **Fashwell**, Switzerland: August 2018 - November 2018 (4 months)
 
@@ -106,7 +106,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 9. *Python DevOps* @ **TeqHire**, Iceland: October 2016 - April 2018 (1 year 7 months)
 
-    One-man army. Built trust with the co-founders, which meant full autonomy: proposing, scoping, building, deploying, and maintaining features end-to-end.
+    One-man army. Full autonomy from the co-founders: proposing, scoping, building, deploying, and maintaining features end-to-end.
 
     - Developed a Flask web app on App Engine that categorized public professional data to match people with suitable job positions.
     - Created an Elastic Search ML component for data post-processing and analytics.
@@ -124,7 +124,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
     - Helped small clients unite and become wholesale buyers through the platform.
     - Implemented recurring orders, custom pricing, and various payment options.
 
-    Pitched at Wolves Summit, secured state grants. Learned that diplomacy and discipline win over cleverness.
+    Pitched at Wolves Summit, secured state grants. Diplomacy and discipline win over cleverness.
 
 11. *Operational Researcher* @ **Reckon Digital**, UK: January 2016 - February 2016 (2 months)
 
@@ -146,7 +146,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 13. *Malware Researcher* @ **Bitdefender**, Romania: February 2013 - September 2014 (1 year 8 months)
 
-    First job out of college at the world's top antivirus company. Built distributed systems for parallel data processing and threat analysis. High-stakes security infrastructure from day one.
+    First job out of college at the world's top antivirus company. Distributed systems for parallel data processing and threat analysis. High-stakes security from day one.
 
     - DrLink: a service designed to efficiently crawl web apps with distributed threat and suspicious file scanning.
     - Scrappy: an advanced application scraper that can recover from its last state in case of a stop/crash, which runs on custom plugins.
