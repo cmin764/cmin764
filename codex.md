@@ -106,7 +106,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 | Entity | Purpose |
 |--------|---------|
-| **Wandercode** | Premium consulting (1-2 clients, $100-300+/hr). Embedded in client teams but sovereign. |
+| **Wandercode** | Premium consulting (1-2 clients, $100-300+/hr). Embedded in client teams but sovereign. Partnership, not procurement. |
 | **Driftware Dynamics** | Holds NoMoreApply, provides management services to Wandercode. Cyprus non-dom structure. |
 | **NoMoreApply** | Long game. Trust-based talent network. Revenue while sleeping. |
 
@@ -124,6 +124,8 @@ The nomad pattern isn't lifestyle — it's proving: "I am the product, not my lo
 
 Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable (workshops $15-250K), licensable, moat in client engagements. Selling outcomes, not hours.
 
+The core paradox: AI code generation is inherently non-deterministic — same prompt, different output every time. Blugen solves this by wrapping non-deterministic generation in deterministic blueprints. The AI improvises within rails. The output is production-grade, reproducible, auditable. That's the IP.
+
 ### Current Engagements
 
 **Wandercode (Owner):**
@@ -131,7 +133,7 @@ Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies sys
 - **Model:** Fractional AI Product Engineer — "Results as a Service" (outcomes, not hours)
 - **Focus:** B2B startups, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, iGaming
-- **Methodology:** Blugen (blueprint-first code generation)
+- **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
 - **Services:** Consultancy & strategy, AI product development, Workshops & training
 
 **Active Clients:**
@@ -201,6 +203,7 @@ Four virtues guiding life and work:
 - **No responsibility without authority** — I don't take responsibility for outcomes I can't influence. Otherwise I'm just your scapegoat on a sinking ship.
 - **Hire me to tell you what to do, not the other way around** — If you need someone to execute orders, that's not me. Hire experts for their judgment.
 - **If you hire me to just code, I'm sorry, that's for Claude Code** — Pure execution is commoditized. I bring strategic value, not keystrokes.
+- **I don't work for companies — I work with people** — The engagement is peer-to-peer. If you see me as a vendor, we're already misaligned. I partner with professionals who understand my value and want me invested in their outcome.
 
 **On Self:**
 
@@ -218,7 +221,7 @@ Four virtues guiding life and work:
 - "Founder mode" with genuine leadership influence and people management
 - Growing multifunctional cohesive autonomous teams in remote-first async setups
 - Senior backend/solutions/lead engineer moving the needle
-- Intrapreneur trajectory — being a partner rather than just an employee
+- Partnering with likeminded professionals who get it — not serving org charts
 - Contributing to innovation and growth, not just execution
 
 ---
@@ -353,6 +356,8 @@ Claude Code, MCP (Model Context Protocol), Cursor
 | Token volume | ~2 billion |
 
 Not using AI as a crutch — using it as a force multiplier. This intensity level translates to 3-5x what typical "AI-assisted" developers consume. The difference: systematic prompting, agentic workflows, and treating AI as a pair programming partner rather than a search engine.
+
+The volume works because the methodology is designed for it — non-deterministic generation channeled through deterministic blueprints. Every session starts from a structured plan, not a blank prompt.
 
 ### Workflow & Tool Preferences
 
