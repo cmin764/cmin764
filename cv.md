@@ -6,7 +6,7 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 
 AI handles the repetition. Humans fill the gaps that need judgment. That's the split, and it's how we should build.
 
-Sr. Software Engineer with business and leadership chops. Drawn to startups, photography, art, reading, and traveling (50+ countries as a digital nomad). Impact and results over hours logged.
+Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping B2B startups build intelligent products — strategy to production. Impact and results over hours logged.
 
 ## I. Experience
 
@@ -14,16 +14,18 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
     Fractional AI Product Engineer helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
-    - Embedding into client teams as a technical co-pilot. Blueprint-first, confidence-driven agentic development. Influencing culture hands-on: generated code and tests battle-tested against manual craft, shared coding conventions, MCP integrations wired into the existing toolchain, code reviews shifted toward augmented workflows.
+    - Joining client teams as an embedded technical partner. Every generated artifact — code, tests, migrations — is battle-tested against manual craft, with shared coding conventions, MCP integrations wired into the existing toolchain, and code reviews shifted toward augmented workflows.
     - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
     - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
     - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: proprietary blueprint-first code generation methodology for confidence-driven development.
+    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: AI code generation is non-deterministic by nature — same prompt, different output every time. Blugen wraps that generation in deterministic blueprints. The AI improvises within rails; the output is production-grade, reproducible, auditable.
+
+    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens processed. Not a Copilot user — a systematic operator running agentic workflows at production intensity.
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent (Google Meet, real-time interviewer insights), Interview Retry with Retell, and agentic candidate assessment automation. Drove AI-assisted development across the team, compressing multi-week manual efforts into minutes. Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent (Google Meet, real-time interviewer insights), Interview Retry with Retell, and agentic candidate assessment automation. Introduced CLAUDE.md standards and agentic workflows that compressed multi-week manual efforts into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
@@ -35,10 +37,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
     A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
 
     - Building a vetted network where peer recommendations replace interview theater and multi-stage hiring processes.
-    - Connecting talent with referral partners, creating value for engineers, companies, and referrers alike.
-    - Fostering knowledge sharing around tech, career growth, company cultures, and digital nomad life.
-
-    Handling the legal side including contracts, referral agreements, and member vetting. Establishing internal culture, documenting workflows, defining interview standards, and onboarding new referral job providers. Contributing tax guidance and optimization strategies for digital nomads.
+    - Running the operational backbone: contracts, referral agreements, member vetting, interview standards, and tax guidance for digital nomads.
 
 3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
@@ -65,7 +64,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
-    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Fast, data-driven environment. Getting quickly to "no" on long-term decisions was key. Holding the line on multiple fronts won partners over the competition.
+    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Getting quickly to "no" on long-term decisions was key. Speed of conviction won partners over the competition.
 
     - Grew and led the Developer Experience team while helping partners and external developers integrate with Gorgias.
     - Laid the tech foundation of an App Store with OAuth2 support where developers could publish and monetize their own apps.
@@ -180,16 +179,14 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
     - web services and APIs with frameworks & concepts like:
         - FastAPI (Pydantic, OpenAPI, OIDC)
         - Flask (MVT, REST, WebSocket)
-        - gRPC (Protocol Buffers)
         - Django, webapp2, CherryPy
-        - Hug, Pycnic
-        - Bocadillo, Starlette (async)
+        - Starlette (async)
     - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
         - NoSQL: Datastore (Bigtable), Redis, ElasticSearch, MongoDB
         - SQL: PostgreSQL, MySQL, SQLite
     - deep use of the standard library and language reference
     - software architecture, OOP, and design patterns
-    - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery)
+    - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery, gRPC/Protocol Buffers)
     - data scraping, analysis, computation and modeling on multiple nodes
     - regular expressions and optimal data sharding & storing procedures
     - GUI programming in Tkinter and NUI with Kivy
@@ -245,7 +242,7 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 7. Served on the jury at InfoEducatie 2014 (Google-sponsored national contest) and designed an open challenge for transmitting data between devices without conventional technology.
 
-8. Passed the entire hiring process and elaborate psychological interview at DarkMatter, UAE.
+8. Passed one of the most rigorous hiring processes in the security industry, including an extensive psychological evaluation.
 
 9. Landed my first job right after entering college at Bitdefender, a top global antivirus company.
 
@@ -269,7 +266,9 @@ Sr. Software Engineer with business and leadership chops. Drawn to startups, pho
 
 Born in Romania (Focșani, 1993). Started by breaking electronics apart to understand how they worked. Physics came next: national olympiad honors in mechanics, optics, and quantum. Then someone saw my Batch scripts and said: *"Without a real programming language, you're like a lion in a cage."*
 
-That led me to **Python** in 2007. The first 6 non-professional years taught me as much as the 13 professional ones. I never gave up social life, sports, or pushing past comfort zones.
+That led me to **Python** in 2007. The first 6 non-professional years taught me as much as the 13 professional ones. 50+ countries as a digital nomad, drawn to startups, photography, art, reading, and the kind of travel that changes how you think.
+
+Companies keep hiring me to write code. The real value is deciding which code is worth writing.
 
 ### Volunteer
 
@@ -313,4 +312,4 @@ That led me to **Python** in 2007. The first 6 non-professional years taught me 
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 21 Jan 2026, voice aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 31 Jan 2026, codex aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
