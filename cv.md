@@ -6,7 +6,7 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 
 AI handles the repetition. Humans fill the gaps that need judgment. That's the split, and it's how we should build.
 
-Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping B2B startups build intelligent products — strategy to production. Impact and results over hours logged.
+Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping B2B startups build intelligent products, from strategy to production. Impact and results over hours logged.
 
 ## I. Experience
 
@@ -14,14 +14,14 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Fractional AI Product Engineer helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
-    - Joining client teams as an embedded technical partner. Every generated artifact — code, tests, migrations — is battle-tested against manual craft, with shared coding conventions, MCP integrations wired into the existing toolchain, and code reviews shifted toward augmented workflows.
+    - Joining client teams as an embedded technical partner. Every generated artifact (code, tests, migrations) is battle-tested against manual craft, with shared coding conventions, MCP integrations wired into the existing toolchain, and code reviews shifted toward augmented workflows.
     - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
     - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
     - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: AI code generation is non-deterministic by nature — same prompt, different output every time. Blugen wraps that generation in deterministic blueprints. The AI improvises within rails; the output is production-grade, reproducible, auditable.
+    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: AI code generation is non-deterministic by nature: same prompt, different output every time. Blugen wraps that generation in deterministic blueprints. The AI improvises within rails; the output is production-grade, reproducible, auditable.
 
-    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens processed. Not a Copilot user — a systematic operator running agentic workflows at production intensity.
+    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens processed. Not a Copilot user, but a systematic operator running agentic workflows at production intensity.
 
     Clients:
 
@@ -41,7 +41,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 3. *Software Engineering Lead* @ **Sema4AI**, USA: Nov 2023 - Jul 2024 (9 months)
 
-    Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation — pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
+    Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation, pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
 
     - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
     - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
