@@ -14,18 +14,16 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Fractional AI Product Engineer helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
-    - Joining client teams as an embedded technical partner. Every generated artifact (code, tests, migrations) is battle-tested against manual craft, with shared coding conventions, MCP integrations wired into the existing toolchain, and code reviews shifted toward augmented workflows.
-    - Consultancy & strategy: AI readiness assessments, tech stack recommendations, build vs. buy analysis.
-    - AI product development: LLM integration, RAG pipelines, backend systems, and DevOps.
-    - Workshops & training: Claude Code mastery, MCP integration, and context engineering.
+    - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
+    - Services: AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude Code/MCP workshops.
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech) where compliance demands systematic approaches. Solid open-source background. Blugen: AI code generation is non-deterministic by nature: same prompt, different output every time. Blugen wraps that generation in deterministic blueprints. The AI improvises within rails; the output is production-grade, reproducible, auditable.
+    Sweet spot in regulated industries (hrtech, fintech, biotech). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
 
-    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens processed. Not a Copilot user, but a systematic operator running agentic workflows at production intensity.
+    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Recall-based Meeting Assistant that joins live Google Meet interviews, analyzes conversations passively, and intervenes proactively when it can unblock dialogue (with private interviewer insights). Delivered Interview Retry over Retell (cross-functional FE/BE, metadata tracking, candidate stage transitions) and a Knowledge Base crawler on Firecrawl powering a Careers Agent for CV-based job recommendations. Agentic candidate assessment including a language evaluation MVP for Picnic. Drove AI adoption by example across the engineering team: contributed CLAUDE.md standards and battle-tested workflows that compressed multi-week efforts into minutes. Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing platform, 5,000+ job channels. Built a Recall-based Meeting Assistant (Google Meet, passive analysis with proactive intervention, private interviewer insights), Interview Retry with Retell (cross-functional FE/BE, candidate stage transitions), and a Knowledge Base crawler on Firecrawl powering a Careers Agent for CV-based job matching. Candidate assessment automation with language evaluation MVP for Picnic. Drove AI adoption by example: CLAUDE.md standards and workflows compressing weeks into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
