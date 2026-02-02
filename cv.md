@@ -25,7 +25,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Meeting Assistant agent (Google Meet, real-time interviewer insights), Interview Retry with Retell, and agentic candidate assessment automation. Introduced CLAUDE.md standards and agentic workflows that compressed multi-week manual efforts into minutes. Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Present): Recruitment marketing technology platform distributing jobs to 5,000+ channels via deep ATS integrations. Built a Recall-based Meeting Assistant that joins live Google Meet interviews, analyzes conversations passively, and intervenes proactively when it can unblock dialogue (with private interviewer insights). Delivered Interview Retry over Retell (cross-functional FE/BE, metadata tracking, candidate stage transitions) and a Knowledge Base crawler on Firecrawl powering a Careers Agent for CV-based job recommendations. Agentic candidate assessment including a language evaluation MVP for Picnic. Drove AI adoption by example across the engineering team: contributed CLAUDE.md standards and battle-tested workflows that compressed multi-week efforts into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
