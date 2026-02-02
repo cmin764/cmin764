@@ -130,7 +130,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 
 **Wandercode (Owner):**
 
-- **Model:** Fractional AI Product Engineer — "Results as a Service" (outcomes, not hours)
+- **Model:** Fractional AI Product Strategist — "Results as a Service" (outcomes, not hours)
 - **Focus:** B2B startups, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, iGaming
 - **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.

@@ -12,7 +12,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
 
-    Fractional AI Product Engineer helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
+    Fractional AI Product Strategist helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
     - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
     - Services: AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude Code/MCP workshops.
