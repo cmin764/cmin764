@@ -142,7 +142,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
     - **Meeting Assistant**: Recall-based agent that joins Google Meet interviews, passively analyzes recruiter-candidate conversations, and optionally intervenes to unblock dialogue. Private live insights for interviewers. Novel capability, first of its kind at VONQ.
     - **Interview Retry**: Web audio interview recovery with Retell. Cross-functional FE/BE delivery including metadata tracking for failure states and candidate stage transition fixes.
     - **Knowledge Base**: Automatic career site crawler (Firecrawl backbone) feeding a Careers Agent that recommends jobs to candidates based on uploaded CVs and chat, routing them to origin websites with matching roles.
-    - **Candidate Assessment**: Agentic automation for evaluating candidates, including a language assessment MVP delivered for the Picnic client.
+    - **Candidate Assessment**: Agentic automation for evaluating candidates, including a language assessment MVP delivered for a major European client.
     - **AI Adoption**: Drove team-wide adoption by example, not mandate. Battle-tested manual craft against AI-generated code, tests, and scripts. Contributed CLAUDE.md standards and got engineers experimenting with Claude Code and Cursor on their own. Weeks compressed to minutes as demonstrated fact.
 - **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
 
