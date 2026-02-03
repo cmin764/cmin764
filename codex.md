@@ -191,6 +191,7 @@ Four virtues guiding life and work:
 - Removing "im" from impossible
 - "Languages are just tools, frameworks can be easily learned."
 - "Action over deliberation" — learned at Robocorp
+- "Move fast and break things" became "move fast and get investigated" — AI in 2026 demands security, compliance, and privacy guardrails. Speed without governance is liability, not velocity.
 - Effectiveness towards end consumer > efficiency metrics
 - Impact & results > hours worked
 - Quality > vanity metrics
