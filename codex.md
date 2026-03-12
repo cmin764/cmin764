@@ -198,6 +198,8 @@ Four virtues guiding life and work:
 - Renewable value creation > extractive transactions
 - Shrink the build-measure-learn loop — if feedback stalls, stop building. Shipping without a listener is waste.
 - Work backward from the customer, even when the org chart separates you from delivery
+- Three domains, one rhythm: **Learn → Practice → Teach** in engineering. **Research → Plan → Execute** in product. **Audit → Product → Train** in business. The loop closes differently at each layer, but the discipline is the same.
+- Engineers mark the dangerous code with `# don't touch this` and hope someone else deals with it. I read that as a treasure map. The scariest parts of a codebase are where the most leverage lives — and someone has to go there.
 
 **On Startups (from accelerator programs):**
 
