@@ -132,13 +132,14 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 
 - **Model:** Fractional AI Product Strategist — "Results as a Service" (outcomes, not hours)
 - **Focus:** B2B startups, intelligent products, strategy to production
-- **Industries:** hrtech, fintech, biotech, iGaming
+- **Industries:** hrtech, fintech, biotech, healthtech, iGaming
 - **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
 - **Services:** Consultancy & strategy, AI product development, Workshops & training
 
-**Active Clients:**
+**Clients:**
 
-- **VONQ** (Jun 2025 - Present): Recruitment marketing platform distributing jobs to 5,000+ channels via deep ATS integrations. Embedded as a fractional engineer across multiple product streams. Python/Django and React.
+- **Dentio** (Feb 2026, 7 business days): Dental software startup scaling desktop EHR automation from 2 to 19+ systems across Europe. Technical audit and strategic advisory working closely with the CTO. Delivered 17 documents: architecture deep-dive, hybrid stack analysis (pywinauto → robocorp-windows + Playwright verdict with hybrid 4-tier decision flowchart), risk register (28 risks scored, 2 patient-safety items flagged), 3-layer framework blueprint (workflows / EHR adapters / UI drivers with Guardian freeze-detection process), 4-phase roadmap with branched decision trees for open blockers, distribution model (rcc-based, eliminates PyInstaller AV false positives), and 5 experiment specs. Team moved from stack uncertainty to a conditional execution plan. First pure audit engagement for Wandercode — strategy and architecture, no implementation.
+- **VONQ** (Jun 2025 - Feb 2026): Recruitment marketing platform distributing jobs to 5,000+ channels via deep ATS integrations. Embedded as a fractional engineer across multiple product streams. Python/Django and React.
     - **Meeting Assistant**: Recall-based agent that joins Google Meet interviews, passively analyzes recruiter-candidate conversations, and optionally intervenes to unblock dialogue. Private live insights for interviewers. Novel capability, first of its kind at VONQ.
     - **Interview Retry**: Web audio interview recovery with Retell. Cross-functional FE/BE delivery including metadata tracking for failure states and candidate stage transition fixes.
     - **Knowledge Base**: Automatic career site crawler (Firecrawl backbone) feeding a Careers Agent that recommends jobs to candidates based on uploaded CVs and chat, routing them to origin websites with matching roles.
