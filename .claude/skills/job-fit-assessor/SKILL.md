@@ -137,6 +137,12 @@ backend engineering role or a product management role.
 | **Partial (◑)** | Adjacent experience that transfers but doesn't hit squarely. |
 | **Gap (○)** | No credible evidence. Absent or unsubstantiated in the profile. |
 
+Hard requirements with no profile evidence = Gap, even if an equivalency clause exists.
+The clause is an opening to argue in the interview, not a free pass at the rating stage.
+
+Structural/logistical items (employment type, location, clearance, timezone) are binary.
+A concrete conflict is a Gap — rate it honestly and let the note explain what to resolve.
+
 ### 3.3 Score
 
 ```

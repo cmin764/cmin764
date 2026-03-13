@@ -83,9 +83,10 @@ git clone https://github.com/anthropics/skills.git ~/tools/anthropic-skills
 ### Package a skill
 
 ```bash
-cd ~/tools/anthropic-skills
-python -m scripts.package_skill /path/to/repo/.claude/skills/job-fit-assessor
+cd ~/tools/anthropic-skills/skills/skill-creator
+python3 -m scripts.package_skill /path/to/repo/.claude/skills/job-fit-assessor
 # outputs: job-fit-assessor.skill in the current directory
+# note: requires pyyaml — install once with: pip3 install pyyaml
 ```
 
 ### Upload to Claude Chat
@@ -114,8 +115,8 @@ git commit -m "update job-fit-assessor: [what changed]"
 git push
 
 # 4. Repackage
-cd ~/tools/anthropic-skills
-python -m scripts.package_skill /path/to/repo/.claude/skills/job-fit-assessor
+cd ~/tools/anthropic-skills/skills/skill-creator
+python3 -m scripts.package_skill /path/to/repo/.claude/skills/job-fit-assessor
 
 # 5. In claude.ai Settings > Skills: remove the old version, upload the new .skill file
 ```

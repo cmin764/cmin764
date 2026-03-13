@@ -29,6 +29,49 @@ that only hurts the candidate when they walk into an interview unprepared.
 
 ---
 
+## Hard vs. preferred requirements
+
+A hard requirement absent from the profile is a Gap by default. An equivalency clause
+("or equivalent practical experience") is an opening to argue, not a free pass — and
+prepare for ATS to not honour it even when a human recruiter would.
+
+A preferred requirement absent from the profile is Partial at most. But a long list of
+missing preferred items can still drag the score down even if there's no single hard Gap.
+Don't average away a pattern of misses.
+
+---
+
+## Logistics items
+
+Employment type conflicts (full-time permanent role vs. active independent ventures),
+location or clearance mismatches, and schedule conflicts are binary: either resolved or
+not. Default to Gap. The note should tell the candidate what to resolve — not soften
+the conflict into a Partial to make the score look cleaner.
+
+---
+
+## Timezone math
+
+Do the actual UTC math. Clean morning overlap = Strong. Afternoon-to-evening shift
+(sustainable but not frictionless) = Partial. Night shift or no usable overlap = Gap.
+Don't call an evening shift "clean" — that sets the candidate up to be surprised on
+day one.
+
+---
+
+## Item granularity
+
+When a JD bundles multiple distinct sub-domains (e.g. "HR tech, fintech, or workforce
+management"), split into separate items if the candidate's coverage is uneven. A single
+bundled item hides exactly which sub-domain is weak. Surface it — that's the point of
+the assessment.
+
+Same logic applies to leadership scope: "mentoring individuals on AI tools" and "rolling
+out AI governance at org scale" are different items even when the JD lists them in one
+sentence. Split them when evidence covers one but not the other.
+
+---
+
 ## Note-writing rules
 
 Every item gets an assessor note when there's something useful to say. Notes should:
@@ -145,3 +188,7 @@ These aren't technical assessments — they're reality checks. Write them plainl
 - For gaps: be honest about how disqualifying it actually is in context.
 - Never write a note that reassures the candidate when they should be concerned.
   That is not kindness — it's a disservice.
+- Write notes as if you're prepping the candidate for the specific question they'll be
+  asked in this interview. "The Blugen framing is a sellable concept here" is useful.
+  "Strong AI background" is not. Test: would the candidate know exactly what to say
+  walking out of the interview if the note were all they had?
