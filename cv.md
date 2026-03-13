@@ -13,11 +13,11 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
   Fractional AI Product Strategist helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
   - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
-  - Services: AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude Code/MCP workshops.
-    Sweet spot in regulated industries (hrtech, fintech, biotech). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
+  - Services: technical audits, AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude & Cursor workshops.
+    Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
     Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
     Clients:
-  - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Built a Recall-based Meeting Assistant (Google Meet, passive analysis with proactive intervention, private interviewer insights), Interview Retry with Retell (cross-functional FE/BE, candidate stage transitions), and a Knowledge Base crawler on Firecrawl powering a Careers Agent for CV-based job matching. Candidate assessment automation with language evaluation MVP for a leading European grocery delivery platform. Drove AI adoption by example: CLAUDE.md standards and workflows compressing weeks into minutes. Python/Django and React.
+  - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
   - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
     Volunteer:
   - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator, even during interviews.
@@ -27,12 +27,14 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
   - Running the operational backbone: contracts, referral agreements, member vetting, interview standards, and tax guidance for digital nomads.
 3. *Software Engineering Lead* @ **[Sema4AI](https://sema4.ai/)**, USA: Nov 2023 - Jul 2024 (9 months)
   Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation, pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
+  
   - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
   - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
   - Improved the DX of library work and its migration from RPA to native Python automation.
   - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
   - Held talks about our development tools and Python automation to wider external audiences.
-    Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
+  
+  Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
   Open-source automation through developer tools and Python libraries. 10k-user community enabling citizen developers to automate their work through code.
   - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
@@ -230,4 +232,4 @@ Companies keep hiring me to write code. The real value is deciding which code is
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 31 Jan 2026, codex aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 13 Mar 2026, codex aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
