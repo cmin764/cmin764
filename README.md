@@ -48,7 +48,7 @@ A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertis
 - **Fast iterations:** Ship early, gather feedback, refine. Small batches over big bangs.
 - **AI culture catalyst:** I don't just use AI tools — I bring the team along. Shared conventions, live results over policy memos, and engineering practices that outlast my engagement.
 
-Tool preferences: [codex](./codex.md#workflow--tool-preferences)
+[Tool preferences](./codex.md#tool-preferences)
 
 ---
 

@@ -370,7 +370,7 @@ Not using AI as a crutch — using it as a force multiplier. This intensity leve
 
 The volume works because the methodology is designed for it — non-deterministic generation channeled through deterministic blueprints. Every session starts from a structured plan, not a blank prompt.
 
-### Workflow & Tool Preferences
+### Tool Preferences
 
 Personal preferences when I have a choice. Client tools are what they are.
 
