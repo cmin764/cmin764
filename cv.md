@@ -219,7 +219,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
     - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
     - Occasionally: Go, Java, ASM
-    - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku
+    - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku, Vercel
     - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
     - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
     - AI Tooling: Claude Code, MCP (Model Context Protocol), Cursor
