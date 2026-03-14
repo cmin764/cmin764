@@ -11,175 +11,253 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 ## I. Experience
 
 1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
-  Fractional AI Product Strategist helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
-  - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
-  - Services: technical audits, AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude & Cursor workshops.
+
+    Fractional AI Product Strategist helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
+
+    - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
+    - Services: technical audits, AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude & Cursor workshops.
+
     Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
+
     Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
+
     Clients:
-  - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
-  - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
+
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
+    - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
+
     Volunteer:
-  - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator, even during interviews.
+
+    - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator, even during interviews.
+
 2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Cyprus: Nov 2024 - Present
-  A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
-  - Building a vetted network where peer recommendations replace interview theater and multi-stage hiring processes.
-  - Running the operational backbone: contracts, referral agreements, member vetting, interview standards, and tax guidance for digital nomads.
+
+    A private community for trusted engineers who skip the recruiter and get direct introductions to companies through people who know their work.
+
+    - Building a vetted network where peer recommendations replace interview theater and multi-stage hiring processes.
+    - Running the operational backbone: contracts, referral agreements, member vetting, interview standards, and tax guidance for digital nomads.
+
 3. *Software Engineering Lead* @ **[Sema4AI](https://sema4.ai/)**, USA: Nov 2023 - Jul 2024 (9 months)
-  Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation, pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
-  
-  - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
-  - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
-  - Improved the DX of library work and its migration from RPA to native Python automation.
-  - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
-  - Held talks about our development tools and Python automation to wider external audiences.
-  
-  Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
+
+    Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation, pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
+
+    - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
+    - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
+    - Improved the DX of library work and its migration from RPA to native Python automation.
+    - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
+    - Held talks about our development tools and Python automation to wider external audiences.
+
+    Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
+
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
-  Open-source automation through developer tools and Python libraries. 10k-user community enabling citizen developers to automate their work through code.
-  - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
-  - PyPI package development and dependency management with cloud-based integration testing coverage.
-  - Contributed to a public gallery of use-case driven examples employing our tools.
-  - Fully committed to customer support threads and calls. Understanding what burned most and fixing it to drive company growth.
+
+    Open-source automation through developer tools and Python libraries. 10k-user community enabling citizen developers to automate their work through code.
+
+    - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
+    - PyPI package development and dependency management with cloud-based integration testing coverage.
+    - Contributed to a public gallery of use-case driven examples employing our tools.
+    - Fully committed to customer support threads and calls. Understanding what burned most and fixing it to drive company growth.
+
     Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
+
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
-  Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Getting quickly to "no" on long-term decisions was key. Speed of conviction won partners over the competition.
-  - Grew and led the Developer Experience team while helping partners and external developers integrate with Gorgias.
-  - Laid the tech foundation of an App Store with OAuth2 support where developers could publish and monetize their own apps.
-  - Improved the REST API and docs with a startup mindset.
+
+    Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Getting quickly to "no" on long-term decisions was key. Speed of conviction won partners over the competition.
+
+    - Grew and led the Developer Experience team while helping partners and external developers integrate with Gorgias.
+    - Laid the tech foundation of an App Store with OAuth2 support where developers could publish and monetize their own apps.
+    - Improved the REST API and docs with a startup mindset.
+
     Great culture and transparency, but the sole focus was customer impact & support.
+
 6. *Tech Lead* @ **Comfy**, USA: July 2019 - December 2020 (1 year 6 months)
-  Smart buildings IoT startup. Led by example in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
-  - Established the architecture and code layout for micro-services handling sensor-based events using Go and Python with Django.
-  - Used Google's gRPC protocol buffers under a grpc-gateway reverse proxy transcoder with Python 3 service implementors.
-  - Built a Mapbox-compliant API with business logic at database level using PostGIS.
-  - Kept the team aligned through proactive communication and effective mutual help.
-  - Juggled priorities to meet client SLAs and delivery deadlines.
+
+    Smart buildings IoT startup. Led by example in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
+
+    - Established the architecture and code layout for micro-services handling sensor-based events using Go and Python with Django.
+    - Used Google's gRPC protocol buffers under a grpc-gateway reverse proxy transcoder with Python 3 service implementors.
+    - Built a Mapbox-compliant API with business logic at database level using PostGIS.
+    - Kept the team aligned through proactive communication and effective mutual help.
+    - Juggled priorities to meet client SLAs and delivery deadlines.
+
     Saw the full arc of a Siemens acquisition: from startup energy to corporate integration across timezones and cultures.
+
 7. *Back End Developer* @ **ArcanaBio**, Iceland: April 2018 - April 2019 (1 year 1 month)
-  Biotech startup spun out of TeqHire. Built tools for detecting organisms in DNA samples. High-stakes work where accuracy matters. Learned to own problems end-to-end and communicate directly with clients.
-  - DNA sequencing and PCR automation involving Blast and Primer around NCBI ecosystem.
-  - Async programming in Python 3 with aiohttp and asyncio under exotic ASGI frameworks.
+
+    Biotech startup spun out of TeqHire. Built tools for detecting organisms in DNA samples. High-stakes work where accuracy matters. Learned to own problems end-to-end and communicate directly with clients.
+
+    - DNA sequencing and PCR automation involving Blast and Primer around NCBI ecosystem.
+    - Async programming in Python 3 with aiohttp and asyncio under exotic ASGI frameworks.
+
     Pivoted from full-time dev to part-time lead managing brainstorms, tasks, and docs.
+
 8. *Software Engineer* @ **Fashwell**, Switzerland: August 2018 - November 2018 (4 months)
-  ML-powered fashion and furniture detection in milliseconds. Planned, built, and deployed features for API services. Python web apps on Kubernetes in Google Cloud.
-  - Added customizable rate limiting for all exposed endpoints, built on Redis.
-  - Created a bot for analyzing user statistics and generating engaging reports.
-  - Handled global code refactoring (Python 2 to 3), fixes, and quality assurance.
+
+    ML-powered fashion and furniture detection in milliseconds. Planned, built, and deployed features for API services. Python web apps on Kubernetes in Google Cloud.
+
+    - Added customizable rate limiting for all exposed endpoints, built on Redis.
+    - Created a bot for analyzing user statistics and generating engaging reports.
+    - Handled global code refactoring (Python 2 to 3), fixes, and quality assurance.
+
     Improved service reliability through proper rate limiting and fixed auth-side bugs. Great team, later acquired by Apple.
+
 9. *Python DevOps* @ **TeqHire**, Iceland: October 2016 - April 2018 (1 year 7 months)
-  One-man army. Full autonomy from the co-founders: proposing, scoping, building, deploying, and maintaining features end-to-end.
-  - Developed a Flask web app on App Engine that categorized public professional data to match people with suitable job positions.
-  - Created an Elastic Search ML component for data post-processing and analytics.
-  - Aggregated and centralized end-user financial data from multiple banks into one service.
-  - Augmented video streaming with live data extracted from the world's most popular poker platform using OCR and text prediction.
+
+    One-man army. Full autonomy from the co-founders: proposing, scoping, building, deploying, and maintaining features end-to-end.
+
+    - Developed a Flask web app on App Engine that categorized public professional data to match people with suitable job positions.
+    - Created an Elastic Search ML component for data post-processing and analytics.
+    - Aggregated and centralized end-user financial data from multiple banks into one service.
+    - Augmented video streaming with live data extracted from the world's most popular poker platform using OCR and text prediction.
+
     Built connections with sharp people globally, entrepreneurs and CEOs who shaped how I think about building things.
+
 10. *Full Stack Developer* @ **47FARMS**, USA: March 2016 - October 2016 (8 months)
-  Local food systems startup in Princeton. Built tech connecting communities with local producers: restaurant, school, and hospital programs for healthier food access.
-  - Developed and maintained 47farms.com using webapp2 on Google Cloud PaaS.
-  - Enabled parents to order and schedule school lunches for their children across the week.
-  - Helped small clients unite and become wholesale buyers through the platform.
-  - Implemented recurring orders, custom pricing, and various payment options.
+
+    Local food systems startup in Princeton. Built tech connecting communities with local producers: restaurant, school, and hospital programs for healthier food access.
+
+    - Developed and maintained 47farms.com using webapp2 on Google Cloud PaaS.
+    - Enabled parents to order and schedule school lunches for their children across the week.
+    - Helped small clients unite and become wholesale buyers through the platform.
+    - Implemented recurring orders, custom pricing, and various payment options.
+
     Pitched at Wolves Summit, secured state grants. Diplomacy and discipline win over cleverness.
+
 11. *Operational Researcher* @ **Reckon Digital**, UK: January 2016 - February 2016 (2 months)
-  Built a scheduling service for GE wind turbine testing. Moving massive engines between workbenches is expensive. The digital scheduler cut costs significantly.
-  - Developed, tested, and deployed the test planner service on Linux machines.
+
+    Built a scheduling service for GE wind turbine testing. Moving massive engines between workbenches is expensive. The digital scheduler cut costs significantly.
+
+    - Developed, tested, and deployed the test planner service on Linux machines.
+
     First Django project. Sharpened DevOps skills with Fabric.
+
 12. *Cloud Engineer* @ **Cloudbase Solutions**, Romania: October 2014 - December 2015 (1 year 3 months)
-  Open-source cloud infrastructure with Microsoft as a key client. Built *cloudbase-init*, a Windows instance initialization service for OpenStack. Contributed patches upstream and helped users globally with IaaS deployments.
-  - Created new features for cloudbase-init by extending compatibility with different cloud services.
-  - Developed Argus, a testing framework running integration tests against cloudbase-init.
-  - Focused on OpenStack development and helped users globally with deployment Q&As.
+
+    Open-source cloud infrastructure with Microsoft as a key client. Built *cloudbase-init*, a Windows instance initialization service for OpenStack. Contributed patches upstream and helped users globally with IaaS deployments.
+
+    - Created new features for cloudbase-init by extending compatibility with different cloud services.
+    - Developed Argus, a testing framework running integration tests against cloudbase-init.
+    - Focused on OpenStack development and helped users globally with deployment Q&As.
+
     First international talk at EuroPython (Argus framework). Helped establish the company's Iași office.
+
 13. *Malware Researcher* @ **Bitdefender**, Romania: February 2013 - September 2014 (1 year 8 months)
-  First job out of college at the world's top antivirus company. Distributed systems for parallel data processing and threat analysis. High-stakes security from day one.
-  - DrLink: a service designed to efficiently crawl web apps with distributed threat and suspicious file scanning.
-  - Scrappy: an advanced application scraper that can recover from its last state in case of a stop/crash, which runs on custom plugins.
-  - Rediscoll: a high-level collection of Python data structures & OS locks, implemented as Redis abstractions.
-  - Curloxy: a proxy provider web service with the ability to search, parse and test proxies from multiple external sources.
+
+    First job out of college at the world's top antivirus company. Distributed systems for parallel data processing and threat analysis. High-stakes security from day one.
+
+    - DrLink: a service designed to efficiently crawl web apps with distributed threat and suspicious file scanning.
+    - Scrappy: an advanced application scraper that can recover from its last state in case of a stop/crash, which runs on custom plugins.
+    - Rediscoll: a high-level collection of Python data structures & OS locks, implemented as Redis abstractions.
+    - Curloxy: a proxy provider web service with the ability to search, parse and test proxies from multiple external sources.
+
     Built these projects from scratch solo while contributing to larger team efforts. Learned Python's dark corners from sharp coworkers. Gave a security conference talk on `exec`/`eval` vulnerabilities.
 
 ## II. Education
 
 1. *Student* @ **Universitatea "Alexandru Ioan Cuza"**: 2012 - 2018 (Bachelor of Computer Science)
-  Focus on data structures, algorithms, software architecture, and cryptography.
+
+    Focus on data structures, algorithms, software architecture, and cryptography.
+
 2. *Student* @ **Colegiul National "UNIREA"**: 2008 - 2012 (Baccalaureate in Math-Informatics)
-  Competitive programming on Topcoder, Codeforces, SPOJ. Tutored other students. Built problem-solving intuition early.
+
+    Competitive programming on Topcoder, Codeforces, SPOJ. Tutored other students. Built problem-solving intuition early.
+
 3. *Pupil* @ **Scoala Generala Nr. 3**: 2000 - 2008 (Unique theses and Physics)
-  National Olympiads in physics, math, biology, chemistry.
+
+    National Olympiads in physics, math, biology, chemistry.
 
 ## III. Knowledge
 
 1. **Python** 2/3, 18+ years (13+ professional), on Mac/Linux/Windows involving:
-  - AI-driven automation for the enterprise
-    - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
-  - RPA with Robot Framework for the end user
-    - rpaframework/robocorp, Action Server, Selenium/Playwright, OCR, IDP
-  - web services and APIs with frameworks & concepts like:
-    - FastAPI (Pydantic, OpenAPI, OIDC)
-    - Flask (MVT, REST, WebSocket)
-    - Django, webapp2, CherryPy
-    - Starlette (async)
-  - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
-    - NoSQL: Datastore (Bigtable), Redis, ElasticSearch, MongoDB
-    - SQL: PostgreSQL, MySQL, SQLite
-  - deep use of the standard library and language reference
-  - software architecture, OOP, and design patterns
-  - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery, gRPC/Protocol Buffers)
-  - data scraping, analysis, computation and modeling on multiple nodes
-  - regular expressions and optimal data sharding & storing procedures
-  - GUI programming in Tkinter and NUI with Kivy
-  - coding conventions (PEP8), documentation (Google/Sphinx), packaging (PyInstaller)
-  - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD
-  - black magic under metaclasses, decorators, generators, coroutines, closures, context managers, MRO etc.
-  - focus on data science with: numpy, pandas, scipy, scikit-learn, matplotlib, jupyter
-  - environment management: poetry, pyenv, virtualenv, conda
-  - solving challenges on checkio.org, wechall.net
+
+    - AI-driven automation for the enterprise
+        - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
+    - RPA with Robot Framework for the end user
+        - rpaframework/robocorp, Action Server, Selenium/Playwright, OCR, IDP
+    - web services and APIs with frameworks & concepts like:
+        - FastAPI (Pydantic, OpenAPI, OIDC)
+        - Flask (MVT, REST, WebSocket)
+        - Django, webapp2, CherryPy
+        - Starlette (async)
+    - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
+        - NoSQL: Datastore (Bigtable), Redis, ElasticSearch, MongoDB
+        - SQL: PostgreSQL, MySQL, SQLite
+    - deep use of the standard library and language reference
+    - software architecture, OOP, and design patterns
+    - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery, gRPC/Protocol Buffers)
+    - data scraping, analysis, computation and modeling on multiple nodes
+    - regular expressions and optimal data sharding & storing procedures
+    - GUI programming in Tkinter and NUI with Kivy
+    - coding conventions (PEP8), documentation (Google/Sphinx), packaging (PyInstaller)
+    - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD
+    - black magic under metaclasses, decorators, generators, coroutines, closures, context managers, MRO etc.
+    - focus on data science with: numpy, pandas, scipy, scikit-learn, matplotlib, jupyter
+    - environment management: poetry, pyenv, virtualenv, conda
+    - solving challenges on checkio.org, wechall.net
+
 2. **C/C++**, 4 years mostly under Linux, but some Windows flavor too:
-  - C standard library and C++ STL
-  - (re)implementing, using and combining data structures
-  - algorithms regarding graphs, dynamic programming, greedy, backtracking and optimization approaches
-  - Linux sockets and OS related utilities
-  - Windows API paradigm
-  - solving challenges on: TopCoder, Codeforces, SPOJ (international contests)
+
+    - C standard library and C++ STL
+    - (re)implementing, using and combining data structures
+    - algorithms regarding graphs, dynamic programming, greedy, backtracking and optimization approaches
+    - Linux sockets and OS related utilities
+    - Windows API paradigm
+    - solving challenges on: TopCoder, Codeforces, SPOJ (international contests)
+
 3. **Security**:
-  - web vulnerabilities: LFI, RFI, SQLi, XSS, CSRF
-  - steganography and applied methods of stable information concealing/revealing via image and PDF files
-  - cryptanalysis, (a)symmetric encryption, encoding/decoding, and hashing algorithms
-  - desktop application vulnerabilities and exploits
-  - reverse engineering and static analysis of executables (IDA)
-  - malware researching
+
+    - web vulnerabilities: LFI, RFI, SQLi, XSS, CSRF
+    - steganography and applied methods of stable information concealing/revealing via image and PDF files
+    - cryptanalysis, (a)symmetric encryption, encoding/decoding, and hashing algorithms
+    - desktop application vulnerabilities and exploits
+    - reverse engineering and static analysis of executables (IDA)
+    - malware researching
+
 4. **Exposure**:
-  - Front-end: React/Next.js, HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
-  - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
-  - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
-  - Occasionally: Go, Java, ASM
-  - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku
-  - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
-  - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
-  - AI Tooling: Claude Code, MCP (Model Context Protocol), Cursor
+
+    - Front-end: React/Next.js, HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
+    - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
+    - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
+    - Occasionally: Go, Java, ASM
+    - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku
+    - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
+    - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
+    - AI Tooling: Claude Code, MCP (Model Context Protocol), Cursor
 
 ## IV. Bragging Rights
 
 1. Co-Founded [TrueStory](https://github.com/savvybit/), a news aggregator offering you similar, but contradictory stories for the same subject that you're reading.
+
 2. During college, designed and implemented a mobile [application](https://github.com/cmin764/morseus) that intercepts and live-decodes intermittent light sources as Morse code with adaptive automatic calibration.
+
 3. Built in a few weeks a robust CLI/GUI application that analyzes, parses, and models PDF objects to hide data inside them. Used a unique steganography method based on content representation states. The output is a valid PDF displaying identical content. (studied the PDF format in depth)
+
 4. Had my first international presentation at EuroPython 2015 in Bilbao, Spain about an open-source CI generic-purpose system on top of OpenStack and tempest.
+
 5. First conference talk covered security risks of evaluating untrusted data, with real attacker vs. victim examples. Followed up the next year with a talk on steganographic methods for hiding data in files.
+
 6. Co-created [RoPython](https://ropython.ro/) with two friends, a PSF-approved brand through which we organized regional conferences, workshops, and talks for students and beyond.
+
 7. Served on the jury at InfoEducatie 2014 (Google-sponsored national contest) and designed an open challenge for transmitting data between devices without conventional technology.
+
 8. Passed one of the most rigorous hiring processes in the security industry, including an extensive psychological evaluation.
+
 9. Landed my first job right after entering college at Bitdefender, a top global antivirus company.
+
 10. At 16, got my first paid commission: a CLI script simulating dictionary attacks on open VNC servers to expose vulnerabilities for fixing. Later built an RDP version using telnet reverse connections to check credential matches without studying the protocol. (studied the RFB protocol and various RDP clients)
+
 11. Created a CLI secure chat with basic AES encryption over RSA handshake.
+
 12. Created scripts in high school with GUIs using Tkinter for:
-  - discovering and testing vulnerabilities like LFI, RFI and SQLi (pentesting)
-  - generating valid social ID numbers (educational & validation purposes)
-  - searching over the web for answers to questions at online Oracle tests (high-school project)
-  - passing and reversing data through a couple of hashing, encoding and encryption algorithms
-  - hiding and revealing information in pictures using the LSB method and standard encryption
-  - blocking certain web pages on local host by managing the *hosts* file
-  - key-generators for car equipment by reverse-engineering math functions (service debugging)
+
+    - discovering and testing vulnerabilities like LFI, RFI and SQLi (pentesting)
+    - generating valid social ID numbers (educational & validation purposes)
+    - searching over the web for answers to questions at online Oracle tests (high-school project)
+    - passing and reversing data through a couple of hashing, encoding and encryption algorithms
+    - hiding and revealing information in pictures using the LSB method and standard encryption
+    - blocking certain web pages on local host by managing the *hosts* file
+    - key-generators for car equipment by reverse-engineering math functions (service debugging)
+
 13. Self-taught since 2007 through security forums like darkc0de, rstcenter/rstforums, mortal-team, and sharp people around the globe.
 
 ## V. About Me
