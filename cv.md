@@ -14,7 +14,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Fractional AI Product Strategist helping B2B startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
-    - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP integrations, and augmented code reviews.
+    - Embedded technical partner: every artifact battle-tested against manual craft, with shared conventions, MCP/CLI integrations, Claude skills, and augmented code reviews.
     - Services: technical audits, AI readiness assessments, LLM/RAG pipelines, backend systems, DevOps, and Claude & Cursor workshops.
 
     Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
