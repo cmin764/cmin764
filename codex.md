@@ -106,7 +106,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 | Entity | Purpose |
 |--------|---------|
-| **Wandercode** | Premium consulting (1-2 clients, $100-300+/hr). Embedded in client teams but sovereign. Partnership, not procurement. |
+| **Wandercode** | Fractional AI product strategist. Embedded in client teams, sovereign in judgment. Audits, AI product development, workshops. Outcomes, not hours. |
 | **Driftware Dynamics** | Holds NoMoreApply, provides management services to Wandercode. Cyprus non-dom structure. |
 | **NoMoreApply** | Long game. Trust-based talent network. Revenue while sleeping. |
 
@@ -126,7 +126,7 @@ Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies sys
 
 The core paradox: AI code generation is inherently non-deterministic — same prompt, different output every time. Blugen solves this by wrapping non-deterministic generation in deterministic blueprints. The AI improvises within rails. The output is production-grade, reproducible, auditable. That's the IP.
 
-### Current Engagements
+### Engagements
 
 **Wandercode (Owner):**
 
@@ -134,7 +134,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 - **Focus:** B2B startups, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, healthtech, IoT, eCommerce, iGaming
 - **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
-- **Services:** Consultancy & strategy, AI product development, Workshops & training
+- **Services:** Technical audits, AI product development, Consultancy & strategy, Workshops & training
 
 **Clients:**
 
