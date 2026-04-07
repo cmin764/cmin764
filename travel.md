@@ -2,8 +2,16 @@
 
 ## 2026
 
+### May-June
+- **8 May - 8 Jun**: 🇨🇷 Costa Rica
+
+### April
+- **28 Apr - 8 May**: 🇵🇦 Panama
+- **11 Apr - 28 Apr**: 🇪🇨 Ecuador
+
 ### February-March
-- **27 Jan - 14 Mar**: 🇧🇷 Brazil
+- **21 Mar - 11 Apr**: 🇨🇴 Colombia
+- **27 Jan - 21 Mar**: 🇧🇷 Brazil
 
 ### January
 - **23 Jan - 27 Jan**: 🇦🇷 Argentina
@@ -183,7 +191,7 @@
 
 <br/>
 
-**50** visited countries ✈️
+**54** visited countries ✈️
 _(not all tracked)_
 
-<small style="color: #666;">Albania, Argentina, Belgium, Brazil, Chile, Cyprus, Czechia, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Moldova, Namibia, Netherlands, New Zealand, Norway, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>
+<small style="color: #666;">Albania, Argentina, Belgium, Brazil, Chile, Colombia, Costa Rica, Cyprus, Czechia, Ecuador, Egypt, Fiji, Finland, France, Germany, Greece, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Moldova, Namibia, Netherlands, New Zealand, Norway, Panama, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>
