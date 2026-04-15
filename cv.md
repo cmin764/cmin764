@@ -60,7 +60,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - Contributed to a public gallery of use-case driven examples employing our tools.
     - Fully committed to customer support threads and calls — patient, clear explanations that had "massive impact to the entire company" per manager feedback.
 
-    Rated Greatly Exceeds Expectations across all review cycles. Manager noted "smoothest onboarding in my entire working career." Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
+    Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
@@ -250,15 +250,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 11. Created a CLI secure chat with basic AES encryption over RSA handshake.
 
-12. Created scripts in high school with GUIs using Tkinter for:
-
-    - discovering and testing vulnerabilities like LFI, RFI and SQLi (pentesting)
-    - generating valid social ID numbers (educational & validation purposes)
-    - searching over the web for answers to questions at online Oracle tests (high-school project)
-    - passing and reversing data through a couple of hashing, encoding and encryption algorithms
-    - hiding and revealing information in pictures using the LSB method and standard encryption
-    - blocking certain web pages on local host by managing the *hosts* file
-    - key-generators for car equipment by reverse-engineering math functions (service debugging)
+12. Built Tkinter GUI tools in high school for pentesting (LFI/RFI/SQLi), crypto algorithms, LSB steganography, and reverse-engineering car equipment math functions.
 
 13. Self-taught since 2007 through security forums like darkc0de, rstcenter/rstforums, mortal-team, and sharp people around the globe.
 
@@ -312,4 +304,4 @@ Companies keep hiring me to write code. The real value is deciding which code is
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 14 Apr 2026, enriched from 2022-2025 performance reviews: peer themes, leadership growth arc, new operational principles* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 14 Apr 2026, review-enriched* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
