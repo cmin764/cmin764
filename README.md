@@ -63,11 +63,13 @@ A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertis
 - 🎙️ International speaker at **EuroPython** and other tech events.
 - 📖 Contributor to open-source and advocate for ethical humanized AI.
 
-## 📌 Hobby projects
+## 📌 Portfolio
 
-- **[Portfolio](https://github.com/stars/cmin764/lists/portfolio)** - collection of various hobby projects showcasing technical abilities
-- **[DeepIce](https://github.com/cmin764/deep-ice)** - idiomatic Python web development template with async FastAPI
-- **[TrueStory](https://github.com/savvybit)** - incentivize critical thinking in the polarized space of news ([deck](https://slides.com/cmin/truestory-venturecup) | [blog](https://cosminslife.wordpress.com/2020/08/16/truestory-app-or-how-i-learned-to-stop-worrying-and-love-the-process/))
+System design, tech breakdowns, and impact stories across professional work, ventures, and open source:
+
+**[cmin764.github.io/portfolio](https://cmin764.github.io/portfolio/)**
+
+Covering professional work (VONQ, Sema4.ai, A5 Labs), active ventures (Wandercode, NoMoreApply), startup trials (Traced AI, TrueStory), and open-source showcases.
 
 ## 💡 What I'm exploring
 
