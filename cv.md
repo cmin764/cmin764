@@ -23,7 +23,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a first-of-its-kind Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
@@ -44,10 +44,11 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - Bridged product and engineering by managing a Linear project for creating pre-made actions wrapping Google, Slack, HubSpot, and local document operations.
     - Wrote technical documents for issue scoping and designed the OAuth2 flow for our products.
     - Improved the DX of library work and its migration from RPA to native Python automation.
-    - People management: hiring interview code challenge design, 360 reviews, 1on1 proactive feedback, new hires onboarding, team autonomy & trust empowerment.
+    - Redesigned the hiring code challenge to function as both a technical and psychological filter — eliminating poor-fit candidates before live interviews.
+    - People management: 360 reviews, proactive 1:1s tied to career goals, new hire onboarding, team autonomy and trust empowerment.
     - Held talks about our development tools and Python automation to wider external audiences.
 
-    Built a subteam around Python development and CI/CD best practices. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
+    Built a subteam around Python development and CI/CD best practices. Navigated a turbulent Python-only pivot while mediating opposing technical views from senior engineers and keeping delivery on track. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Role originated from Robocorp's acquisition by Sema4AI.
 
 4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
@@ -55,10 +56,11 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     - Developed a set of RPA libraries written in Python, used under Robot Framework automation scripts involving: intelligent document processing, API wrappers, browser (Selenium), desktop (OCR), Windows, email with OAuth2 and PDF automation.
     - PyPI package development and dependency management with cloud-based integration testing coverage.
+    - Resolved a pywin OSS community issue through upstream collaboration — considered nearly impossible by the team.
     - Contributed to a public gallery of use-case driven examples employing our tools.
-    - Fully committed to customer support threads and calls. Understanding what burned most and fixing it to drive company growth.
+    - Fully committed to customer support threads and calls — patient, clear explanations that had "massive impact to the entire company" per manager feedback.
 
-    Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
+    Rated Greatly Exceeds Expectations across all review cycles. Manager noted "smoothest onboarding in my entire working career." Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
 
 5. *Senior Software Engineer* @ **Gorgias**, USA: Jan 2021 - May 2021 (5 months)
 
@@ -310,4 +312,4 @@ Companies keep hiring me to write code. The real value is deciding which code is
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 13 Mar 2026, codex aligned* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 14 Apr 2026, enriched from 2022-2025 performance reviews: peer themes, leadership growth arc, new operational principles* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))

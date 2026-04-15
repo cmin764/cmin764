@@ -78,6 +78,34 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 | Stanford Introduction to AI — Advanced Track | 2011 |
 | National Physics Olympiad — Mention & Special Mention | 2007-2008 |
 
+### Performance Reviews
+
+Ratings across five review cycles, all at Greatly Exceeds Expectations or above:
+
+| Cycle | Company | Objectives | Behavior/Performance |
+|-------|---------|------------|----------------------|
+| 2022 | Robocorp | Greatly Exceeds | Sets a New Standard |
+| 2023 | Robocorp | Greatly Exceeds | Greatly Exceeds |
+| 2024 (self) | Sema4.ai | Greatly Exceeds | Greatly Exceeds |
+| 2024 (mgr) | Sema4.ai | Greatly Exceeds | Exceeds |
+| 2025 | VONQ | — | First-of-its-kind delivery |
+
+**Recurring peer themes across all cycles:**
+
+- **"The calm one"** — composure under pressure, even when senior engineers push back hard with opposing technical views. Manager (2024): "He's managed to keep his cool." Peers: "The calm one, easy to talk to and trusted by peers."
+- **Customer-facing confidence** — "Can be thrown in front of any customer knowing that he'll navigate the conversations professionally and gracefully."
+- **Product thinker** — "Thinks about the product as a whole instead of any area he is working currently." Stepped into product owner gaps without being asked.
+- **Proactive helper** — Collected team sync summaries when the manager couldn't join, prepped onboarding docs ahead of time, helped without being asked or guided.
+- **Onboarding velocity** — "Smoothest onboarding in my entire working career." "Took to the library work like fish to water." "Quickly running with the development" across multiple companies.
+
+**Select manager quotes:**
+
+- "Without the help in customer support and library development from Cosmin I am sure we would have lost multiple partner cases and most probably would have burnt-out Mika." (2022)
+- "Working with the OSS community around the pywin issue was a feat I did not think possible, but Cosmin just got it done." (2022)
+- "You are patient with customers and explain concepts to them clearly. This is a massive impact to the entire company." (2023)
+- "Jump from a developer role to team lead is a huge one and not everyone is able to make it. Cosmin is well on his way there." (2024)
+- "Cosmin's blog basically gave us one recruitment in the form of Bogdan." (2022)
+
 ### Community & Speaking
 
 **Conferences:**
@@ -199,6 +227,10 @@ Four virtues guiding life and work:
 - Renewable value creation > extractive transactions
 - Shrink the build-measure-learn loop — if feedback stalls, stop building. Shipping without a listener is waste.
 - Work backward from the customer, even when the org chart separates you from delivery
+- Data over assumptions when making decisions — metrics inform, opinions don't.
+- Socratic persuasion over direct argument — ask the right questions and people answer themselves to the right conclusion.
+- Workable over perfect — find the middle ground that ships, push back when needed to get things over the finish line. A practical example made by hand beats a document.
+- Scope discipline — small PRs, iterative delivery. Scope creep creates review ping-pong and delays. When excited about adjacent improvements, resist.
 - Three domains, one rhythm: **Learn → Practice → Teach** in engineering. **Research → Plan → Execute** in product. **Audit → Product → Train** in business. The loop closes differently at each layer, but the discipline is the same.
 - Engineers mark the dangerous code with `# don't touch this` and hope someone else deals with it. I read that as a treasure map. The scariest parts of a codebase are where the most leverage lives — and someone has to go there.
 
@@ -216,6 +248,7 @@ Four virtues guiding life and work:
 - **If you hire me to just code, I'm sorry, that's for Claude Code** — Pure execution is commoditized. I bring strategic value, not keystrokes.
 - **I don't work for companies — I work with people** — The engagement is peer-to-peer. If you see me as a vendor, we're already misaligned. I partner with professionals who understand my value and want me invested in their outcome.
 - **Show, don't mandate AI adoption** — Proving the value through continuous results, not policy. When the team sees weeks compressed into minutes, adoption follows naturally. Culture shifts through evidence, not evangelism.
+- **Don't be a people pleaser** — Trying to find a middle ground between every stakeholder delays delivery. Gather input, then make a call. Indecision disguised as diplomacy is still indecision.
 
 **On Self:**
 
@@ -413,6 +446,15 @@ AI, RPA, LLM, Automation Engineering, Enterprise Software, SaaS, B2B, Dev Tools,
 ---
 
 ## Philosophy & Inner Navigation
+
+### Growth Edges
+
+Known patterns to manage, from self-reflection and external feedback across multiple review cycles:
+
+- **Scope creep** — When I see adjacent improvements, I want to fix them. This creates large PRs that are hard to review and slow to merge. Discipline: smaller iterations, one concern per PR.
+- **People-pleasing under multi-stakeholder pressure** — Trying to mediate every PoV delays decisions. Recognized explicitly in the VONQ cycle. The fix is to timebound the input gathering, then decide.
+- **Frontend is real but secondary** — Shipped React and TypeScript features across multiple engagements, but product judgment and backend ownership are the sharp edge.
+- **Timezone availability as a management tension** — Nomadic lifestyle means odd hours. Handled proactively through clear calendar practices, but it's a recurring point in manager feedback.
 
 ### The Three-Layer Journey
 
