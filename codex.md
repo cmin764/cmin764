@@ -579,6 +579,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 | YouTube | https://youtube.com/@cmin764 |
 | Nomads | https://nomads.com/@cmin764 |
 | Goodreads | https://goodreads.com/user/show/84378981-cosmin-poiean |
+| Portfolio | https://cmin764.github.io/portfolio/ |
 | Wandercode | https://wandercode.ltd |
 | NoMoreApply | https://nomoreapply.com |
 | **Cal** | https://cal.com/wandercode/discovery-call?overlayCalendar=true |
