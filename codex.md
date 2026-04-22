@@ -581,7 +581,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 | Goodreads | https://goodreads.com/user/show/84378981-cosmin-poiean |
 | Wandercode | https://wandercode.ltd |
 | NoMoreApply | https://nomoreapply.com |
-| **Calendly** | https://calendly.com/cmin764/wandercode-discovery-call |
+| **Cal** | https://cal.com/wandercode/discovery-call?overlayCalendar=true |
 | **Alignment Form** | https://tally.so/r/w4vQ6X |
 
 ---
