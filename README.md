@@ -54,7 +54,7 @@ A [digital nomad](./travel.md) (50+ countries) with 18+ years of Python expertis
 
 ## ✨ Highlights
 
-- 🏢 **Owner** at **[Wandercode](https://wandercode.ltd)**: Fractional AI Product Strategist helping B2B startups build intelligent products and adopt AI-driven engineering practices.
+- 🏢 **Owner** at **[Wandercode](https://wandercode.ltd)**: Fractional AI Product Strategist helping outlier startups build intelligent products and adopt AI-driven engineering practices.
 - 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
 - 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
 - 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.

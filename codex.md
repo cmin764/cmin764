@@ -4,7 +4,7 @@
 
 Fractional AI product strategist who happens to be a world-class Python engineer. Building a distributed company structure from 50+ countries — consulting revenue, community-driven talent business, trajectory toward investment and IP licensing.
 
-Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now I help B2B startups build intelligent products while proving that location is irrelevant to output.
+Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now I help outlier startups build intelligent products while proving that location is irrelevant to output.
 
 > The companies interviewed me for engineering roles. What they should've hired me for is figuring out which engineering problems are worth solving in the first place.
 
@@ -159,7 +159,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 **Wandercode (Owner):**
 
 - **Model:** Fractional AI Product Strategist — "Results as a Service" (outcomes, not hours)
-- **Focus:** B2B startups, intelligent products, strategy to production
+- **Focus:** Outlier startups, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, healthtech, IoT, eCommerce, iGaming
 - **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
 - **Services:** Technical audits, AI product development, Consultancy & strategy, Workshops & training
