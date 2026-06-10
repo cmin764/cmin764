@@ -10,7 +10,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 ## I. Experience
 
-1. *Owner* @ **[Wandercode](https://wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
+1. *Owner* @ **[Wandercode](https://www.wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
 
     Fractional AI Product Strategist helping outlier startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
