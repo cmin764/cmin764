@@ -6,13 +6,13 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 
 AI handles the repetition. Humans fill the gaps that need judgment. That's the split, and it's how we should build.
 
-Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping outlier startups build intelligent products, from strategy to production. Impact and results over hours logged.
+Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping startups and high-growth companies build intelligent products, from strategy to production. Impact and results over hours logged.
 
 ## I. Experience
 
 1. *Owner* @ **[Wandercode](https://www.wandercode.ltd/)**, Hong Kong: Feb 2025 - Present
 
-    Fractional AI Product Strategist helping outlier startups build intelligent products. Results as a Service: outcomes delivered, not hours billed.
+    Fractional AI Product Strategist helping startups and high-growth companies build intelligent products. Results as a Service: outcomes delivered, not hours billed.
 
     - Embedded technical partner: inside your Slack, GitHub, and standups, not a vendor on the outside. Shared conventions, MCP/CLI integrations, Claude skills, and augmented code reviews built in.
     - Services: technical audits and strategy (stack analysis, risk registers, roadmaps), AI product development (RAG pipelines, AI agents, full-stack delivery), and team AI engineering workshops (Claude Code, Cursor, blueprint-first methods).

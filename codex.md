@@ -4,7 +4,7 @@
 
 Fractional AI product strategist who happens to be a world-class Python engineer. Building a distributed company structure from 50+ countries — consulting revenue, community-driven talent business, trajectory toward investment and IP licensing.
 
-Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now I help outlier startups build intelligent products while proving that location is irrelevant to output.
+Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now I help startups and high-growth companies build intelligent products while proving that location is irrelevant to output.
 
 > The companies interviewed me for engineering roles. What they should've hired me for is figuring out which engineering problems are worth solving in the first place.
 
@@ -41,7 +41,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 **Also mentioned:** iMedicare (health insurance recommendation)
 
-**Experience:** 18+ years with Python (since 2007), 13+ years professional (since 2013)
+**Experience:** 19+ years with Python (since 2007), 13+ years professional (since 2013)
 
 ### Notable Projects
 
@@ -159,7 +159,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 **Wandercode (Owner):**
 
 - **Model:** Fractional AI Product Strategist — "Results as a Service" (outcomes, not hours)
-- **Focus:** Outlier startups, intelligent products, strategy to production
+- **Focus:** Startups and high-growth companies, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, healthtech, IoT, eCommerce, iGaming
 - **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
 - **Services:** Technical audits, AI product development, Consultancy & strategy, Workshops & training
@@ -359,7 +359,7 @@ Travel log: [Nomads](https://nomads.com/@cmin764) — *"Avid couple traveler loo
 
 **Primary Stack:**
 
-- **Python** (18+ years): FastAPI, Flask, Django, asyncio, aiohttp, Pydantic, SQLAlchemy
+- **Python** (19+ years): FastAPI, Flask, Django, asyncio, aiohttp, Pydantic, SQLAlchemy
 - **AI/LLM:** OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering, GPT integration
 - **Automation:** Robot Framework, RPA, Selenium, OCR, intelligent document processing
 
