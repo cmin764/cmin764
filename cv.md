@@ -285,6 +285,7 @@ Companies keep hiring me to write code. The real value is deciding which code is
 
 ### Social
 
+- Gravatar: [https://gravatar.com/cmin764](https://gravatar.com/cmin764)
 - LinkedIn: [https://www.linkedin.com/in/cmin764](https://www.linkedin.com/in/cmin764)
 - GitHub: [https://github.com/cmin764](https://github.com/cmin764)
 - Medium: [https://cmin764.medium.com/](https://cmin764.medium.com/)
@@ -295,7 +296,7 @@ Companies keep hiring me to write code. The real value is deciding which code is
 - Facebook: [https://www.facebook.com/cmin764](https://www.facebook.com/cmin764)
 - YouTube: [https://www.youtube.com/@cmin764](https://www.youtube.com/@cmin764)
 - Nomads: [https://nomads.com/@cmin764](https://nomads.com/@cmin764)
-- Goodreads: [https://goodreads.com/user/show/84378981-cosmin-poiean](https://goodreads.com/user/show/84378981-cosmin-poiean)
+- Goodreads: [https://www.goodreads.com/cmin764](https://www.goodreads.com/cmin764)
 
 ### Contact
 
@@ -304,4 +305,4 @@ Companies keep hiring me to write code. The real value is deciding which code is
 - Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
-> *Updated on 14 Apr 2026, review-enriched* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 10 Jun 2026, fixed links* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
