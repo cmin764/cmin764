@@ -25,6 +25,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 | Period | Role | Company | Location | Industry |
 |--------|------|---------|----------|----------|
+| Jul 2026 - Present | AI Product Engineer | Change Agents | Remote (via Full Stop Solutions, UK EoR) | AI/Product |
 | Feb 2025 - Present | Owner | Wandercode | Hong Kong | AI/Consulting |
 | Nov 2024 - Present | Co-Founder | NoMoreApply | Cyprus | HR/Community |
 | Nov 2023 - Jul 2024 | Software Engineering Lead | Sema4.ai | USA (remote) | AI/Automation |
@@ -174,6 +175,7 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
     - **Candidate Assessment**: Agentic automation for evaluating candidates, including a language assessment MVP delivered for a major European client.
     - **AI Adoption**: Drove team-wide adoption by example, not mandate. Battle-tested manual craft against AI-generated code, tests, and scripts. Contributed CLAUDE.md standards and got engineers experimenting with Claude Code and Cursor on their own. Weeks compressed to minutes as demonstrated fact.
 - **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
+- **Change Agents** (Jul 2026 - Present): AI Product Engineer, $7-9k/mo + unlimited PTO. Sourced via a personal referral from Angel Aytov (CTO) → recruiter → CTO technical round (LangChain/LangGraph, agent architecture, hallucination control, scaling/monitoring) → exec round on product thinking and vision fit. Contracted through Full Stop Solutions (UK EoR), invoiced through Wandercode Ltd. Landed on product/startup fit, not pure AI depth.
 
 **NoMoreApply (Co-Founder):**
 
@@ -233,6 +235,42 @@ Four virtues guiding life and work:
 - Scope discipline — small PRs, iterative delivery. Scope creep creates review ping-pong and delays. When excited about adjacent improvements, resist.
 - Three domains, one rhythm: **Learn → Practice → Teach** in engineering. **Research → Plan → Execute** in product. **Audit → Product → Train** in business. The loop closes differently at each layer, but the discipline is the same.
 - Engineers mark the dangerous code with `# don't touch this` and hope someone else deals with it. I read that as a treasure map. The scariest parts of a codebase are where the most leverage lives — and someone has to go there.
+
+### Engagement Evaluation Framework
+
+The structure actually used across every serious opportunity conversation, reconstructed from ~60 companies engaged with 2021-2026 — a fixed set of questions asked to the counterparty, plus a green/red flag system.
+
+**Standard questions, asked almost verbatim every time:**
+
+- What's the mission — the thing no amount of money would make them abandon?
+- What aren't they looking for in the next hire? (anti-criteria — tests whether hiring is deliberate or reactive)
+- How do they measure success, concretely — metrics, not vibes?
+- What's the culture and workflow actually like: tools named (Linear, Slack, GitHub, Loom), async vs. sync bias, on-site requirements?
+- What's the first problem I'd own on day one? (tests for real ownership vs. vague "wear many hats")
+- Why does a client sign eagerly, and why does an existing one churn? (client-facing roles)
+- Runway, breakeven timeline, exit vs. growth ambition, investor pressure?
+- Domain-specific regulatory/technical risk?
+
+**Green flags:** down-to-earth and pragmatic; honest, non-hyped take on AI capability; action over theorizing; founders with real domain depth; culture matching past reference points for "good" (Gorgias, Comfy).
+
+**Red flags — enough to walk alone:** hidden contact/booking mechanisms (control-freak signal); recruiters who won't name company, team, product, funding stage, or comp; generic/LLM-templated outreach; big-corp texture (mandatory office, no B2B flexibility, rigid process, no visible growth path).
+
+**Composite bar a company has to clear:**
+
+1. Contractor/partner structure via Wandercode, not W-2 (Anthropic 2024, $383k/yr, is the one exception ever pursued — for mission + comp — and it was rejected; everything else stayed contractor-first)
+2. Early enough that first-90-days impact is traceable to a name, not diffused across a team
+3. Named first problem/component to own, not vague scope
+4. Culture demonstrated through tools and behavior, not stated
+5. Comp clears the moving bar: by 2026, ~$7-9k/mo contractor or $100k+/yr, unlimited PTO explicit and fee-protected
+6. Mission with teeth — a non-generic answer to "what wouldn't you abandon for money"
+7. Anti-criteria disclosed
+8. Runway/financial transparency, no deflecting
+9. AI-native process — Claude Code/Cursor-driven work shown openly, not treated as a red flag
+10. Genuine outreach, ideally a warm referral over cold/templated recruiting
+
+**Pattern in actual wins** (Robocorp, A5 Labs, VONQ, Change Agents, Lemon.io): contractor/B2B structure always, a named reachable individual driving the process, product- or AI-adjacent scope with fast visible impact. None required office presence or fixed hours.
+
+**Terms that get negotiated once mission/comp align:** unlimited PTO made explicit and fee-protected, no mandatory timesheets, termination-without-fault clauses reviewed (not accepted blind), insurance/mandated-cost clauses trimmed where possible. Payment routes through Wandercode Ltd (Cyprus) by default.
 
 **On Startups (from accelerator programs):**
 
@@ -592,7 +630,7 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 
 ### Interview History 2024-2025
 
-Selective shopping, not desperate job seeking. Walking away from anything below leadership-level comp (€120k+) or value-based positioning.
+Selective shopping, not desperate job seeking. By 2026 the moving bar is ~$7-9k/mo contractor or $100k+/yr with unlimited PTO explicit and fee-protected — walking away below that unless other upside (mission, learning, working alongside a known operator) clears it instead. The one full W-2 application in the entire history is Anthropic (2024, SWE Infrastructure, $383k/yr) — rejected; everything else, accepted or not, was pursued as contractor/B2B/EoR.
 
 **2024 Pipeline:**
 
@@ -629,6 +667,15 @@ Selective shopping, not desperate job seeking. Walking away from anything below 
 | Andela | $8,000 - $12,000/month |
 | Web3 Jobs | $126,000/year, $70/hour |
 
+**Trajectory across the full 2021-2026 pipeline:**
+
+| Period | Typical range seen | Notes |
+|--------|---------------------|-------|
+| 2021 | $54-90k/yr equiv, 55-85 GBP/eur/h, often + equity | Early-career-adjacent contractor rates |
+| 2024 | $50-135/h, one outlier $383k/yr (Anthropic, W-2, rejected) | Widest spread of the whole period — casting a wide net across RPA/AI/backend/leadership |
+| 2025 | $57-144/h | Wincent's $72-144/h band topped the year |
+| 2026 | $7-9k/mo (Change Agents), $100k-126k/yr post-ramp (DesignVerse) | Settled into monthly-contractor framing, consistent with "partner, project-based" positioning |
+
 ### Application Hooks (per company type)
 
 | Type | Pitch |
@@ -644,4 +691,4 @@ Selective shopping, not desperate job seeking. Walking away from anything below 
 
 ---
 
-*Last updated: January 2026*
+*Last updated: July 2026*
