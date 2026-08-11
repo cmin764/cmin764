@@ -6,7 +6,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
-🤝 *[Work with me](https://www.wandercode.ltd/)*
+🤝 *[Work with me](https://tally.so/r/w4vQ6X)*
 
 ---
 
