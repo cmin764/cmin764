@@ -2,8 +2,17 @@
 
 ## 2026
 
-### June
-- **19 Jun - 27 Jun**: 🇬🇹 Guatemala
+### August-September
+- **15 Aug - ongoing**: 🇷🇴 Romania
+
+### July-August
+- **4 Aug - 15 Aug**: 🇫🇷 France
+- **30 Jul - 4 Aug**: 🇪🇸 Spain
+- **11 Jul - 29 Jul**: 🇲🇽 Mexico
+- **4 Jul - 11 Jul**: 🇧🇿 Belize
+
+### June-July
+- **19 Jun - 4 Jul**: 🇬🇹 Guatemala
 - **9 Jun - 19 Jun**: 🇸🇻 El Salvador
 
 ### May-June
@@ -195,7 +204,7 @@
 
 <br/>
 
-**56** visited countries ✈️
+**58** visited countries ✈️
 _(not all tracked)_
 
-<small style="color: #666;">Albania, Argentina, Belgium, Brazil, Chile, Colombia, Costa Rica, Cyprus, Czechia, Ecuador, Egypt, El Salvador, Fiji, Finland, France, Germany, Greece, Guatemala, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Moldova, Namibia, Netherlands, New Zealand, Norway, Panama, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>
+<small style="color: #666;">Albania, Argentina, Belgium, Belize, Brazil, Chile, Colombia, Costa Rica, Cyprus, Czechia, Ecuador, Egypt, El Salvador, Fiji, Finland, France, Germany, Greece, Guatemala, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Mexico, Moldova, Namibia, Netherlands, New Zealand, Norway, Panama, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>
