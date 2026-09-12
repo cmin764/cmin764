@@ -3,10 +3,10 @@
 ## 2026
 
 ### August-September
-- **15 Aug - ongoing**: 🇷🇴 Romania
+- **14 Aug - ongoing**: 🇷🇴 Romania
 
 ### July-August
-- **4 Aug - 15 Aug**: 🇫🇷 France
+- **4 Aug - 14 Aug**: 🇫🇷 France
 - **30 Jul - 4 Aug**: 🇪🇸 Spain
 - **11 Jul - 29 Jul**: 🇲🇽 Mexico
 - **4 Jul - 11 Jul**: 🇧🇿 Belize
