@@ -256,7 +256,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 ## V. About Me
 
-Born in Romania (Focșani, 1993). Started by breaking electronics apart to understand how they worked. Physics came next: national olympiad honors in mechanics, optics, and quantum. Then someone saw my Batch scripts and said: *"Without a real programming language, you're like a lion in a cage."*
+Born in Romania. Started by breaking electronics apart to understand how they worked. Physics came next: national olympiad honors in mechanics, optics, and quantum. Then someone saw my Batch scripts and said: *"Without a real programming language, you're like a lion in a cage."*
 
 That led me to **Python** in 2007. The first 6 non-professional years taught me as much as the 13 professional ones. 50+ countries as a digital nomad, drawn to startups, photography, art, reading, and the kind of travel that changes how you think.
 
@@ -301,8 +301,6 @@ Companies keep hiring me to write code. The real value is deciding which code is
 ### Contact
 
 - E-mail: [cmin764@gmail.com](mailto:cmin764@gmail.com)
-- Phone: +40756260927 (WhatsApp, Telegram, Viber)
-- Address: Str. Panduri nr. 149, Focsani, Vrancea, Romania (620149)
 - Handles: cmin / cmin764
 
 > *Updated on 10 Jun 2026, fixed links* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))

@@ -25,7 +25,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 | Period | Role | Company | Location | Industry |
 |--------|------|---------|----------|----------|
-| Jul 2026 - Present | AI Product Engineer | Change Agents | Remote (via Full Stop Solutions, UK EoR) | AI/Product |
+| Jul 2026 - Present | AI Product Engineer | Change Agents | Remote | AI/Product |
 | Feb 2025 - Present | Owner | Wandercode | Hong Kong | AI/Consulting |
 | Nov 2024 - Present | Co-Founder | NoMoreApply | Cyprus | HR/Community |
 | Nov 2023 - Jul 2024 | Software Engineering Lead | Sema4.ai | USA (remote) | AI/Automation |
@@ -131,27 +131,17 @@ Ratings across five review cycles, all at Greatly Exceeds Expectations or above:
 
 > Strategy meets execution. Consulting funds the present, community builds the future, IP creates the moat — all from wherever I wake up.
 
-**Multi-Entity Architecture:**
-
-| Entity | Purpose |
-|--------|---------|
-| **Wandercode** | Fractional AI product strategist. Embedded in client teams, sovereign in judgment. Audits, AI product development, workshops. Outcomes, not hours. |
-| **Driftware Dynamics** | Holds NoMoreApply, provides management services to Wandercode. Cyprus non-dom structure. |
-| **NoMoreApply** | Long game. Trust-based talent network. Revenue while sleeping. |
-
-**Core Insight:** Not building a career. Building an **asset portfolio** where each piece feeds the others.
+**Core Insight:** Not building a career. Building an **asset portfolio** where each piece feeds the others: Wandercode (fractional strategy and delivery), NoMoreApply (a trust-based talent network).
 
 **The Operator → Allocator Transition:**
 
 Angel Squad (Hustle Fund) application marks the shift from selling time to deploying judgment. From coding room to problem-definition room.
 
-**Geographic Arbitrage as Strategy:**
+**The nomad pattern as strategy:** proving "I am the product, not my location", 50+ countries while working full-time.
 
-The nomad pattern isn't lifestyle — it's proving: "I am the product, not my location." Cyprus 60-day rule, HK quarterly dividends, Airwallex/Wise/Revolut banking stack — optionality at every layer.
+**Blugen:**
 
-**Blugen as Scalable IP:**
-
-Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable (workshops $15-250K), licensable, moat in client engagements. Selling outcomes, not hours.
+Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable and licensable to client engagements as background methodology, distinct from client-specific deliverables. Selling outcomes, not hours.
 
 The core paradox: AI code generation is inherently non-deterministic — same prompt, different output every time. Blugen solves this by wrapping non-deterministic generation in deterministic blueprints. The AI improvises within rails. The output is production-grade, reproducible, auditable. That's the IP.
 
@@ -167,15 +157,10 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 
 **Clients:**
 
-- **Dentio** (Feb 2026, 7 business days): Dental software startup scaling desktop EHR automation from 2 to 19+ systems across Europe. Technical audit and strategic advisory working closely with the CTO. Delivered 17 documents: architecture deep-dive, hybrid stack analysis (pywinauto → robocorp-windows + Playwright verdict with hybrid 4-tier decision flowchart), risk register (28 risks scored, 2 patient-safety items flagged), 3-layer framework blueprint (workflows / EHR adapters / UI drivers with Guardian freeze-detection process), 4-phase roadmap with branched decision trees for open blockers, distribution model (rcc-based, eliminates PyInstaller AV false positives), and 5 experiment specs. Team moved from stack uncertainty to a conditional execution plan. First pure audit engagement for Wandercode — strategy and architecture, no implementation.
-- **VONQ** (Jun 2025 - Feb 2026): Recruitment marketing platform distributing jobs to 5,000+ channels via deep ATS integrations. Embedded as a fractional engineer across multiple product streams. Python/Django and React.
-    - **Meeting Assistant**: Recall-based agent that joins Google Meet interviews, passively analyzes recruiter-candidate conversations, and optionally intervenes to unblock dialogue. Private live insights for interviewers. Novel capability, first of its kind at VONQ.
-    - **Interview Retry**: Web audio interview recovery with Retell. Cross-functional FE/BE delivery including metadata tracking for failure states and candidate stage transition fixes.
-    - **Knowledge Base**: Automatic career site crawler (Firecrawl backbone) feeding a Careers Agent that recommends jobs to candidates based on uploaded CVs and chat, routing them to origin websites with matching roles.
-    - **Candidate Assessment**: Agentic automation for evaluating candidates, including a language assessment MVP delivered for a major European client.
-    - **AI Adoption**: Drove team-wide adoption by example, not mandate. Battle-tested manual craft against AI-generated code, tests, and scripts. Contributed CLAUDE.md standards and got engineers experimenting with Claude Code and Cursor on their own. Weeks compressed to minutes as demonstrated fact.
+- **Dentio** (Feb 2026): Dental software startup scaling desktop EHR automation across Europe. Technical audit and strategic advisory working closely with the CTO: architecture review, stack analysis, risk register, framework blueprint, phased roadmap. First pure audit engagement for Wandercode, strategy and architecture, no implementation.
+- **VONQ** (Jun 2025 - Feb 2026): Recruitment marketing platform distributing jobs to thousands of channels via ATS integrations. Embedded as a fractional engineer across multiple product streams, Python/Django and React. Also drove AI-adoption by example: agent-briefing standards, engineers experimenting with Claude Code and Cursor on their own.
 - **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
-- **Change Agents** (Jul 2026 - Present): AI Product Engineer, $7-9k/mo + unlimited PTO. Sourced via a personal referral from Angel Aytov (CTO) → recruiter → CTO technical round (LangChain/LangGraph, agent architecture, hallucination control, scaling/monitoring) → exec round on product thinking and vision fit. Contracted through Full Stop Solutions (UK EoR), invoiced through Wandercode Ltd. Landed on product/startup fit, not pure AI depth.
+- **Change Agents** (Jul 2026 - Present): AI Product Engineer. Product and startup fit, agent architecture and scaling.
 
 **NoMoreApply (Co-Founder):**
 
@@ -257,20 +242,20 @@ The structure actually used across every serious opportunity conversation, recon
 
 **Composite bar a company has to clear:**
 
-1. Contractor/partner structure via Wandercode, not W-2 (Anthropic 2024, $383k/yr, is the one exception ever pursued — for mission + comp — and it was rejected; everything else stayed contractor-first)
+1. Contractor/partner structure, not W-2
 2. Early enough that first-90-days impact is traceable to a name, not diffused across a team
 3. Named first problem/component to own, not vague scope
 4. Culture demonstrated through tools and behavior, not stated
-5. Comp clears the moving bar: by 2026, ~$7-9k/mo contractor or $100k+/yr, unlimited PTO explicit and fee-protected
+5. Comp clears a moving bar, recalibrated each year, with unlimited PTO explicit and fee-protected
 6. Mission with teeth — a non-generic answer to "what wouldn't you abandon for money"
 7. Anti-criteria disclosed
 8. Runway/financial transparency, no deflecting
 9. AI-native process — Claude Code/Cursor-driven work shown openly, not treated as a red flag
 10. Genuine outreach, ideally a warm referral over cold/templated recruiting
 
-**Pattern in actual wins** (Robocorp, A5 Labs, VONQ, Change Agents, Lemon.io): contractor/B2B structure always, a named reachable individual driving the process, product- or AI-adjacent scope with fast visible impact. None required office presence or fixed hours.
+**Pattern in actual wins:** contractor/B2B structure always, a named reachable individual driving the process, product- or AI-adjacent scope with fast visible impact. None required office presence or fixed hours.
 
-**Terms that get negotiated once mission/comp align:** unlimited PTO made explicit and fee-protected, no mandatory timesheets, termination-without-fault clauses reviewed (not accepted blind), insurance/mandated-cost clauses trimmed where possible. Payment routes through Wandercode Ltd (Cyprus) by default.
+**Terms that get negotiated once mission/comp align:** unlimited PTO made explicit and fee-protected, no mandatory timesheets, termination-without-fault clauses reviewed (not accepted blind), insurance/mandated-cost clauses trimmed where possible.
 
 **On Startups (from accelerator programs):**
 
@@ -595,10 +580,9 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 | | |
 |---|---|
 | **Full Name** | Cosmin Poieana (Poieană) |
-| **Born** | 26 April 1993, Focșani, Vrancea, Romania |
+| **Based** | Romania (home), Cyprus (business hub) |
 | **Handle** | cmin764 |
 | **Email** | cmin764@gmail.com |
-| **Phone** | +40756260927 |
 
 **Languages:** Romanian (native), English (C1-C2), French (pre-intermediate)
 
@@ -627,54 +611,6 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 ---
 
 ## Internal Reference
-
-### Interview History 2024-2025
-
-Selective shopping, not desperate job seeking. By 2026 the moving bar is ~$7-9k/mo contractor or $100k+/yr with unlimited PTO explicit and fee-protected — walking away below that unless other upside (mission, learning, working alongside a known operator) clears it instead. The one full W-2 application in the entire history is Anthropic (2024, SWE Infrastructure, $383k/yr) — rejected; everything else, accepted or not, was pursued as contractor/B2B/EoR.
-
-**2024 Pipeline:**
-
-| Company | Role | Domain |
-|---------|------|--------|
-| Zencoder/For Good AI | Tech | AI |
-| Praktika | Senior Software Architect | AI language learning |
-| Unitary | Engineering Manager | Content moderation AI |
-| Clipboard Health | Engineering | Healthcare staffing |
-| Better Stack | Technical | Observability |
-| DeepOpinion/Otera.ai | BE Lead | Document processing AI |
-| Stripe | Backend Software Engineer | Financial infrastructure |
-| Tide | Backend Engineer | Digital banking |
-| Conscium | Technical | Consciousness transfer |
-| Taktile | Backend Software Engineer | Decision automation |
-| Andela | Python Engineer | Talent marketplace |
-
-**2025 Pipeline:**
-
-| Company | Role | Domain |
-|---------|------|--------|
-| Cyberhaven/Linea AI | Backend Engineer | Data security |
-| Wincent | Technical | Algorithmic |
-| Cresta | Software Engineer | Contact center AI |
-| Siena.cx | Engineering | AI customer service |
-| VONQ | Technical | Recruitment marketing |
-| ZenML | Senior Software Engineer | MLOps platform |
-
-### Compensation Benchmarks
-
-| Source | Range |
-|--------|-------|
-| Consultancy | 100 EUR/USD per hour (whichever is higher) |
-| Andela | $8,000 - $12,000/month |
-| Web3 Jobs | $126,000/year, $70/hour |
-
-**Trajectory across the full 2021-2026 pipeline:**
-
-| Period | Typical range seen | Notes |
-|--------|---------------------|-------|
-| 2021 | $54-90k/yr equiv, 55-85 GBP/eur/h, often + equity | Early-career-adjacent contractor rates |
-| 2024 | $50-135/h, one outlier $383k/yr (Anthropic, W-2, rejected) | Widest spread of the whole period — casting a wide net across RPA/AI/backend/leadership |
-| 2025 | $57-144/h | Wincent's $72-144/h band topped the year |
-| 2026 | $7-9k/mo (Change Agents), $100k-126k/yr post-ramp (DesignVerse) | Settled into monthly-contractor framing, consistent with "partner, project-based" positioning |
 
 ### Application Hooks (per company type)
 
