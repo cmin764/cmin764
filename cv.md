@@ -23,7 +23,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Clients:
 
-    - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Shipped a first-of-its-kind Meeting Assistant (Recall + Google Meet, live interviewer insights), Interview Retry (Retell, audio recovery), Knowledge Base (Firecrawl crawler → Careers Agent for CV-based job matching), and a candidate language assessment MVP for a major European client. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
+    - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
