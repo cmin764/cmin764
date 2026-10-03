@@ -295,7 +295,7 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 - Romanian: Native/Bilingual Proficiency
 - French: Elementary Proficiency
 
-### Social
+### Links
 
 - LinkedIn: [https://www.linkedin.com/in/cmin764](https://www.linkedin.com/in/cmin764)
 - GitHub: [https://github.com/cmin764](https://github.com/cmin764)
