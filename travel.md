@@ -208,3 +208,15 @@
 _(not all tracked)_
 
 <small style="color: #666;">Albania, Argentina, Belgium, Belize, Brazil, Chile, Colombia, Costa Rica, Cyprus, Czechia, Ecuador, Egypt, El Salvador, Fiji, Finland, France, Germany, Greece, Guatemala, Iceland, India, Indonesia, Italy, Japan, Jordan, Kenya, Liechtenstein, Malaysia, Maldives, Malta, Mauritius, Mexico, Moldova, Namibia, Netherlands, New Zealand, Norway, Panama, Peru, Philippines, Portugal, Romania, Saudi Arabia, Seychelles, Singapore, South Africa, Spain, Sri Lanka, Switzerland, Tanzania, Thailand, Turkey, United Arab Emirates, United Kingdom, United States of America, Uruguay, Vatican City (Holy See), Zambia</small>
+
+
+## Traveler profile
+
+Default preferences for trip planning (read by the travel-planner skill).
+
+- Slow travel: few bases, at least 3 nights each, light arrival and departure days.
+- Reliable WiFi is required for remote work.
+- Public transport over rental cars.
+- Private, quiet accommodation in residential areas.
+- Nature, wildlife and local food over tourist zones.
+- Check neighborhood safety and baggage allowance before booking.
