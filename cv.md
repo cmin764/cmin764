@@ -2,11 +2,7 @@
 
 *Engineer at core | Entrepreneur at heart*
 
-Human beings aren't meant for tedious repetitive tasks. We're more creative than that.
-
-AI handles the repetition. Humans fill the gaps that need judgment. That's the split, and it's how we should build.
-
-Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). Now helping startups and high-growth companies build intelligent products, from strategy to production. Impact and results over hours logged.
+Fractional AI product strategist with 13+ years of Python and a decade in startups. Two companies I worked at got acquired (Fashwell → Apple, Comfy → Siemens). I embed inside engineering teams to ship AI agents, RAG pipelines and full-stack products, and to make agentic development the team's default way of working, from strategy to production.
 
 ## I. Experience
 
@@ -17,18 +13,20 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - Embedded technical partner: inside your Slack, GitHub, and standups, not a vendor on the outside. Shared conventions, MCP/CLI integrations, Claude skills, and augmented code reviews built in.
     - Services: technical audits and strategy (stack analysis, risk registers, roadmaps), AI product development (RAG pipelines, AI agents, full-stack delivery), and team AI engineering workshops (Claude Code, Cursor, blueprint-first methods).
 
-    Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen methodology: wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output.
+    Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen™ (blueprint-first AI development): wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output. Client work is yours; methods are licensed, never sold twice ([Background IP](https://www.wandercode.ltd/ip)).
 
-    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
+    Scale proof (Nov 2025 - Jan 2026): ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
 
     Clients:
 
+    - Bonsai Labs (Oct 2026 - Present): AI SDLC Engineer, half consultant, half builder, for a US enterprise fintech. Assessing the existing agent harness, then embedding with one team to make agent-driven QA and ticket-to-PR delivery the default, with a playbook and a named owner at handover. Target: 2 to 3x delivery speed at the same quality.
+    - Change Agents (Jul 2026 - Present): AI Product Engineer, full-time embedded. AI visibility platform for local SMBs that audits how a business appears across ChatGPT, Gemini, Perplexity, Grok and Google, and deploys fixing agents only after owner approval. Built the five-engine measurement pipeline, the owner funnel, and multi-tenant Postgres with row-level security. Set up the spec-driven, agent-assisted dev workflow: 117 PRs authored and 68 reviewed in about 3 months. Python, FastAPI, AWS.
     - [VONQ](https://www.vonq.com/) (Jun 2025 - Feb 2026): Recruitment marketing platform, 5,000+ job channels. Embedded as fractional engineer across multiple product streams. Drove AI adoption across the team: Claude and Cursor workflows, multi-agent code review, and blueprint-first agentic development compressing weeks into minutes. Python/Django and React.
     - [A5 Labs](https://a5labs.co/) (Jan - Jul 2025): ML/AI innovations for competitive online gaming. Built Python/FastAPI services and a C++ inference server providing Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 
     Volunteer:
 
-    - Mentored a [Young Founders School](https://www.youngfoundersschool.com/) student through a 4-week virtual internship on career, hiring, and embracing AI as a fair collaborator, even during interviews.
+    - Mentored two [Young Founders School](https://www.youngfoundersschool.com/) students (Spain, India) through 4-week virtual internships: remote-hiring trust, and AI for early disease detection.
 
 2. *Co-Founder* @ **[NoMoreApply](https://nomoreapply.com/)**, Cyprus: Nov 2024 - Present
 
@@ -108,7 +106,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     One-man army. Full autonomy from the co-founders: proposing, scoping, building, deploying, and maintaining features end-to-end.
 
     - Developed a Flask web app on App Engine that categorized public professional data to match people with suitable job positions.
-    - Created an Elastic Search ML component for data post-processing and analytics.
+    - Created an Elasticsearch ML component for data post-processing and analytics.
     - Aggregated and centralized end-user financial data from multiple banks into one service.
     - Augmented video streaming with live data extracted from the world's most popular poker platform using OCR and text prediction.
 
@@ -170,20 +168,30 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 ## III. Knowledge
 
-1. **Python** 2/3, 18+ years (13+ professional), on Mac/Linux/Windows involving:
+1. **AI & agentic engineering**, daily driver since 2025, from strategy to production:
+
+    - agentic dev tooling: Claude Code, Cursor, MCP (Model Context Protocol), custom skills, hooks, and sub-agents
+    - multi-agent orchestration with enforced role boundaries (reviewers never write production code), capped review loops, human-owned merges
+    - blueprint-first and spec-driven development: research, approved blueprint, tests, review (Blugen™)
+    - AI SDLC transformation: harness assessment, baselines from delivery scorecards, agent-driven QA, ticket-to-PR flows, playbooks and cost per feature
+    - LLM products: OpenAI, Anthropic, Gemini, Perplexity, Grok APIs, LangChain, RAG pipelines, prompt engineering, multi-engine fan-out with failure isolation and run cost observability
+    - IP-safe AI delivery: client/method separation, isolated per-client profiles and identities, CI denylists
+
+2. **Python** 2/3, 19 years (13+ professional), on Mac/Linux/Windows involving:
 
     - AI-driven automation for the enterprise
         - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
     - RPA with Robot Framework for the end user
         - rpaframework/robocorp, Action Server, Selenium/Playwright, OCR, IDP
     - web services and APIs with frameworks & concepts like:
-        - FastAPI (Pydantic, OpenAPI, OIDC)
+        - FastAPI (Pydantic, OpenAPI, OIDC), Jinja UIs
         - Flask (MVT, REST, WebSocket)
         - Django, webapp2, CherryPy
-        - Starlette (async)
+        - Starlette (async), asyncio
     - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
-        - NoSQL: Datastore (Bigtable), Redis, ElasticSearch, MongoDB
-        - SQL: PostgreSQL, MySQL, SQLite
+        - NoSQL: Datastore (Bigtable), Redis, Elasticsearch, MongoDB
+        - SQL: PostgreSQL (forced row-level security, multi-tenancy, PostGIS), MySQL, SQLite
+    - modern Python 3.14 monorepos with uv, enforced module boundaries (import-linter) and contract-based adapters
     - deep use of the standard library and language reference
     - software architecture, OOP, and design patterns
     - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery, gRPC/Protocol Buffers)
@@ -191,23 +199,25 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - regular expressions and optimal data sharding & storing procedures
     - GUI programming in Tkinter and NUI with Kivy
     - coding conventions (PEP8), documentation (Google/Sphinx), packaging (PyInstaller)
-    - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD
+    - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD (GitHub Actions)
     - black magic under metaclasses, decorators, generators, coroutines, closures, context managers, MRO etc.
     - focus on data science with: numpy, pandas, scipy, scikit-learn, matplotlib, jupyter
-    - environment management: poetry, pyenv, virtualenv, conda
+    - environment management: uv, poetry, pyenv, virtualenv, conda
     - solving challenges on checkio.org, wechall.net
 
-2. **C/C++**, 4 years mostly under Linux, but some Windows flavor too:
+3. **C/C++**, 4 years mostly under Linux, but some Windows flavor too:
 
     - C standard library and C++ STL
     - (re)implementing, using and combining data structures
     - algorithms regarding graphs, dynamic programming, greedy, backtracking and optimization approaches
     - Linux sockets and OS related utilities
     - Windows API paradigm
+    - C++ inference servers (game theory and reinforcement learning strategies)
     - solving challenges on: TopCoder, Codeforces, SPOJ (international contests)
 
-3. **Security**:
+4. **Security**:
 
+    - multi-tenant isolation and abuse protection (per-source, per-business, per-engine rate limits)
     - web vulnerabilities: LFI, RFI, SQLi, XSS, CSRF
     - steganography and applied methods of stable information concealing/revealing via image and PDF files
     - cryptanalysis, (a)symmetric encryption, encoding/decoding, and hashing algorithms
@@ -215,16 +225,16 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - reverse engineering and static analysis of executables (IDA)
     - malware researching
 
-4. **Exposure**:
+5. **Exposure**:
 
     - Front-end: React/Next.js, HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
     - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
     - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
     - Occasionally: Go, Java, ASM
-    - Microservices: Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku, Vercel
+    - Cloud: AWS (Fargate, RDS, SES), Terraform, Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku, Vercel
     - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
+    - Payments and delivery: Stripe, GitHub Actions, CodeRabbit, Linear (spec-driven tickets, weekly cycles)
     - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
-    - AI Tooling: Claude Code, MCP (Model Context Protocol), Cursor
 
 ## IV. Bragging Rights
 
@@ -262,6 +272,8 @@ That led me to **Python** in 2007. The first 6 non-professional years taught me 
 
 Companies keep hiring me to write code. The real value is deciding which code is worth writing.
 
+Human beings aren't meant for tedious repetitive tasks. We're more creative than that. AI handles the repetition, humans fill the gaps that need judgment. That's the split, and it's how we should build.
+
 ### Volunteer
 
 - IT&Science Caravan: Teaching C programming to students (2011)
@@ -285,22 +297,14 @@ Companies keep hiring me to write code. The real value is deciding which code is
 
 ### Social
 
-- Gravatar: [https://gravatar.com/cmin764](https://gravatar.com/cmin764)
 - LinkedIn: [https://www.linkedin.com/in/cmin764](https://www.linkedin.com/in/cmin764)
 - GitHub: [https://github.com/cmin764](https://github.com/cmin764)
-- Medium: [https://cmin764.medium.com/](https://cmin764.medium.com/)
-- Blog: [https://cosminslife.wordpress.com](https://cosminslife.wordpress.com)
-- Twitter: [https://twitter.com/cmin764](https://twitter.com/cmin764)
-- Instagram: [https://www.instagram.com/cmin764](https://www.instagram.com/cmin764)
-- Photography: [https://www.instagram.com/asitisphotos](https://www.instagram.com/asitisphotos)
-- Facebook: [https://www.facebook.com/cmin764](https://www.facebook.com/cmin764)
-- YouTube: [https://www.youtube.com/@cmin764](https://www.youtube.com/@cmin764)
-- Nomads: [https://nomads.com/@cmin764](https://nomads.com/@cmin764)
-- Goodreads: [https://www.goodreads.com/cmin764](https://www.goodreads.com/cmin764)
+- Portfolio: [https://cmin764.github.io/portfolio/](https://cmin764.github.io/portfolio/)
+- Wandercode: [https://www.wandercode.ltd/](https://www.wandercode.ltd/)
 
 ### Contact
 
 - E-mail: [cmin764@gmail.com](mailto:cmin764@gmail.com)
 - Handles: cmin / cmin764
 
-> *Updated on 10 Jun 2026, fixed links* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 10 Jun 2026, new engagements* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
