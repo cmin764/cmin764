@@ -25,8 +25,8 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 
 | Period | Role | Company | Location | Industry |
 |--------|------|---------|----------|----------|
-| Jul 2026 - Present | AI Product Engineer | Change Agents | Remote | AI/Product |
 | Oct 2026 - Present | AI SDLC Engineer | Bonsai Labs | Remote | AI/DevTools |
+| Jul 2026 - Present | AI Product Engineer | Change Agents | Remote | AI/Product |
 | Feb 2025 - Present | Owner | Wandercode | Hong Kong | AI/Consulting |
 | Nov 2024 - Present | Co-Founder | NoMoreApply | Cyprus | HR/Community |
 | Nov 2023 - Jul 2024 | Software Engineering Lead | Sema4.ai | USA (remote) | AI/Automation |
