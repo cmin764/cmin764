@@ -31,7 +31,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 ### Databases
 
 - PostgreSQL, MySQL
-- Redis, MongoDB, ElasticSearch
+- Redis, MongoDB, Elasticsearch
 
 ### DevOps & Cloud
 
@@ -45,6 +45,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 - **Blueprint-first:** Research, plan, execute. Front-load the design with AI tooling so code ships with confidence.
 - **Value over hours:** Outcomes-based pricing tied to business impact. Expertise creates compression, not expansion.
 - **Fast iterations:** Ship early, gather feedback, refine. Small batches over big bangs.
+- **Your IP stays yours:** Client work is assigned to the client; my methods are licensed, never sold twice ([Background IP](https://www.wandercode.ltd/ip)).
 - **AI culture catalyst:** I don't just use AI tools — I bring the team along. Shared conventions, live results over policy memos, and engineering practices that outlast my engagement.
 
 [Tool preferences](./codex.md#tool-preferences)
@@ -54,6 +55,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 ## ✨ Highlights
 
 - 🏢 **Owner** at **[Wandercode](https://www.wandercode.ltd)**: Fractional AI Product Strategist helping startups and high-growth companies build intelligent products and adopt AI-driven engineering practices.
+- 🤖 Embedded as **AI Product Engineer** (Change Agents) and **AI SDLC Engineer** (Bonsai Labs): shipping AI agents and making agentic delivery the team default.
 - 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
 - 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
 - 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.

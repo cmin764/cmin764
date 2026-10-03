@@ -26,6 +26,7 @@ Romania (home), Cyprus (business hub). Also lived/worked in USA, Switzerland (Zu
 | Period | Role | Company | Location | Industry |
 |--------|------|---------|----------|----------|
 | Jul 2026 - Present | AI Product Engineer | Change Agents | Remote | AI/Product |
+| Oct 2026 - Present | AI SDLC Engineer | Bonsai Labs | Remote | AI/DevTools |
 | Feb 2025 - Present | Owner | Wandercode | Hong Kong | AI/Consulting |
 | Nov 2024 - Present | Co-Founder | NoMoreApply | Cyprus | HR/Community |
 | Nov 2023 - Jul 2024 | Software Engineering Lead | Sema4.ai | USA (remote) | AI/Automation |
@@ -121,11 +122,20 @@ Ratings across five review cycles, all at Greatly Exceeds Expectations or above:
 
 **Mentorship:**
 
-- **[Young Founders School (YFS)](https://www.youngfoundersschool.com/)** — Mentored Iciar Mendieta (Spain) through a 4-week virtual internship (Oct-Nov 2025) exploring "Reimagining Online Interviews: Designing the Future of Trust and Human Connection in Remote Hiring." Shared lessons from consulting and entrepreneurship on career, hiring, and life — encouraging AI as a fair collaborator rather than a surveillance tool, even during interviews. Iciar delivered a final pitch to the Wandercode team and earned a recommendation for IE University's Junior Advisory Board.
+- **[Young Founders School (YFS)](https://www.youngfoundersschool.com/)** — Two cohorts. Mentored Iciar Mendieta (Spain) through a 4-week virtual internship (Oct-Nov 2025) exploring "Reimagining Online Interviews: Designing the Future of Trust and Human Connection in Remote Hiring." Shared lessons from consulting and entrepreneurship on career, hiring, and life — encouraging AI as a fair collaborator rather than a surveillance tool, even during interviews. Iciar delivered a final pitch to the Wandercode team and earned a recommendation for IE University's Junior Advisory Board.
+- **Young Founders School, second cohort (May-Jun 2026):** Mentored Kavya (India) through a 4-week virtual internship on AI and medtech in healthcare, focused on early disease detection. Kavya delivered a final pitch deck and demo, and YFS sent a certificate of appreciation (Aug 2026).
 
 ---
 
 ## What I'm Building Now
+
+### How I Operate with AI
+
+- **Built here first, on personal time.** The dev-workflow package (10 agent roles, 7 skills, 3 team shapes) lives in a private, all-rights-reserved repo, not extracted from client work.
+- **Roles with limits.** Reviewers never write production code, and tool grants are enforced at runtime, not by prompt.
+- **Symlinked, never copied.** It installs into client repos as symlinks, so the client binds its own tracker and the method stays licensed.
+- **Blugen flow.** Research, human-approved blueprint, wireframe, implementation, confidence-driven tests, human review and PR. Humans own merges and public text. A capped multi-agent review loop catches what the author misses.
+- **Client hygiene.** A CI denylist keeps client names out of public code. Each client gets an isolated Claude profile and git identity.
 
 ### Strategic Positioning
 
@@ -139,11 +149,13 @@ Angel Squad (Hustle Fund) application marks the shift from selling time to deplo
 
 **The nomad pattern as strategy:** proving "I am the product, not my location", 50+ countries while working full-time.
 
-**Blugen:**
+**Blugen™: blueprint-first AI development:**
 
-Blueprint-driven code generation (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable and licensable to client engagements as background methodology, distinct from client-specific deliverables. Selling outcomes, not hours.
+Blueprint-driven AI development (Claude Code + Cursor + MCPs). AI amplifies systematized thinking. Teachable and licensable to client engagements as background methodology, distinct from client-specific deliverables. Selling outcomes, not hours.
 
-The core paradox: AI code generation is inherently non-deterministic — same prompt, different output every time. Blugen solves this by wrapping non-deterministic generation in deterministic blueprints. The AI improvises within rails. The output is production-grade, reproducible, auditable. That's the IP.
+The core paradox: AI generation is inherently non-deterministic — same prompt, different output every time. Blugen solves this by wrapping non-deterministic generation in deterministic blueprints. The AI improvises within rails. The output is production-grade, reproducible, auditable. That's the IP.
+
+**IP model:** Client-specific work is assigned to the client. Pre-existing methods (Blugen, the agentic dev operating system, the model/prompt/harness playbook, the workshop package) are licensed perpetually and royalty-free, never sold twice. The register is versioned and timestamped with OpenTimestamps: [wandercode.ltd/ip](https://www.wandercode.ltd/ip).
 
 ### Engagements
 
@@ -152,15 +164,16 @@ The core paradox: AI code generation is inherently non-deterministic — same pr
 - **Model:** Fractional AI Product Strategist — "Results as a Service" (outcomes, not hours)
 - **Focus:** Startups and high-growth companies, intelligent products, strategy to production
 - **Industries:** hrtech, fintech, biotech, healthtech, IoT, eCommerce, iGaming
-- **Methodology:** Blugen — blueprint-first code generation. Non-deterministic AI, deterministic outcome.
+- **Methodology:** Blugen™, blueprint-first AI development. Non-deterministic AI, deterministic outcome.
 - **Services:** Technical audits, AI product development, Consultancy & strategy, Workshops & training
 
 **Clients:**
 
+- **Change Agents** (Jul 2026 - Present): AI Product Engineer, full-time embedded, contracted through a separate entity but the same kind of work. AI visibility platform for local SMBs: it audits how a business shows up across ChatGPT, Gemini, Perplexity, Grok and Google, reports the gaps as plain facts, and deploys fixing agents only after the owner approves. Built the measurement pipeline (engine-adapter seam with a versioned registry, five-engine fan-out with failure isolation, retries and degradation, run cost observability) and the owner funnel (business lookup, live audit, report and PDF, a company profile reconciled across sources and confirmed by the owner). Multi-tenant Postgres with forced RLS and hardened tenant isolation. Set up the engineering system: spec-driven workflow, Linear conventions and skills, PR-convergence tooling, import-linter contracts in CI. 117 PRs authored and 68 reviewed in about 3 months. Python 3.14 uv monorepo, FastAPI, Postgres on RDS, Terraform/AWS, Stripe. Delivered Iteration 0 (Jul to Aug), now on the MVP (target 31 Oct).
+- **Bonsai Labs** (Oct 2026 - Present): AI SDLC Engineer, half consultant, half builder, for a US enterprise fintech (six engineering teams, brownfield .NET). Discovery covers the existing agent harness and a baseline from delivery scorecards, ending in a go/no-go. Then embedded with one team on agent-driven QA test planning and execution, and on the harness as the default ticket-to-PR flow, with humans on review and release. Handover is a playbook plus a named owner. Target: 2 to 3x delivery speed at the same quality, with cost per feature tracked.
 - **Dentio** (Feb 2026): Dental software startup scaling desktop EHR automation across Europe. Technical audit and strategic advisory working closely with the CTO: architecture review, stack analysis, risk register, framework blueprint, phased roadmap. First pure audit engagement for Wandercode, strategy and architecture, no implementation.
 - **VONQ** (Jun 2025 - Feb 2026): Recruitment marketing platform distributing jobs to thousands of channels via ATS integrations. Embedded as a fractional engineer across multiple product streams, Python/Django and React. Also drove AI-adoption by example: agent-briefing standards, engineers experimenting with Claude Code and Cursor on their own.
 - **A5 Labs** (Jan - Jul 2025): ML/AI for competitive online gaming. Python/FastAPI + C++ inference server for GTO/RL poker strategies.
-- **Change Agents** (Jul 2026 - Present): AI Product Engineer. Product and startup fit, agent architecture and scaling.
 
 **NoMoreApply (Co-Founder):**
 
@@ -272,6 +285,8 @@ The structure actually used across every serious opportunity conversation, recon
 - **I don't work for companies — I work with people** — The engagement is peer-to-peer. If you see me as a vendor, we're already misaligned. I partner with professionals who understand my value and want me invested in their outcome.
 - **Show, don't mandate AI adoption** — Proving the value through continuous results, not policy. When the team sees weeks compressed into minutes, adoption follows naturally. Culture shifts through evidence, not evangelism.
 - **Don't be a people pleaser** — Trying to find a middle ground between every stakeholder delays delivery. Gather input, then make a call. Indecision disguised as diplomacy is still indecision.
+
+- **Prove it on their tickets**: Win over skeptical engineers with results on their own work, not demos. A shipped PR on their backlog beats any slide.
 
 **On Self:**
 
@@ -413,7 +428,7 @@ Node.js, Express, Nest, gRPC, Protocol Buffers
 
 Claude Code, MCP (Model Context Protocol), Cursor
 
-**AI Workflow Intensity (Nov 2025 - Jan 2026):**
+**AI Workflow Intensity (Nov 2025 - Jan 2026 average):**
 
 | Metric | Monthly Average |
 |--------|-----------------|
@@ -627,4 +642,4 @@ Essays on travel experiences, startup lessons, leadership, and intrapreneurship.
 
 ---
 
-*Last updated: July 2026*
+*Last updated: October 2026*
