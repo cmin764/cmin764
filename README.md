@@ -55,7 +55,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 ## ✨ Highlights
 
 - 🏢 **Owner** at **[Wandercode](https://www.wandercode.ltd)**: Fractional AI Product Strategist helping startups and high-growth companies build intelligent products and adopt AI-driven engineering practices.
-- 🤖 Embedded as **AI Product Engineer** (Change Agents) and **AI SDLC Engineer** (Bonsai Labs): shipping AI agents and making agentic delivery the team default.
+- 🤖 Embedded as **AI SDLC Engineer** (Bonsai Labs) and **AI Product Engineer** (Change Agents): shipping AI agents and making agentic delivery the team default.
 - 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
 - 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
 - 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.

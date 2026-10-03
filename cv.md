@@ -15,7 +15,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
     Sweet spot in regulated industries (hrtech, fintech, biotech, IoT, eCommerce, iGaming). Solid open-source background. Blugen™ (blueprint-first AI development): wrapping non-deterministic AI generation in deterministic blueprints for production-grade, reproducible output. Client work is yours; methods are licensed, never sold twice ([Background IP](https://www.wandercode.ltd/ip)).
 
-    Scale proof: ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
+    Scale proof (Nov 2025 - Jan 2026): ~12,750 AI messages/month, ~3,280 tool calls, ~2B tokens. Systematic agentic workflows, not Copilot usage.
 
     Clients:
 
@@ -174,8 +174,7 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
     - multi-agent orchestration with enforced role boundaries (reviewers never write production code), capped review loops, human-owned merges
     - blueprint-first and spec-driven development: research, approved blueprint, tests, review (Blugen™)
     - AI SDLC transformation: harness assessment, baselines from delivery scorecards, agent-driven QA, ticket-to-PR flows, playbooks and cost per feature
-    - LLM products: OpenAI, Anthropic, Gemini, Perplexity, Grok APIs, LangChain/LangGraph, RAG pipelines, prompt engineering, multi-engine fan-out with failure isolation and run cost observability
-    - AI visibility measurement across ChatGPT, Gemini, Perplexity, Grok and Google
+    - LLM products: OpenAI, Anthropic, Gemini, Perplexity, Grok APIs, LangChain, RAG pipelines, prompt engineering, multi-engine fan-out with failure isolation and run cost observability
     - IP-safe AI delivery: client/method separation, isolated per-client profiles and identities, CI denylists
 
 2. **Python** 2/3, 19 years (13+ professional), on Mac/Linux/Windows involving:
@@ -308,4 +307,4 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 - E-mail: [cmin764@gmail.com](mailto:cmin764@gmail.com)
 - Handles: cmin / cmin764
 
-> *Updated on 10 Jun 2026, fixed links* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
+> *Updated on 10 Jun 2026, new engagements* ([latest version](https://cmin764.github.io/cmin764/cv.pdf))
