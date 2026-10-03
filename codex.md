@@ -134,7 +134,7 @@ Ratings across five review cycles, all at Greatly Exceeds Expectations or above:
 
 - **Built here first, on personal time.** The dev-workflow package (10 agent roles, 7 skills, 3 team shapes) lives in a private, all-rights-reserved repo, not extracted from client work.
 - **Roles with limits.** Reviewers never write production code, and tool grants are enforced at runtime, not by prompt.
-- **Symlinked, never copied.** It installs into client repos as symlinks, so the client binds its own tracker and the method stays licensed.
+- **Installed, then adapted.** It goes into client repos so the client binds its own tracker. Client-specific adaptations are client work; the method stays licensed.
 - **Blugen flow.** Research, human-approved blueprint, wireframe, implementation, confidence-driven tests, human review and PR. Humans own merges and public text. A capped multi-agent review loop catches what the author misses.
 - **Client hygiene.** A CI denylist keeps client names out of public code. Each client gets an isolated Claude profile and git identity.
 
