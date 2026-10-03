@@ -168,11 +168,74 @@ Fractional AI product strategist with 13+ years of Python and a decade in startu
 
 ## III. Knowledge
 
-- **AI & agents:** Claude Code, Cursor, MCP, multi-agent orchestration, LangChain/LangGraph, RAG, OpenAI/Anthropic APIs
-- **Python (19 yrs):** FastAPI, Django, Flask, Pydantic, SQLAlchemy, asyncio, pytest
-- **Data:** PostgreSQL (RLS, PostGIS), Redis, Elasticsearch, MongoDB
-- **Infra:** Docker, Kubernetes, Terraform, AWS, GCP, GitHub Actions
-- **Also:** TypeScript, React/Next.js, Go, C/C++, security (malware research, pentesting, steganography)
+1. **AI & agentic engineering**, daily driver since 2025, from strategy to production:
+
+    - agentic dev tooling: Claude Code, Cursor, MCP (Model Context Protocol), custom skills, hooks, and sub-agents
+    - multi-agent orchestration with enforced role boundaries (reviewers never write production code), capped review loops, human-owned merges
+    - blueprint-first and spec-driven development: research, approved blueprint, tests, review (Blugen™)
+    - AI SDLC transformation: harness assessment, baselines from delivery scorecards, agent-driven QA, ticket-to-PR flows, playbooks and cost per feature
+    - LLM products: OpenAI, Anthropic, Gemini, Perplexity, Grok APIs, LangChain/LangGraph, RAG pipelines, prompt engineering, multi-engine fan-out with failure isolation and run cost observability
+    - AI visibility measurement across ChatGPT, Gemini, Perplexity, Grok and Google
+    - IP-safe AI delivery: client/method separation, isolated per-client profiles and identities, CI denylists
+
+2. **Python** 2/3, 19 years (13+ professional), on Mac/Linux/Windows involving:
+
+    - AI-driven automation for the enterprise
+        - LLM integration: OpenAI, Anthropic, LangChain, RAG pipelines, prompt engineering
+    - RPA with Robot Framework for the end user
+        - rpaframework/robocorp, Action Server, Selenium/Playwright, OCR, IDP
+    - web services and APIs with frameworks & concepts like:
+        - FastAPI (Pydantic, OpenAPI, OIDC), Jinja UIs
+        - Flask (MVT, REST, WebSocket)
+        - Django, webapp2, CherryPy
+        - Starlette (async), asyncio
+    - ORMs (SQLModel, SQLAlchemy, Peewee, PonyORM) over databases (Alembic):
+        - NoSQL: Datastore (Bigtable), Redis, Elasticsearch, MongoDB
+        - SQL: PostgreSQL (forced row-level security, multi-tenancy, PostGIS), MySQL, SQLite
+    - modern Python 3.14 monorepos with uv, enforced module boundaries (import-linter) and contract-based adapters
+    - deep use of the standard library and language reference
+    - software architecture, OOP, and design patterns
+    - distributed systems, parallel computing and inter-process communication (dramatiq, arq, celery, gRPC/Protocol Buffers)
+    - data scraping, analysis, computation and modeling on multiple nodes
+    - regular expressions and optimal data sharding & storing procedures
+    - GUI programming in Tkinter and NUI with Kivy
+    - coding conventions (PEP8), documentation (Google/Sphinx), packaging (PyInstaller)
+    - unit-testing & mocking (pytest, unittest, nose), TDD/BDD, formatting & linting/typing (isort, black, ruff, flake8, pylint, mypy), CI/CD (GitHub Actions)
+    - black magic under metaclasses, decorators, generators, coroutines, closures, context managers, MRO etc.
+    - focus on data science with: numpy, pandas, scipy, scikit-learn, matplotlib, jupyter
+    - environment management: uv, poetry, pyenv, virtualenv, conda
+    - solving challenges on checkio.org, wechall.net
+
+3. **C/C++**, 4 years mostly under Linux, but some Windows flavor too:
+
+    - C standard library and C++ STL
+    - (re)implementing, using and combining data structures
+    - algorithms regarding graphs, dynamic programming, greedy, backtracking and optimization approaches
+    - Linux sockets and OS related utilities
+    - Windows API paradigm
+    - C++ inference servers (game theory and reinforcement learning strategies)
+    - solving challenges on: TopCoder, Codeforces, SPOJ (international contests)
+
+4. **Security**:
+
+    - multi-tenant isolation and abuse protection (per-source, per-business, per-engine rate limits)
+    - web vulnerabilities: LFI, RFI, SQLi, XSS, CSRF
+    - steganography and applied methods of stable information concealing/revealing via image and PDF files
+    - cryptanalysis, (a)symmetric encryption, encoding/decoding, and hashing algorithms
+    - desktop application vulnerabilities and exploits
+    - reverse engineering and static analysis of executables (IDA)
+    - malware researching
+
+5. **Exposure**:
+
+    - Front-end: React/Next.js, HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
+    - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
+    - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
+    - Occasionally: Go, Java, ASM
+    - Cloud: AWS (Fargate, RDS, SES), Terraform, Google Cloud (App Engine, Firestore, Functions, Tasks, Crons, APIs), Heroku, Vercel
+    - Deployment: Docker, Compose, Swarm, Kubernetes (Helm)
+    - Payments and delivery: Stripe, GitHub Actions, CodeRabbit, Linear (spec-driven tickets, weekly cycles)
+    - Tools: PyCharm, VSCode, Vim, Git (git-flow, Actions), gunicorn/uvicorn, nginx, docker[-compose], kubectl, invoke, fabric
 
 ## IV. Bragging Rights
 
