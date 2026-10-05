@@ -75,11 +75,11 @@ System design, tech breakdowns, and impact stories across professional work, ven
 
 Covering professional work (VONQ, Sema4.ai, A5 Labs), active ventures (Wandercode, NoMoreApply), startup trials (Traced AI, TrueStory), and open-source showcases.
 
-## 💡 Now
+## 💡 What I'm exploring
 
-- 🔍 **Traced AI**: tamper-evident records of AI decisions.
-- 🤖 **Agentic SDLC** with enterprise teams.
-- 🤝 **NoMoreApply**: growing the trusted engineer network.
+- 🌱 **Systems Design**: Microservices orchestration in distributed systems.
+- 🤖 **Generative AI**: LLM/GPT applications and agentic product development.
+- 💼 **Leadership**: Building autonomous teams that ship without friction.
 
 ---
 
