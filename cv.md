@@ -229,7 +229,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
 5. **Exposure**:
 
-    - Front-end: React/Next.js (live sites: nomads-nest, portfolio, wandercode, traced-ai), HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
+    - Front-end: React/Next.js, HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
     - Backend: TypeScript, Node.js, Express.js, Prisma, NestJS
     - Automation: Robot Framework, Shell (Bash, Batch, PowerShell), AutoIt
     - Occasionally: Go, Java, ASM
