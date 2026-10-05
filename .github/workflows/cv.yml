@@ -3,7 +3,7 @@ name: Build CV PDF
 on:
   push:
     branches: [main]
-    paths: [cv.md]
+    paths: [cv.md, cv-footer.tex]
   workflow_dispatch:
 
 permissions:
@@ -17,15 +17,10 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Update timestamp
-        run: |
-          DATE=$(date +'%d %b %Y')
-          sed -i "s/Updated on [0-9]\{1,2\} [A-Za-z]\{3\} [0-9]\{4\}/Updated on $DATE/" cv.md
-
       - name: Build PDF
         uses: docker://pandoc/extra:latest
         with:
-          args: cv.md -o cv.pdf --pdf-engine=xelatex
+          args: cv.md -o cv.pdf --pdf-engine=xelatex -V geometry:margin=2cm -V title-meta="Cosmin Poieana - CV" -V author-meta="Cosmin Poieana" -V colorlinks -V urlcolor=blue -V lang=en -H cv-footer.tex
 
       - name: Upload artifact
         uses: actions/upload-artifact@v7

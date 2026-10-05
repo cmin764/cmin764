@@ -2,7 +2,7 @@
 
 ## 2026
 
-### August-September
+### August-October
 - **14 Aug - ongoing**: 🇷🇴 Romania
 
 ### July-August
