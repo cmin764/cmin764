@@ -87,5 +87,5 @@ Covering professional work (VONQ, Sema4.ai, A5 Labs), active ventures (Wandercod
 
 - **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
 - **[Alignment](https://tally.so/r/w4vQ6X)** | **[Cal](https://cal.com/wandercode/discovery-call)**
-- **[Nomads](https://nomads.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)**
+- **[Nomads](https://nomads.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)** | **[Medium](https://cmin764.medium.com)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
