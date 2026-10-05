@@ -21,7 +21,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 - **Core**: Python (FastAPI/Flask, SQLModel)
 - **Secondary**: Go, TypeScript (Node.js, Express.js/NestJS, Prisma), C/C++
-- **Communication**: REST, WebSocket, gRPC
+- **Communication**: REST, WebSocket, gRPC, queues (Rabbit|ZeroMQ)
 
 ### Frontend
 
@@ -35,8 +35,9 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 ### DevOps & Cloud
 
-- Docker, Compose/Swarm, Kubernetes (Helm), Terraform
+- Docker, Compose/Swarm, Kubernetes (Helm), Terraform, ArgoCD
 - AWS, GCP (App Engine, Functions, Firestore), Heroku, Vercel
+- Prometheus, Grafana (Loki, Tempo)
 
 ### How I Work
 
