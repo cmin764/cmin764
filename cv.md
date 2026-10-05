@@ -312,4 +312,5 @@ Human beings aren't meant for tedious repetitive tasks. We're more creative than
 
 - Wandercode: [https://www.wandercode.ltd/contact](https://www.wandercode.ltd/contact)
 - E-mail: [cmin764@gmail.com](mailto:cmin764@gmail.com)
+- Phone: [+40 756260927](tel:+40756260927)
 - Handles: cmin / cmin764
