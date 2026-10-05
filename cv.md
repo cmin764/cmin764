@@ -35,7 +35,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
     - Building a vetted network where peer recommendations replace interview theater and multi-stage hiring processes.
     - Running the operational backbone: contracts, referral agreements, member vetting, interview standards, and tax guidance for digital nomads.
 
-3. *Software Engineering Lead* @ **[Sema4.ai](https://sema4.ai/)**, USA: Nov 2023 - Jul 2024
+3. *Software Engineering Lead* @ **[Sema4.ai](https://sema4.ai/)**, USA: Nov 2023 - Jul 2024 (9 months)
 
     Led a team of 5 Python engineers building [AI Actions](https://github.com/Sema4AI/gallery) through OpenGPT-powered Agents. At the core, an [Action Server](https://github.com/Sema4AI/actions) on FastAPI discovers and runs action packages in isolation, pure Python logic over internal and external resources. The "hands & legs" of the AI: execution after reasoning.
 
@@ -48,7 +48,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Built a subteam around Python development and CI/CD best practices. Navigated a turbulent Python-only pivot while mediating opposing technical views from senior engineers and keeping delivery on track. Grew as a manager: reducing friction, nurturing autonomy, keeping the roadmap flexible through constant product shifts. Led from Nov 2023 at Robocorp, continuing at Sema4.ai after the Jan 2024 acquisition.
 
-4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023
+4. *Senior Software Engineer* @ **[Robocorp](https://github.com/robocorp)**, Finland: Sep 2021 - Oct 2023 (2 years 2 months)
 
     Open-source automation through developer tools and Python libraries. 10k-user community enabling citizen developers to automate their work through code.
 
@@ -60,7 +60,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Sharpened RPA skills, learned to prioritize ruthlessly, and communicate with empathy without losing directness. The culture stuck with me.
 
-5. *Senior Software Engineer* @ **[Gorgias](https://www.gorgias.com/)**, USA: Jan 2021 - May 2021
+5. *Senior Software Engineer* @ **[Gorgias](https://www.gorgias.com/)**, USA: Jan 2021 - May 2021 (5 months)
 
     Authorization server in Flask with authlib implementing OAuth2 Authorization Code Grant, enabling external developers to build 3rd-party apps. Getting quickly to "no" on long-term decisions was key. Speed of conviction won partners over the competition.
 
@@ -70,7 +70,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Great culture and transparency, but the sole focus was customer impact & support.
 
-6. *Tech Lead* @ **[Comfy](http://comfyapp.com/)**, USA: Jul 2019 - Dec 2020
+6. *Tech Lead* @ **[Comfy](http://comfyapp.com/)**, USA: Jul 2019 - Dec 2020 (1 year 6 months)
 
     Smart buildings IoT startup. Led by example in a fast-moving environment. Partners automated square kilometers of office campuses through our platform.
 
@@ -82,7 +82,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Worked through the post-acquisition integration into Siemens across timezones and cultures.
 
-7. *Software Engineer* @ **[Fashwell](https://www.venturelab.swiss/Fashwell)**, Switzerland: Aug 2018 - Nov 2018
+7. *Software Engineer* @ **[Fashwell](https://www.venturelab.swiss/Fashwell)**, Switzerland: Aug 2018 - Nov 2018 (4 months)
 
     ML-powered fashion and furniture detection in milliseconds. Planned, built, and deployed features for API services. Python web apps on Kubernetes in Google Cloud.
 
@@ -92,7 +92,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Improved service reliability through proper rate limiting and fixed auth-side bugs. Great team, later acquired by Apple.
 
-8. *Back End Developer* @ **[ArcanaBio](https://www.arcanabio.com/)**, Iceland: Apr 2018 - Apr 2019
+8. *Back End Developer* @ **[ArcanaBio](https://www.arcanabio.com/)**, Iceland: Apr 2018 - Apr 2019 (1 year 1 month)
 
     Biotech startup spun out of TeqHire. Built tools for detecting organisms in DNA samples. High-stakes work where accuracy matters. Learned to own problems end-to-end and communicate directly with clients.
 
@@ -101,7 +101,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Pivoted from full-time dev to part-time lead managing brainstorms, tasks, and docs.
 
-9. *Python DevOps* @ **[TeqHire](https://www.teqhire.com/)**, Iceland: Oct 2016 - Apr 2018
+9. *Python DevOps* @ **[TeqHire](https://www.teqhire.com/)**, Iceland: Oct 2016 - Apr 2018 (1 year 7 months)
 
     One-man army. Full autonomy from the co-founders: proposing, scoping, building, deploying, and maintaining features end-to-end.
 
@@ -112,7 +112,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Built connections with sharp people globally, entrepreneurs and CEOs who shaped how I think about building things.
 
-10. *Full Stack Developer* @ **[47FARMS](https://www.f6s.com/company/47farms)**, USA: Mar 2016 - Oct 2016
+10. *Full Stack Developer* @ **[47FARMS](https://www.f6s.com/company/47farms)**, USA: Mar 2016 - Oct 2016 (8 months)
 
     Local food systems startup in Princeton. Built tech connecting communities with local producers: restaurant, school, and hospital programs for healthier food access.
 
@@ -123,7 +123,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     Qualified to pitch at Wolves Summit and applied for state grants. Diplomacy and discipline win over cleverness.
 
-11. *Operational Researcher* @ **[Reckon Digital](https://reckondigital.com/)**, UK: Jan 2016 - Feb 2016
+11. *Operational Researcher* @ **[Reckon Digital](https://reckondigital.com/)**, UK: Jan 2016 - Feb 2016 (2 months)
 
     Built a scheduling service for GE wind turbine testing. Moving massive engines between workbenches is expensive. The digital scheduler cut costs significantly.
 
@@ -131,7 +131,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     First Django project. Sharpened DevOps skills with Fabric.
 
-12. *Cloud Engineer* @ **[Cloudbase Solutions](https://cloudbase.it/)**, Romania: Oct 2014 - Dec 2015
+12. *Cloud Engineer* @ **[Cloudbase Solutions](https://cloudbase.it/)**, Romania: Oct 2014 - Dec 2015 (1 year 3 months)
 
     Open-source cloud infrastructure with Microsoft as a key client. Built *cloudbase-init*, a Windows instance initialization service for OpenStack. Contributed patches upstream and helped users globally with IaaS deployments.
 
@@ -141,7 +141,7 @@ Fractional AI product strategist with Python since 2007, 14+ years shipping prof
 
     First international talk at EuroPython (Argus framework). Helped establish the company's Iași office.
 
-13. *Malware Researcher* @ **[Bitdefender](https://www.bitdefender.com/)**, Romania: Feb 2013 - Sep 2014
+13. *Malware Researcher* @ **[Bitdefender](https://www.bitdefender.com/)**, Romania: Feb 2013 - Sep 2014 (1 year 8 months)
 
     First job out of college at the world's top antivirus company. Distributed systems for parallel data processing and threat analysis. High-stakes security from day one.
 
