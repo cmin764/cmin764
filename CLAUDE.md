@@ -19,7 +19,7 @@ travel.md  (independent)
 
 2. **`cv.md`** is a curated distillation of `codex.md`. Keep it focused: relevant experience, credentials, stack. When new engagements, skills, or achievements land in `codex.md`, assess what belongs in the CV and update accordingly.
 
-3. **`README.md`** is the public-facing surface. Rendered at `github.com/cmin764`. Extract only the essential from `cv.md` — current role, stack highlights, notable links. It is a teaser, not a biography.
+3. **`README.md`** is the public-facing surface. Rendered at `github.com/cmin764`. Extract only the essential from `cv.md`, current role, stack highlights, notable links. It is a teaser, not a biography.
 
 4. **`travel.md`** is an independent ledger of countries and date ranges visited. Update it when travel changes. The country count at the bottom should stay in sync with the list.
 
@@ -27,22 +27,27 @@ travel.md  (independent)
 
 Defined in `.github/workflows/cv.yml`. Two jobs: `build` then `deploy`.
 
-**Triggers:** push to `main` touching `cv.md`, or manual `workflow_dispatch`.
+**Triggers:** push to `main` touching `cv.md` or `cv-footer.tex`, or manual `workflow_dispatch`.
 
 **Build job:**
 1. Checks out the repo.
-2. Injects today's date into `cv.md` via `sed` (replaces the `Updated on DD Mon YYYY` pattern). This happens only inside the CI runner — it does not commit back to the repo. The local file is never modified.
-3. Runs `pandoc cv.md -o cv.pdf --pdf-engine=xelatex` via the `pandoc/extra:latest` Docker image.
-4. Uploads `cv.pdf` as a build artifact.
-5. Uploads the **entire repo directory** (`.`) as the GitHub Pages artifact — so all files (`cv.md`, `cv.pdf`, `travel.md`, etc.) are served from the Pages site.
+2. Runs `pandoc cv.md -o cv.pdf --pdf-engine=xelatex` (margins, PDF metadata, link colors, `-H cv-footer.tex`) via the `pandoc/extra:latest` Docker image. The footer in `cv-footer.tex` stamps the build date with `\today` and links to the latest version.
+3. Uploads `cv.pdf` as a build artifact.
+4. Uploads the **entire repo directory** (`.`) as the GitHub Pages artifact, so all files (`cv.md`, `cv.pdf`, `travel.md`, etc.) are served from the Pages site.
 
 **Deploy job:** deploys the Pages artifact. The CV PDF is then publicly accessible at:
 `https://cmin764.github.io/cmin764/cv.pdf`
 
 To trigger a rebuild without editing CV content, use `workflow_dispatch` from the Actions tab or make a whitespace change to `cv.md`.
 
+## Canonical Facts and Mirrors
+
+`codex.md` holds the canonical facts (dates, titles, years, acquisitions). These surfaces mirror the CV, so grep them whenever a fact changes: LinkedIn, `~/Work/cmin764/wandercode`, `~/Work/cmin764/portfolio/src/data/projects.ts` and `~/Work/NoMoreApply/services/sources/cosmin-poieana.md`.
+
 ## Conventions
 
+- CV is open for extension, closed for change: no numbers that need re-editing over time (PR counts, token stats, "N years" beyond the fixed ones). Each term appears once. Employer and client names are bold links. Lists run newest first.
+- Never use em dashes in any file.
 - No trailing AI signatures in commit messages.
 - When updating `cv.md`, check whether `README.md` needs a corresponding surface-level change (current role, stack, links).
-- `codex.md` can hold sensitive or unpolished context — it is not rendered anywhere prominent, but it is public. Keep personal contact details and anything not meant for public indexing out of it.
+- `codex.md` can hold sensitive or unpolished context, it is not rendered anywhere prominent, but it is public. Keep personal contact details and anything not meant for public indexing out of it.
