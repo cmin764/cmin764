@@ -2,7 +2,7 @@
 
 ## 🚀 *Engineer at core | Entrepreneur at heart*
 
-Building intelligent products and automation for startups and fast-moving teams. A [digital nomad](./travel.md) (50+ countries) with 19+ years of Python. Technical depth in service of outcomes, not process.
+Building intelligent products and automation for startups and fast-moving teams. A [digital nomad](./travel.md) (50+ countries) with Python since 2007. Technical depth in service of outcomes, not process.
 
 🌟 *"Human beings are not meant to sink in tedious repetitive tasks. We're more creative than that."*
 
@@ -14,19 +14,19 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 ### AI & Automation
 
-- LLM/GPT integration, Robot Framework, RPA libraries
-- Web/desktop automation, OCR, intelligent document processing
+- Agent harnesses (Claude Code, Cursor, MCP), multi-agent workflows, RAG and LLM APIs
+- Robot Framework, RPA libraries, web/desktop automation, OCR, intelligent document processing
 
 ### Backend
 
 - **Core**: Python (FastAPI/Flask, SQLModel)
 - **Secondary**: Go, TypeScript (Node.js, Express.js/NestJS, Prisma), C/C++
-- **Communication**: REST, WebSocket, GraphQL, gRPC, Rabbit|ZeroMQ, Kafka
+- **Communication**: REST, WebSocket, gRPC
 
 ### Frontend
 
-- **Core**: HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap/Tailwind
-- **Secondary**: React/Next.js
+- **Core**: React/Next.js, Tailwind
+- **Secondary**: HTML + Jinja2, JavaScript, CSS + Bootstrap
 
 ### Databases
 
@@ -35,18 +35,17 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 ### DevOps & Cloud
 
-- Docker, Compose/Swarm, Kubernetes (Helm), Terraform, ArgoCD
+- Docker, Compose/Swarm, Kubernetes (Helm), Terraform
 - AWS, GCP (App Engine, Functions, Firestore), Heroku, Vercel
-- OpenTelemetry, Prometheus, Grafana (Loki, Tempo)
 
 ### How I Work
 
 - **Embedded operator:** I integrate into your Slack, GitHub, standups. Not a vendor on the outside; part of the team without the payroll.
-- **Blueprint-first:** Research, plan, execute. Front-load the design with AI tooling so code ships with confidence.
+- **Spec-driven, blueprint-first:** Research, approved blueprint, tests, review. Front-load the design so agent-written code ships with confidence.
 - **Value over hours:** Outcomes-based pricing tied to business impact. Expertise creates compression, not expansion.
 - **Fast iterations:** Ship early, gather feedback, refine. Small batches over big bangs.
 - **Your IP stays yours:** Client work is assigned to the client; my methods are licensed, never sold twice ([Background IP](https://www.wandercode.ltd/ip)).
-- **AI culture catalyst:** I don't just use AI tools — I bring the team along. Shared conventions, live results over policy memos, and engineering practices that outlast my engagement.
+- **AI culture catalyst:** I don't just use AI tools, I bring the team along. Shared conventions, live results over policy memos, and engineering practices that outlast my engagement.
 
 [Tool preferences](./codex.md#tool-preferences)
 
@@ -55,15 +54,16 @@ Building intelligent products and automation for startups and fast-moving teams.
 ## ✨ Highlights
 
 - 🏢 **Owner** at **[Wandercode](https://www.wandercode.ltd)**: Fractional AI Product Strategist helping startups and high-growth companies build intelligent products and adopt AI-driven engineering practices.
-- 🤖 Embedded as **AI SDLC Engineer** ([Bonsai Labs](https://bonsai-labs.com/)) and **AI Product Engineer** ([Change Agents](https://changeagentscorp.com/)): shipping AI agents and making agentic delivery the team default.
-- 📈 Embedded as fractional engineer at [VONQ](https://www.vonq.com/), a recruitment marketing platform with 5,000+ job channels: drove AI adoption across the team with Claude and Cursor workflows and multi-agent code review.
+- 🤖 **AI SDLC Engineer** deployed through [Bonsai Labs](https://bonsai-labs.com/) on short client engagements, and **AI Product Engineer** at [Change Agents](https://changeagentscorp.com/): shipping AI agents and making agentic delivery the team default.
+- 🔍 Founded **[Traced AI](https://www.traced-ai.com/)**: tamper-evident evidence of AI decisions for EU AI Act compliance.
+- 📈 Fractional engineer at [VONQ](https://www.vonq.com/), a recruitment marketing platform: built the Meeting Assistant, an AI agent that coaches interviewers live in Google Meet, and drove AI adoption across the team.
 - ♠️ Built Python/FastAPI services and a C++ inference server at [A5 Labs](https://a5labs.co/), delivering Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
 - 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
 - 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
 - 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.
 - 📱 Laid the foundations of a developer-focused App Store with OAuth2 support at **Gorgias**.
 - 🌐 Developed scalable gRPC-based APIs with a reverse-proxy transcoder at **Comfy**, enabling language-agnostic microservices for smart buildings.
-- 🎙️ International speaker at **EuroPython** and other tech events.
+- 🎙️ Speaker at **EuroPython 2015** and Romanian Python/security conferences.
 - 📖 Contributor to open-source and advocate for ethical humanized AI.
 
 ## 📌 Portfolio
@@ -74,11 +74,11 @@ System design, tech breakdowns, and impact stories across professional work, ven
 
 Covering professional work (VONQ, Sema4.ai, A5 Labs), active ventures (Wandercode, NoMoreApply), startup trials (Traced AI, TrueStory), and open-source showcases.
 
-## 💡 What I'm exploring
+## 💡 Now
 
-- 🌱 **Systems Design**: Microservices orchestration in distributed systems.
-- 🤖 **Generative AI**: LLM/GPT applications and agentic product development.
-- 💼 **Leadership**: Building autonomous teams that ship without friction.
+- 🔍 **Traced AI**: evidence infrastructure for AI decisions.
+- 🤖 **Agentic SDLC** with enterprise teams.
+- 🤝 **NoMoreApply**: growing the trusted engineer network.
 
 ---
 
@@ -86,5 +86,5 @@ Covering professional work (VONQ, Sema4.ai, A5 Labs), active ventures (Wandercod
 
 - **[LinkedIn](https://www.linkedin.com/in/cmin764)** | **[CV](https://cmin764.github.io/cmin764/cv.pdf)**
 - **[Alignment](https://tally.so/r/w4vQ6X)** | **[Cal](https://cal.com/wandercode/discovery-call)**
-- **[Nomads](https://nomads.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)** | **[Medium](https://cmin764.medium.com)**
+- **[Nomads](https://nomads.com/@cmin764)** | **[Photography](https://instagram.com/asitisphotos)**
 - [cmin764@gmail.com](mailto:cmin764@gmail.com)
