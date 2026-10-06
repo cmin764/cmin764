@@ -26,7 +26,7 @@ Building intelligent products and automation for startups and fast-moving teams.
 ### Frontend
 
 - **Core**: React/Next.js, Tailwind
-- **Secondary**: HTML + Jinja2, JavaScript, CSS + Bootstrap
+- **Secondary**: HTML + Jinja2, JavaScript + jQuery, CSS + Bootstrap
 
 ### Databases
 
