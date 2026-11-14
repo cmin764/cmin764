@@ -54,17 +54,17 @@ Building intelligent products and automation for startups and fast-moving teams.
 
 ## ✨ Highlights
 
-- 🏢 **Owner** at **[Wandercode](https://www.wandercode.ltd)**: Fractional AI Product Strategist helping startups and high-growth companies build intelligent products and adopt AI-driven engineering practices.
-- 🤖 **AI Product Engineer** at [Change Agents](https://changeagentscorp.com/): co-led an AI visibility platform from first commit to paid production, and built the agent harness that lets two engineers ship like a team. Also **AI SDLC Engineer** through [Bonsai Labs](https://bonsai-labs.com/): took a client team from a few percent to a majority of agent-assisted PRs in five weeks, with every claim verified.
+- 🏢 *Owner* at **[Wandercode](https://www.wandercode.ltd)**: Fractional AI Product Strategist helping startups and high-growth companies build intelligent products and adopt AI-driven engineering practices.
+- 🤖 *AI Product Engineer* at **[Change Agents](https://changeagentscorp.com/)**: co-led an AI visibility platform from first commit to paid production, and built the agent harness that lets two engineers ship like a team. Also *AI SDLC Engineer* through **[Bonsai Labs](https://bonsai-labs.com/)**: took a client team from a few percent to a majority of agent-assisted PRs in five weeks, with every claim verified.
 - 🔍 Founded **[Traced AI](https://www.traced-ai.com/)**: tamper-evident evidence of AI decisions for EU AI Act compliance.
-- 📈 Fractional engineer at [VONQ](https://www.vonq.com/), a recruitment marketing platform: built the Meeting Assistant, an AI agent that coaches interviewers live in Google Meet, and drove AI adoption across the team.
-- ♠️ Built Python/FastAPI services and a C++ inference server at [A5 Labs](https://a5labs.co/), delivering Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
-- 🤝 **Co-Founder** at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
-- 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **Sema4.ai**.
-- 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **Robocorp** to enhance open-source automation.
-- 📱 Laid the foundations of a developer-focused App Store with OAuth2 support at **Gorgias**.
-- 🌐 Developed scalable gRPC-based APIs with a reverse-proxy transcoder at **Comfy**, enabling language-agnostic microservices for smart buildings.
-- 🎙️ Speaker at **EuroPython 2015** and Romanian Python/security conferences.
+- 📈 *Embedded Engineer* at **[VONQ](https://www.vonq.com/)**, a recruitment marketing platform: built the Meeting Assistant, an AI agent that coaches interviewers live in Google Meet, and drove AI adoption across the team.
+- ♠️ *Embedded Engineer* at **[A5 Labs](https://a5labs.co/)**: built Python/FastAPI services and a C++ inference server, delivering Game Theory Optimal (GTO) and reinforcement learning strategies for high-stakes poker tournaments.
+- 🤝 *Co-Founder* at **[NoMoreApply](https://nomoreapply.com)**: Private community for trusted engineers who skip the recruiter.
+- 🧩 Designed and implemented a gallery of [AI Actions](https://github.com/Sema4AI/gallery) for AI-powered automation at **[Sema4.ai](https://sema4.ai/)**.
+- 📦 Published PyPI [RPA libraries](https://github.com/robocorp) at **[Robocorp](https://github.com/robocorp)** to enhance open-source automation.
+- 📱 Laid the foundations of a developer-focused App Store with OAuth2 support at **[Gorgias](https://www.gorgias.com/)**.
+- 🌐 Developed scalable gRPC-based APIs with a reverse-proxy transcoder at **[Comfy](http://comfyapp.com/)**, enabling language-agnostic microservices for smart buildings.
+- 🎙️ Speaker at **[EuroPython 2015](https://ep2015.europython.eu/)** and Romanian Python/security conferences.
 - 📖 Open-source contributor, advocate for ethical, human-centered AI.
 
 ## 📌 Portfolio
